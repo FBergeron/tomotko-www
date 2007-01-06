@@ -6,6 +6,7 @@ html {
     padding:            0;
     background:         #fff;
     color:              #000;
+    font-family:        sans-serif;
 }
 
 body {
@@ -13,13 +14,13 @@ body {
 }
 
 #wrap {
-    background:         #99c;
+    background:         #fff;
     margin:             0 auto;
     width:              750px;
 }
 
 #header {
-    background:         #ddd;
+    background:         #fff;
 }
 
 #main {
@@ -29,13 +30,13 @@ body {
 }
 
 #sidebar {
-    background:         #c9c;
+    background:         #fff;
     float:              right;
-    width:              240px;
+    width:              250px;
 }
 
 #footer {
-    background:         #cc9;
+    background:         #fff;
     clear:              both;
 }
 
@@ -63,5 +64,3 @@ body {
     padding:            5px;
     margin:             0;
 }
-
-
