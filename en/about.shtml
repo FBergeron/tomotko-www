@@ -3,7 +3,7 @@
     "DTD/xhtml1-transitional.dtd">
 <html lang="en">
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="description" content="Homepage of toMOTko">
     <meta name="keywords" content="flashcard,japanese,learning,vocabulary,zaurus" />
     <meta name="copyright" content="Copyright (c) 2006 Frederic Bergeron">
@@ -19,6 +19,10 @@
         <div id="main">
             <h2>About</h2>
             <p>
+            toMOTko is a small Zaurus application for English speakers learning Japanese. 
+            It's a customizable flashcard program that asks words repetitively to acquire new 
+            vocabulary and memorize kanji readings/writings.
+            </p><p>
             toMOTko was born of need for a tool that could run on my 
             PDA and help me to learn/acquire new vocabulary 
             in Japanese and Spanish.  I was tired of using flashcards that
@@ -42,8 +46,9 @@
             repetitively in a way 
             similar to <a href="http://en.wikipedia.org/wiki/Flashcard">Leitner System</a>.  
             The algorithm is not perfect yet but it's already good enough to acquire new vocabulary.
-            It allows the user to add/remove/edit words in a hierarchical structure that is convenient to
-            select groups of words to memorize/learn.  
+            It provides a Glossary Manager that allows the user to add/remove/edit words 
+            in a hierarchical structure that is convenient to efficiciently
+            select or unselect groups of words to memorize/learn.  
             </p><p>
             It presently works on Zaurus SL C-1000 PDA.  
             It should work on similar models (SL serie) as well as any computers with ARM-based 
@@ -74,9 +79,9 @@
             <img src="../img/logo.png" width="260" height="255" alt="toMOTko Logo"/>
             <ul>
                 <li><a href="#">About</a></li>
-                <li><a href="#">SF Project page</a></li>
-                <li><a href="#">SVN repository</a><li>
-                <li><a href="#">Credits</a></li>
+                <li><a href="http://sourceforge.net/projects/tomotko">SF Project page</a></li>
+                <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko/">SVN repository</a></li>
+                <!--li><a href="#">Credits</a></li-->
             </ul>
         </div>
         <div id="footer">

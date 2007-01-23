@@ -3,9 +3,9 @@
     "DTD/xhtml1-transitional.dtd">
 <html lang="en">
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-    <meta name="description" content="Homepage of toMOTko">
-    <meta name="keywords" content="flashcard,japanese,learning,vocabulary,zaurus" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="Site web de toMOTko">
+    <meta name="keywords" content="flashcard,japonais,apprentissage,vocabulaire,zaurus" />
     <meta name="copyright" content="Copyright (c) 2006 Frederic Bergeron">
     <meta name="author" content="Frederic Bergeron">
     <link rel="stylesheet" href="../default.css" type="text/css"/>
@@ -14,60 +14,77 @@
 <body bgcolor="#ffffff">
     <div id="wrap">
         <div id="header">
-            <h1>toMOTko</h1>
+            <img src="../img/tomotkoTitle.png" width="216" height="46" alt="Titre de toMOTko"/>
         </div>
         <div id="main">
-            <h2>About</h2>
+            <h2>À propos</h2>
             <p>
-            toMOTko was born of need for a tool that could run on my 
-            Zaurus C-1000 PDA and help me to learn/acquire new vocabulary 
-            in Japanese and Spanish.  At the same time, I was very curious 
-            about <a href="http://www.trolltech.com/products/qt">Qt</a> library and 
-            <a href="http://www.trolltech.com/products/qtopia">Qtopia</a> environment and had the desire to 
-            do some C++ programming, something I hadn't done for quite a long time.
+            toMOTko est une application utile pour mémoriser/apprendre du vocabulaire pour 
+            une langue seconde.  La version actuelle est ciblée sur l'apprentissage du japonais
+            pour les anglophones mais je prévois éventuellement supporter d'autres langues.
             </p><p>
-            The name of the application is pronounced "to-MO-ko".  It's a common first name
-            for a Japanese woman.  I chose it thinking it would give a more human and nice/cute aspect
-            to my application.
-            So, a user could imagine that Tomoko Sensei is teaching him/her some new vocabulary.  
-            I altered the name slightly to make it special and unique.  Hence, MOT means "word" 
-            in French (my mother tongue).
+            J'étais fatigué de fabriquer des flashcards et de toujours devoir les trainer avec moi
+            (plutôt encombrant).  J'avais aussi tendance à associer les mots avec l'apparence des 
+            flashcards, ce qui me dérangeait plus qu'autre chose.
             </p><p>
-            The application is very simple.  It asks words repetitively in a way 
-            similar to <a href="http://en.wikipedia.org/wiki/Flashcard">Leitner System</a>.  
-            It allows the user to add/remove/edit words.  It works on Zaurus C-1000 PDA.  
-            It should work on similar models as well as any computers with ARM-based 
-            processor using Qt/Qtopia environment.  The development is made on an old Pentium-III
-            laptop running Linux and using QT SDK for cross-compiling.
+            Comme j'étais aussi curieux d'apprendre le fonctionnement de la librairie 
+            <a href="http://www.trolltech.com/products/qt">Qt</a>, de me familiariser avec l'environnement
+            <a href="http://www.trolltech.com/products/qtopia">Qtopia</a> et que
+            j'avais le goût de refaire du C++ (chose que je n'avais pas faite depuis
+            presque 10 ans), j'ai donc décidé de développer toMOTko pour mon PDA.
             </p><p>
-            For the moment, it only supports Japanese-English cards with only 
-            one deck of cards.  But I intend to support other languages (especially Spanish) 
-            and provide functionality to handle more than one deck/group of cards/words.
+            Le nom se prononce "to-MO-ko".  C'est un nom commun pour une Japonaise.
+            J'ai choisi ce nom pour donner un aspect plus humain et plus "cute" à mon
+            application, en autant que celà soit possible.
+            Ainsi, un utilisateur pourrait imaginer (voire fastasmer?) qu'il se fait enseigner
+            du vocabulaire par Tomoko Sensei.
+            J'ai altéré la syntaxe du nom Tomoko pour que l'application se distingue des autres.
+            MOT vient du français et faire référence au fait que toMOTko est une application pour
+            apprendre de nouveaux mots.
             </p><p>
-            Features to implement (ordered by priority) :<br/>
+            L'application est très simple.  Elle demande des mots à répétition de façon semblable à 
+            un <a href="http://fr.wikipedia.org/wiki/Carte_m%C3%A9moire_%28apprentissage%29">Système Leitner</a>.
+            L'algorithme n'est pas encore parfait mais il fonctionne suffisamment bien pour permettre
+            l'apprentissage de nouveaux mots.
+            L'application contient aussi un Gestionnaire de glossaires permettant à l'usager d'ajouter/enlever/éditer
+            des groupes de mots dans une structure hiérarchique pratique pour la sélection or déselection des
+            mots à apprendre.
+            </p><p>
+            toMOTko fonctionne présentement sur les portables PDA Zaurus SL C-1000.  
+            Il devrait aussi fonctionner sur les modèles similaires (de la série SL) ainsi que
+            toute machine dont l'architecture est basée sur un processeur ARM et dont le système supporte
+            Qt/Qtopia.
+            </p><p>
+            Le développement de l'application est fait sur deux vieux ordinateurs qui sont à ma disposition :
+            un laptop Pentium III avec Debian GNU/Linux et un desktop Pentium I avec Ubuntu Breezy Badger.  
+            Naturellement, j'ai installé le SDK de QT sur les deux machines pour pouvoir cross-compiler et
+            bâtir l'application.
+            </p><p>
+            Voici une liste de fonctionnalités à implanter (par priorité) :<br/>
             <ul>
-                <li>Support more than one deck of cards.</li>
-                <li>Keep/restore state when quitting/starting the application.</li>
-                <li>Allow to be asked word from Japanese to English and a mixte mode.</li>
-                <li>Support for other languages (minimally Spanish and French).</li>
+                <li>Préférences : longueur des tests, modes de questionnement.</li>
+                <li>Améliorer l'algorithme du quiz.</li>
+                <li>Écrire la documentation en ligne.</li>
+                <li>Ajouter des boutons pour faciliter la sélection des mots pour le quiz.</li>
+                <li>Statistiques (nombres de mots dans les glossaires, pourcentage de succès et d'echecs, etc.)</li>
+                <li>Importation/exportation des glossaires.</li>
+                <li>Banque de glossaires web pour permettre aux utilisateurs de partager leurs données.</li>
+                <li>Conserver/rétablir l'état de l'application lorsqu'on la ferme/lance.</li>
+                <li>Supporter d'autres langues (au moins le français et l'espagnol).</li>
             </ul>
         </div>
         <div id="sidebar">
+            <img src="../img/logo.png" width="260" height="255" alt="Logo de toMOTko"/>
             <ul>
-                <li><a href="#">About</a></li>
-                <li><a href="#">SF Project page</a></li>
-                <li><a href="#">SVN repository</a><li>
-                <li><a href="#">Credits</a></li>
+                <li><a href="#">À propos</a></li>
+                <li><a href="http://sourceforge.net/projects/tomotko">Page de projet SF</a></li>
+                <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Repository SVN</a></li>
+                <!--li><a href="#">Crédits</a></li-->
             </ul>
         </div>
         <div id="footer">
-            <hr/>
-            <a href="http://validator.w3.org/check/referer"><img src="http://www.w3.org/Icons/valid-xhtml10" 
-                alt="Valid XHTML 1.0!" height="31" width="88" border="0" /></a>
-            <a href="http://sourceforge.net"><img src="http://sourceforge.net/sflogo.php?group_id=181531" 
-                width="88" height="31" border="0" alt="SourceForge Logo" /></a>
+            Dernière modification: <!--#config timefmt="%Y-%m-%d; %H:%M %Z"--><!--#echo var="LAST_MODIFIED"-->;
         </div>
     </div>
 </body>
 </html>
-
