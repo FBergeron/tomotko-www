@@ -34,29 +34,31 @@
             presque 10 ans), j'ai donc décidé de développer toMOTko pour mon PDA.
             </p><p>
             Le nom se prononce "to-MO-ko".  C'est un nom commun pour une Japonaise.
-            J'ai choisi ce nom pour donner un aspect plus humain et plus "cute" à mon
+            J'ai choisi ce nom pour donner un aspect plus "humain" et plus "cute" à mon
             application, en autant que celà soit possible.
-            Ainsi, un utilisateur pourrait imaginer (voire fastasmer?) qu'il se fait enseigner
+            Ainsi, un utilisateur pourrait imaginer (voire fastasmer ;-) qu'il se fait enseigner
             du vocabulaire par Tomoko Sensei.
-            J'ai altéré la syntaxe du nom Tomoko pour que l'application se distingue des autres.
-            MOT vient du français et faire référence au fait que toMOTko est une application pour
+            J'ai altéré la syntaxe du nom Tomoko par soucis de distinction.
+            MOT vient du français (ma langue maternelle) et fait référence 
+            au fait que toMOTko est une application pour
             apprendre de nouveaux mots.
             </p><p>
             L'application est très simple.  Elle demande des mots à répétition de façon semblable à 
             un <a href="http://fr.wikipedia.org/wiki/Carte_m%C3%A9moire_%28apprentissage%29">Système Leitner</a>.
-            L'algorithme n'est pas encore parfait mais il fonctionne suffisamment bien pour permettre
+            L'algorithme n'est pas encore parfait mais il fonctionne suffisamment bien pour faciliter 
             l'apprentissage de nouveaux mots.
             L'application contient aussi un Gestionnaire de glossaires permettant à l'usager d'ajouter/enlever/éditer
-            des groupes de mots dans une structure hiérarchique pratique pour la sélection or déselection des
+            des groupes de mots dans une structure hiérarchique pratique pour la sélection ou déselection des
             mots à apprendre.
             </p><p>
             toMOTko fonctionne présentement sur les portables PDA Zaurus SL C-1000.  
-            Il devrait aussi fonctionner sur les modèles similaires (de la série SL) ainsi que
+            En principe, il devrait aussi fonctionner sur les modèles similaires (de la série SL) ainsi que
             toute machine dont l'architecture est basée sur un processeur ARM et dont le système supporte
             Qt/Qtopia.
             </p><p>
             Le développement de l'application est fait sur deux vieux ordinateurs qui sont à ma disposition :
-            un laptop Pentium III avec Debian GNU/Linux et un desktop Pentium I avec Ubuntu Breezy Badger.  
+            un laptop Pentium III avec <a href="http://www.debian.org">Debian GNU/Linux</a> et un 
+            desktop Pentium I avec <a href="http://www.ubuntu.com">Ubuntu Breezy Badger</a>.  
             Naturellement, j'ai installé le SDK de QT sur les deux machines pour pouvoir cross-compiler et
             bâtir l'application.
             </p><p>
@@ -72,13 +74,20 @@
                 <li>Conserver/rétablir l'état de l'application lorsqu'on la ferme/lance.</li>
                 <li>Supporter d'autres langues (au moins le français et l'espagnol).</li>
             </ul>
+            <p>
+            Vos commentaires, impressions et bugs sont les bienvenus.  Il est suggéré d'utiliser les forums/trackers
+            de la page de projet SF mais vous pouvez m'écrire directement à
+            <br/>
+            <tt>fbergeron [at] users.sourceforge.net</tt>.
+            </p>
         </div>
         <div id="sidebar">
             <img src="../img/logo.png" width="260" height="255" alt="Logo de toMOTko"/>
             <ul>
                 <li><a href="#">À propos</a></li>
+                <li><a href="screenshots.shtml">Aperçu</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">Page de projet SF</a></li>
-                <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Repository SVN</a></li>
+                <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Code source</a></li>
                 <!--li><a href="#">Crédits</a></li-->
             </ul>
         </div>

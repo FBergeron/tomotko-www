@@ -38,6 +38,7 @@ body {
 #footer {
     background:         #fff;
     clear:              both;
+    font-size:          smaller;
 }
 
 #header h1 {
@@ -63,4 +64,8 @@ body {
 #footer p {
     padding:            5px;
     margin:             0;
+}
+
+#screenshotTable {
+    margin: 5px;
 }

@@ -1,0 +1,55 @@
+<!DOCTYPE html 
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "DTD/xhtml1-transitional.dtd">
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="Aperçu de toMOTko">
+    <meta name="keywords" content="flashcard,japonais,apprentissage,vocabulaire,zaurus,aperçu" />
+    <meta name="copyright" content="Copyright (c) 2006 Frederic Bergeron">
+    <meta name="author" content="Frederic Bergeron">
+    <link rel="stylesheet" href="../default.css" type="text/css"/>
+    <title>Aperçu de toMOTko</title>
+</head>
+<body bgcolor="#ffffff">
+    <div id="wrap">
+        <div id="header">
+            <img src="../img/tomotkoTitle.png" width="216" height="46" alt="Titre de toMOTko"/>
+        </div>
+        <div id="main">
+            <h2>Aperçu</h2>
+            <p>Voici quelques copies d'écran de l'application.  Pour voir en gros plan, cliquez sur les images.</p>
+            <table id="screenshotTable">
+                <tr>
+                    <td>
+                        <a href="../img/screenshotQuiz.jpg"><img src="../img/thumbQuiz.jpg" alt="Aperçu du Quiz" width="100" height="75"/></a>
+                    </td>
+                    <td>Quiz</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="../img/screenshotGlossaryManager.jpg"><img src="../img/thumbGlossaryManager.jpg" alt="Aperçu du Gestionnaire de glossaires" width="100" height="75"/></a>
+                    </td>
+                    <td>Gestionnaire de glossaires</td>
+                </tr>
+            </table>
+        </div>
+        <div id="sidebar">
+            <img src="../img/logo.png" width="260" height="255" alt="Logo de toMOTko"/>
+            <ul>
+                <li><a href="about.shtml">À propos</a></li>
+                <li><a href="#">Aperçu</a></li>
+                <li><a href="http://sourceforge.net/projects/tomotko">Page de projet SF</a></li>
+                <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Code source</a></li>
+                <!--li><a href="#">Crédits</a></li-->
+            </ul>
+        </div>
+        <div id="footer">
+            Dernière modification: <!--#config timefmt="%Y-%m-%d; %H:%M %Z"--><!--#echo var="LAST_MODIFIED"-->;
+        </div>
+    </div>
+</body>
+</html>
+
+
+

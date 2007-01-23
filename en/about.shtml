@@ -36,27 +36,28 @@
             do some C++ programming, something I hadn't done for quite a long time (about 10 years).
             </p><p>
             The name of the application is pronounced "to-MO-ko".  It's a common first name
-            for a Japanese woman.  I chose it thinking it would give a more human and nice/cute aspect
+            for a Japanese woman.  I chose it thinking it would give a more "human" and nice/cute aspect
             to my application.
             So, a user could imagine (fantasize?) that Tomoko Sensei is teaching him/her some new vocabulary.  
             I altered the name slightly to make it special and unique.  Hence, MOT means "word" 
-            in French (my mother tongue) as this is what is this application about : words!
+            in French (my mother tongue) as this is what is this application about : words.
             </p><p>
             The application is very simple.  It asks words (or whatever you feel to put in the text fields) 
             repetitively in a way 
             similar to <a href="http://en.wikipedia.org/wiki/Flashcard">Leitner System</a>.  
-            The algorithm is not perfect yet but it's already good enough to acquire new vocabulary.
+            The algorithm is not perfect yet but it's already good enough to facilitate new vocabulary acquisition.
             It provides a Glossary Manager that allows the user to add/remove/edit words 
             in a hierarchical structure that is convenient to efficiciently
             select or unselect groups of words to memorize/learn.  
             </p><p>
             It presently works on Zaurus SL C-1000 PDA.  
-            It should work on similar models (SL serie) as well as any computers with ARM-based 
+            In theory, it should work on similar models (SL serie) as well as any computers with ARM-based 
             processor using Qt/Qtopia environment (but this has never been personally experimented
             and may require modifications in the source code).  
             </p><p>
-            The development is made on two spare computers I have to my disposition : an old Pentium-III
-            laptop running Debian GNU/Linux and an older Pendtium I running Ubuntu Breezy Badger.  
+            The development is made on two spare computers I have at my disposal : an old Pentium-III
+            laptop running <a href="http://www.debian.org">Debian GNU/Linux</a> and an older Pendtium I running 
+            <a href="http://www.ubuntu.com">Ubuntu Breezy Badger</a>.  
             Naturally, I installed QT SDK on both machines for cross-compiling and building the application.
             </p><p>
             For the moment, it only supports Japanese-English.  But I intend to support other 
@@ -74,6 +75,12 @@
                 <li>Keep/restore state when quitting/starting the application.</li>
                 <li>Support for other languages (minimally Spanish and French).</li>
             </ul>
+            <p>
+            Your comments, suggestions or bug reports are welcome.  
+            Please use the Sourceforge's project page for these or send me an email at 
+            <br/>
+            <tt>fbergeron [at] users.sourceforge.net</tt>.
+            </p>
         </div>
         <div id="sidebar">
             <img src="../img/logo.png" width="260" height="255" alt="toMOTko Logo"/>
@@ -81,6 +88,7 @@
                 <li><a href="#">About</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">SF Project page</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko/">SVN repository</a></li>
+                <li><a href="screenshots.shtml">Screenshots</a></li>
                 <!--li><a href="#">Credits</a></li-->
             </ul>
         </div>
