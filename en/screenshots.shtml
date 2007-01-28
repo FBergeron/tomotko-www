@@ -4,10 +4,10 @@
 <html lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="Screenshots of toMOTko">
+    <meta name="description" content="Screenshots of toMOTko" />
     <meta name="keywords" content="flashcard,japanese,learning,vocabulary,zaurus,screenshots" />
-    <meta name="copyright" content="Copyright (c) 2006 Frederic Bergeron">
-    <meta name="author" content="Frederic Bergeron">
+    <meta name="copyright" content="Copyright (c) 2006 Frederic Bergeron" />
+    <meta name="author" content="Frederic Bergeron" />
     <link rel="stylesheet" href="../default.css" type="text/css"/>
     <title>toMOTko's screenshots</title>
 </head>
@@ -38,9 +38,9 @@
             <img src="../img/logo.png" width="260" height="255" alt="toMOTko Logo"/>
             <ul>
                 <li><a href="about.shtml">About</a></li>
+                <li><a href="#">Screenshots</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">SF Project page</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko/">SVN repository</a></li>
-                <li><a href="#">Screenshots</a></li>
                 <!--li><a href="#">Credits</a></li-->
             </ul>
         </div>

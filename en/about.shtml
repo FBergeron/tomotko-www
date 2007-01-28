@@ -4,10 +4,10 @@
 <html lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="Homepage of toMOTko">
+    <meta name="description" content="Homepage of toMOTko" />
     <meta name="keywords" content="flashcard,japanese,learning,vocabulary,zaurus" />
-    <meta name="copyright" content="Copyright (c) 2006 Frederic Bergeron">
-    <meta name="author" content="Frederic Bergeron">
+    <meta name="copyright" content="Copyright (c) 2006 Frederic Bergeron" />
+    <meta name="author" content="Frederic Bergeron" />
     <link rel="stylesheet" href="../default.css" type="text/css"/>
     <title>toMOTko</title>
 </head>
@@ -35,10 +35,10 @@
             <a href="http://www.trolltech.com/products/qtopia">Qtopia</a> environment and had the desire to 
             do some C++ programming, something I hadn't done for quite a long time (about 10 years).
             </p><p>
-            The name of the application is pronounced "to-MO-ko".  It's a common first name
+            The name of the application is pronounced "to-mo-ko".  It's a common first name
             for a Japanese woman.  I chose it thinking it would give a more "human" and nice/cute aspect
             to my application.
-            So, a user could imagine (fantasize?) that Tomoko Sensei is teaching him/her some new vocabulary.  
+            So, a user could imagine that Tomoko Sensei is teaching him/her some new vocabulary.  
             I altered the name slightly to make it special and unique.  Hence, MOT means "word" 
             in French (my mother tongue) as this is what is this application about : words.
             </p><p>
@@ -58,12 +58,13 @@
             The development is made on two spare computers I have at my disposal : an old Pentium-III
             laptop running <a href="http://www.debian.org">Debian GNU/Linux</a> and an older Pendtium I running 
             <a href="http://www.ubuntu.com">Ubuntu Breezy Badger</a>.  
-            Naturally, I installed QT SDK on both machines for cross-compiling and building the application.
+            Naturally, I installed Qt SDK on both machines for cross-compiling and building the application.
             </p><p>
             For the moment, it only supports Japanese-English.  But I intend to support other 
             languages (especially Spanish).
             </p><p>
             Features to implement (ordered by priority) :<br/>
+            </p>
             <ul>
                 <li>Preferences on length of quiz and modes of questioning.</li>
                 <li>Improve the quiz algorithm.</li>
@@ -86,9 +87,9 @@
             <img src="../img/logo.png" width="260" height="255" alt="toMOTko Logo"/>
             <ul>
                 <li><a href="#">About</a></li>
+                <li><a href="screenshots.shtml">Screenshots</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">SF Project page</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko/">SVN repository</a></li>
-                <li><a href="screenshots.shtml">Screenshots</a></li>
                 <!--li><a href="#">Credits</a></li-->
             </ul>
         </div>

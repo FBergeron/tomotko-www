@@ -4,10 +4,10 @@
 <html lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="Site web de toMOTko">
+    <meta name="description" content="Site web de toMOTko" />
     <meta name="keywords" content="flashcard,japonais,apprentissage,vocabulaire,zaurus" />
-    <meta name="copyright" content="Copyright (c) 2006 Frederic Bergeron">
-    <meta name="author" content="Frederic Bergeron">
+    <meta name="copyright" content="Copyright (c) 2006 Frederic Bergeron" />
+    <meta name="author" content="Frederic Bergeron" />
     <link rel="stylesheet" href="../default.css" type="text/css"/>
     <title>toMOTko</title>
 </head>
@@ -59,10 +59,11 @@
             Le développement de l'application est fait sur deux vieux ordinateurs qui sont à ma disposition :
             un laptop Pentium III avec <a href="http://www.debian.org">Debian GNU/Linux</a> et un 
             desktop Pentium I avec <a href="http://www.ubuntu.com">Ubuntu Breezy Badger</a>.  
-            Naturellement, j'ai installé le SDK de QT sur les deux machines pour pouvoir cross-compiler et
+            Naturellement, j'ai installé le SDK de Qt sur les deux machines pour pouvoir cross-compiler et
             bâtir l'application.
             </p><p>
             Voici une liste de fonctionnalités à implanter (par priorité) :<br/>
+            </p>
             <ul>
                 <li>Préférences : longueur des tests, modes de questionnement.</li>
                 <li>Améliorer l'algorithme du quiz.</li>
