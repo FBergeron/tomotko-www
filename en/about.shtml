@@ -40,7 +40,7 @@
             to my application.
             So, a user could imagine that Tomoko Sensei is teaching him/her some new vocabulary.  
             I altered the name slightly to make it special and unique.  Hence, MOT means "word" 
-            in French (my mother tongue) as this is what is this application about : words.
+            in French (my mother tongue) as this is what this application is about : words.
             </p><p>
             The application is very simple.  It asks words (or whatever you feel to put in the text fields) 
             repetitively in a way 
@@ -70,6 +70,7 @@
                 <li>Improve the quiz algorithm (don't ask the same word twice in a row).</li>
                 <li>Write help files.</li>
                 <li>Add buttons to ease word selection for quiz.</li>
+                <li>Improve the glossary manager (we should be able to move folders easily, etc.)</li>
                 <li>Some statistics (word count, percentage of success/misses, etc.)</li>
                 <li>Use the statistics to initialize the TermScheduler.</li>
                 <li>Import/Export facility for glossary files.</li>

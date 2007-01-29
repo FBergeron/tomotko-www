@@ -69,6 +69,7 @@
                 <li>Améliorer l'algorithme du quiz (cesser de demander 2 fois de suite le même mot).</li>
                 <li>Écrire la documentation en ligne.</li>
                 <li>Ajouter des boutons pour faciliter la sélection des mots pour le quiz.</li>
+                <li>Améliorer le gestionnaire de glossaires (permettre de changer l'organisation des dossiers).</li>
                 <li>Statistiques (nombres de mots dans les glossaires, pourcentage de succès et d'echecs, etc.)</li>
                 <li>Initialiser le répartiteur de mots en fonction des statistiques.</li>
                 <li>Importation/exportation des glossaires.</li>
