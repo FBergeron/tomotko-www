@@ -66,14 +66,16 @@
             </p>
             <ul>
                 <li>Préférences : longueur des tests, modes de questionnement.</li>
-                <li>Améliorer l'algorithme du quiz.</li>
+                <li>Améliorer l'algorithme du quiz (cesser de demander 2 fois de suite le même mot).</li>
                 <li>Écrire la documentation en ligne.</li>
                 <li>Ajouter des boutons pour faciliter la sélection des mots pour le quiz.</li>
                 <li>Statistiques (nombres de mots dans les glossaires, pourcentage de succès et d'echecs, etc.)</li>
+                <li>Initialiser le répartiteur de mots en fonction des statistiques.</li>
                 <li>Importation/exportation des glossaires.</li>
                 <li>Banque de glossaires web pour permettre aux utilisateurs de partager leurs données.</li>
                 <li>Conserver/rétablir l'état de l'application lorsqu'on la ferme/lance.</li>
                 <li>Supporter d'autres langues (au moins le français et l'espagnol).</li>
+                <li>Faire fonctionner l'application sur d'autres plateformes.</li>
             </ul>
             <p>
             Vos commentaires, impressions et bugs sont les bienvenus.  Il est suggéré d'utiliser les forums/trackers
