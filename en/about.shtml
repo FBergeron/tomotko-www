@@ -66,8 +66,6 @@
             Features to implement (ordered by priority) :<br/>
             </p>
             <ul>
-                <li>Preferences on length of quiz and modes of questioning.</li>
-                <li>Improve the quiz algorithm (don't ask the same word twice in a row).</li>
                 <li>Write help files.</li>
                 <li>Add buttons to ease word selection for quiz.</li>
                 <li>Improve the glossary manager (we should be able to move folders easily, etc.)</li>
@@ -91,6 +89,7 @@
             <ul>
                 <li><a href="#">About</a></li>
                 <li><a href="screenshots.shtml">Screenshots</a></li>
+                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_0.3.0_arm.ipk">Download</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">SF Project page</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko/">SVN repository</a></li>
                 <!--li><a href="#">Credits</a></li-->
