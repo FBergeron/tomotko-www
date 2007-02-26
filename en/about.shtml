@@ -40,14 +40,14 @@
             to my application.
             So, a user could imagine that Tomoko Sensei is teaching him/her some new vocabulary.  
             I altered the name slightly to make it special and unique.  Hence, MOT means "word" 
-            in French (my mother tongue) as this is what this application is about : words.
+            in French (my mother tongue) as this is what this application is all about : words.
             </p><p>
             The application is very simple.  It asks words (or whatever you feel to put in the text fields) 
             repetitively in a way 
             similar to <a href="http://en.wikipedia.org/wiki/Flashcard">Leitner System</a>.  
             The algorithm is not perfect yet but it's already good enough to facilitate new vocabulary acquisition.
             It provides a Glossary Manager that allows the user to add/remove/edit words 
-            in a hierarchical structure that is convenient to efficiciently
+            in a hierarchical structure that is convenient to efficiently
             select or unselect groups of words to memorize/learn.  
             </p><p>
             It presently works on Zaurus SL C-1000 PDA.  
