@@ -51,10 +51,11 @@
             des groupes de mots dans une structure hiérarchique pratique pour la sélection ou déselection des
             mots à apprendre.
             </p><p>
-            toMOTko fonctionne présentement sur les portables PDA Zaurus SL C-1000.  
+            toMOTko fonctionne présentement sur les portables PDA Zaurus SL C-1000 (Sharp ROM).  
             En principe, il devrait aussi fonctionner sur les modèles similaires (de la série SL) ainsi que
             toute machine dont l'architecture est basée sur un processeur ARM et dont le système supporte
-            Qt/Qtopia.
+            Qt/Qtopia.  Si vous disposez d'un autre modèle, je suis très curieux de savoir si toMOTko fonctionne
+            ou pas dessus.  Faites m'en part par courriel svp.
             </p><p>
             Le développement de l'application est fait sur deux vieux ordinateurs qui sont à ma disposition :
             un laptop Pentium III avec <a href="http://www.debian.org">Debian GNU/Linux</a> et un 
@@ -65,11 +66,10 @@
             Voici une liste de fonctionnalités à implanter (par priorité) :<br/>
             </p>
             <ul>
-                <li>Ajouter des boutons pour faciliter la sélection des mots pour le quiz.</li>
-                <li>Améliorer le gestionnaire de glossaires (permettre de changer l'organisation des dossiers).</li>
                 <li>Statistiques (nombres de mots dans les glossaires, pourcentage de succès et d'echecs, etc.)</li>
+                <li>Améliorer le gestionnaire de glossaires (permettre de changer l'organisation des dossiers).</li>
+                <li>Ajouter des boutons pour faciliter la sélection des mots pour le quiz.</li>
                 <li>Initialiser le répartiteur de mots en fonction des statistiques.</li>
-                <li>Importation/exportation des glossaires.</li>
                 <li>Banque de glossaires web pour permettre aux utilisateurs de partager leurs données.</li>
                 <li>Conserver/rétablir l'état de l'application lorsqu'on la ferme/lance.</li>
                 <li>Supporter d'autres langues (au moins le français et l'espagnol).</li>
@@ -77,7 +77,7 @@
             </ul>
             <p>
             Vos commentaires, impressions et bugs sont les bienvenus.  Il est suggéré d'utiliser les forums/trackers
-            de la page de projet SF mais vous pouvez m'écrire directement à
+            de la page de projet SourceForge mais vous pouvez m'écrire directement à
             <br/>
             <tt>fbergeron [at] users.sourceforge.net</tt>.
             </p>
@@ -87,8 +87,8 @@
             <ul>
                 <li><a href="#">À propos</a></li>
                 <li><a href="screenshots.shtml">Aperçu</a></li>
-                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_0.3.0_arm.ipk">Télécharger</a></li>
-                <li><a href="http://sourceforge.net/projects/tomotko">Page de projet SF</a></li>
+                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_0.4.0_arm.ipk">Télécharger</a></li>
+                <li><a href="http://sourceforge.net/projects/tomotko">Page de projet SourceForge</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Code source</a></li>
                 <!--li><a href="#">Crédits</a></li-->
             </ul>

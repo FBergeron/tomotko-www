@@ -50,10 +50,11 @@
             in a hierarchical structure that is convenient to efficiently
             select or unselect groups of words to memorize/learn.  
             </p><p>
-            It presently works on Zaurus SL C-1000 PDA.  
+            It presently works on Zaurus SL C-1000 PDA (Sharp ROM).  
             In theory, it should work on similar models (SL serie) as well as any computers with ARM-based 
             processor using Qt/Qtopia environment (but this has never been personally experimented
-            and may require modifications in the source code).  
+            and may require modifications in the source code).  If you have a different model, let me know
+            (by email) if toMOTko works or not on it.
             </p><p>
             The development is made on two spare computers I have at my disposal : an old Pentium-III
             laptop running <a href="http://www.debian.org">Debian GNU/Linux</a> and an older Pendtium I running 
@@ -66,11 +67,10 @@
             Features to implement (ordered by priority) :<br/>
             </p>
             <ul>
-                <li>Add buttons to ease word selection for quiz.</li>
-                <li>Improve the glossary manager (we should be able to move folders easily, etc.)</li>
                 <li>Some statistics (word count, percentage of success/misses, etc.)</li>
+                <li>Improve the glossary manager (we should be able to move folders easily, etc.)</li>
+                <li>Add buttons to ease word selection for quiz.</li>
                 <li>Use the statistics to initialize the TermScheduler.</li>
-                <li>Import/Export facility for glossary files.</li>
                 <li>External web repository where people can upload/download glossary files.</li>
                 <li>Keep/restore state when quitting/starting the application.</li>
                 <li>Support for other languages (minimally Spanish and French).</li>
@@ -88,8 +88,8 @@
             <ul>
                 <li><a href="#">About</a></li>
                 <li><a href="screenshots.shtml">Screenshots</a></li>
-                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_0.3.0_arm.ipk">Download</a></li>
-                <li><a href="http://sourceforge.net/projects/tomotko">SF Project page</a></li>
+                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_0.4.0_arm.ipk">Download</a></li>
+                <li><a href="http://sourceforge.net/projects/tomotko">SourceForge Project page</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko/">SVN repository</a></li>
                 <!--li><a href="#">Credits</a></li-->
             </ul>

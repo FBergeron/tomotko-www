@@ -22,19 +22,19 @@
             <table id="screenshotTable">
                 <tr>
                     <td>
-                        <a href="../img/screenshotQuiz.jpg"><img src="../img/thumbQuiz.jpg" alt="Aperçu du Quiz" width="100" height="75"/></a>
+                        <a href="../img/screenshotQuiz.png"><img src="../img/thumbQuiz.png" alt="Aperçu du Quiz" width="100" height="75"/></a>
                     </td>
                     <td>Quiz</td>
                 </tr>
                 <tr>
                     <td>
-                        <a href="../img/screenshotGlossaryManager.jpg"><img src="../img/thumbGlossaryManager.jpg" alt="Aperçu du Gestionnaire de glossaires" width="100" height="75"/></a>
+                        <a href="../img/screenshotGlossaryManager.png"><img src="../img/thumbGlossaryManager.png" alt="Aperçu du Gestionnaire de glossaires" width="100" height="75"/></a>
                     </td>
                     <td>Gestionnaire de glossaires</td>
                 </tr>
                 <tr>
                     <td>
-                        <a href="../img/screenshotPreferences.jpg"><img src="../img/thumbPreferences.jpg" alt="Aperçu des Préérences" width="100" height="75"/></a>
+                        <a href="../img/screenshotPreferences.png"><img src="../img/thumbPreferences.png" alt="Aperçu des Préérences" width="100" height="75"/></a>
                     </td>
                     <td>Préférences</td>
                 </tr>
@@ -45,8 +45,8 @@
             <ul>
                 <li><a href="about.shtml">À propos</a></li>
                 <li><a href="#">Aperçu</a></li>
-                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_0.3.0_arm.ipk">Télécharger</a></li>
-                <li><a href="http://sourceforge.net/projects/tomotko">Page de projet SF</a></li>
+                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_0.4.0_arm.ipk">Télécharger</a></li>
+                <li><a href="http://sourceforge.net/projects/tomotko">Page de projet SourceForge</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Code source</a></li>
                 <!--li><a href="#">Crédits</a></li-->
             </ul>

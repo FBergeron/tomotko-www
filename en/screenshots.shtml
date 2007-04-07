@@ -22,19 +22,19 @@
             <table id="screenshotTable">
                 <tr>
                     <td>
-                        <a href="../img/screenshotQuiz.jpg"><img src="../img/thumbQuiz.jpg" alt="Thumbnail of Quiz screenshot" width="100" height="75"/></a>
+                        <a href="../img/screenshotQuiz.png"><img src="../img/thumbQuiz.png" alt="Thumbnail of Quiz screenshot" width="100" height="75"/></a>
                     </td>
                     <td>Quiz</td>
                 </tr>
                 <tr>
                     <td>
-                        <a href="../img/screenshotGlossaryManager.jpg"><img src="../img/thumbGlossaryManager.jpg" alt="Thumbnail of Glossary Manager screenshot" width="100" height="75"/></a>
+                        <a href="../img/screenshotGlossaryManager.png"><img src="../img/thumbGlossaryManager.png" alt="Thumbnail of Glossary Manager screenshot" width="100" height="75"/></a>
                     </td>
                     <td>Glossary Manager</td>
                 </tr>
                 <tr>
                     <td>
-                        <a href="../img/screenshotPreferences.jpg"><img src="../img/thumbPreferences.jpg" alt="Thumbnail of Preferences screenshot" width="100" height="75"/></a>
+                        <a href="../img/screenshotPreferences.png"><img src="../img/thumbPreferences.png" alt="Thumbnail of Preferences screenshot" width="100" height="75"/></a>
                     </td>
                     <td>Preferences</td>
                 </tr>
@@ -45,8 +45,8 @@
             <ul>
                 <li><a href="about.shtml">About</a></li>
                 <li><a href="#">Screenshots</a></li>
-                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_0.3.0_arm.ipk">Download</a></li>
-                <li><a href="http://sourceforge.net/projects/tomotko">SF Project page</a></li>
+                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_0.4.0_arm.ipk">Download</a></li>
+                <li><a href="http://sourceforge.net/projects/tomotko">SourceForge Project page</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko/">SVN repository</a></li>
                 <!--li><a href="#">Credits</a></li-->
             </ul>
