@@ -57,8 +57,8 @@
             (by email) if toMOTko works or not on it.
             </p><p>
             The development is made on two spare computers I have at my disposal : an old Pentium-III
-            laptop running <a href="http://www.debian.org">Debian GNU/Linux</a> and an older Pendtium I running 
-            <a href="http://www.ubuntu.com">Ubuntu Breezy Badger</a>.  
+            laptop running <a href="http://www.debian.org">Debian GNU/Linux (Etch)</a> and an older Pendtium I running 
+            <a href="http://www.ubuntu.com">Ubuntu (Breezy Badger)</a>.  
             Naturally, I installed Qt SDK on both machines for cross-compiling and building the application.
             </p><p>
             For the moment, it only supports Japanese-English.  But I intend to support other 
@@ -68,7 +68,7 @@
             </p>
             <ul>
                 <li>Some statistics (word count, percentage of success/misses, etc.)</li>
-                <li>Improve the glossary manager (we should be able to move folders easily, etc.)</li>
+                <li>Improve the glossary manager (we should be able to move folders and words easily, etc.)</li>
                 <li>Add buttons to ease word selection for quiz.</li>
                 <li>Use the statistics to initialize the TermScheduler.</li>
                 <li>External web repository where people can upload/download glossary files.</li>
@@ -88,12 +88,12 @@
             <ul>
                 <li><a href="#">About</a></li>
                 <li><a href="screenshots.shtml">Screenshots</a></li>
-                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_0.4.2_arm.ipk">Download</a></li>
+                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk">Download</a></li>
                 <li><a href="../help/en/html/toMOTko.html">Online help</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">SourceForge Project page</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko/">SVN repository</a></li>
                 <li><a href="../doc/html/index.html">Doxygen documentation</a></li>
-                <!--li><a href="#">Credits</a></li-->
+                <li><a href="credits.shtml">Credits</a></li>
             </ul>
         </div>
         <div id="footer">

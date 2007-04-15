@@ -45,12 +45,12 @@
             <ul>
                 <li><a href="about.shtml">About</a></li>
                 <li><a href="#">Screenshots</a></li>
-                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_0.4.2_arm.ipk">Download</a></li>
+                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk">Download</a></li>
                 <li><a href="../help/en/html/toMOTko.html">Online help</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">SourceForge Project page</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko/">SVN repository</a></li>
                 <li><a href="../doc/html/index.html">Doxygen documentation</a></li>
-                <!--li><a href="#">Credits</a></li-->
+                <li><a href="credits.shtml">Credits</a></li>
             </ul>
         </div>
         <div id="footer">

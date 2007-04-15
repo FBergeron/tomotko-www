@@ -1,7 +1,7 @@
 <!DOCTYPE html 
     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "DTD/xhtml1-transitional.dtd">
-<html lang="en">
+<html lang="fr">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="description" content="Site web de toMOTko" />
@@ -33,7 +33,7 @@
             j'avais le goût de refaire du C++ (chose que je n'avais pas faite depuis
             presque 10 ans), j'ai donc décidé de développer toMOTko pour mon PDA.
             </p><p>
-            Le nom se prononce "to-MO-ko".  C'est un nom commun pour une Japonaise.
+            Le nom se prononce "to-mo-ko".  C'est un nom commun pour une Japonaise.
             J'ai choisi ce nom pour donner un aspect plus "humain" et plus "cute" à mon
             application, en autant que celà soit possible.
             Ainsi, un utilisateur pourrait imaginer (voire fastasmer ;-) qu'il se fait enseigner
@@ -58,8 +58,8 @@
             ou pas dessus.  Faites m'en part par courriel svp.
             </p><p>
             Le développement de l'application est fait sur deux vieux ordinateurs qui sont à ma disposition :
-            un laptop Pentium III avec <a href="http://www.debian.org">Debian GNU/Linux</a> et un 
-            desktop Pentium I avec <a href="http://www.ubuntu.com">Ubuntu Breezy Badger</a>.  
+            un laptop Pentium III avec <a href="http://www.debian.org">Debian GNU/Linux (Etch)</a> et un 
+            desktop Pentium I avec <a href="http://www.ubuntu.com">Ubuntu (Breezy Badger)</a>.  
             Naturellement, j'ai installé le SDK de Qt sur les deux machines pour pouvoir cross-compiler et
             bâtir l'application.
             </p><p>
@@ -87,12 +87,12 @@
             <ul>
                 <li><a href="#">À propos</a></li>
                 <li><a href="screenshots.shtml">Aperçu</a></li>
-                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_0.4.2_arm.ipk">Télécharger</a></li>
+                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk">Télécharger</a></li>
                 <li><a href="../help/en/html/toMOTko.html">Aide en ligne</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">Page de projet SourceForge</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Code source</a></li>
                 <li><a href="../doc/html/index.html">Documentation Doxygen</a></li>
-                <!--li><a href="#">Crédits</a></li-->
+                <li><a href="credits.shtml">Crédits</a></li>
             </ul>
         </div>
         <div id="footer">

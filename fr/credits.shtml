@@ -1,0 +1,65 @@
+<!DOCTYPE html 
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "DTD/xhtml1-transitional.dtd">
+<html lang="fr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="Credits de toMOTko" />
+    <meta name="keywords" content="toMOTko,credits" />
+    <meta name="copyright" content="Copyright (c) 2006-2007 Frederic Bergeron" />
+    <meta name="author" content="Frederic Bergeron" />
+    <link rel="stylesheet" href="../default.css" type="text/css"/>
+    <title>Crédits pour toMOTko</title>
+</head>
+<body bgcolor="#ffffff">
+    <div id="wrap">
+        <div id="header">
+            <img src="../img/tomotkoTitle.png" width="216" height="46" alt="Titre de toMOTko"/>
+        </div>
+        <div id="main">
+            <h2>Crédits</h2>
+            <p>
+            Cette page est dédiée à tous ceux qui ont contribué, de proche ou de loin, volontairement
+            ou non, à toMOTko.  Dans le désordre, voici quelques remerciements :
+            </p><p>
+            Merci à l'auteur de "Private Emotion".  Je crois que l'imagede toMOTko vient de cet animé
+            japonais.  Si je me souviens bien, j'ai trouvé l'image en faisant une recherche sur Google Images.  
+            Je l'ai modifiée légèrement.  Je n'ai pas demandé la permission pour l'utiliser mais comme je ne fais aucun 
+            profit avec toMOTko, je ne crois pas que ça soit vraiment un problème.  Si jamais c'était le cas, 
+            je retirerais aussitôt l'image.
+            </p><p>
+            Merci aux développeurs des applications <a href="http://wiki.gohome.org/zten/">ZTen</a> et 
+            <a href="http://www.linux-solutions.at/projects/zaurus/applications-Sketches.html">Sketches of Q</a>.  
+            Le code de ces deux applications m'ont aidé à illucider quelques zones obscures (voire moins bien
+            documentée que le reste) de l'API de Qt/Qtopia.
+            </p><p>
+            Merci à <a href="http://www.456bereastreet.com">456 BEREA St.</a> duquel j'ai trouvé le 
+            <a href="http://www.456bereastreet.com/lab/developing_with_web_standards/csslayout/2-col/">code</a>
+            de mise en page du site.  Simple mais suffisant.
+            </p><p>
+            Merci aussi aux utilisateurs de toMOTko qui ont signalé des anomalies ou qui ont suggéré
+            des améliorations (notamment Scott Wallace et Ed Halley).
+            </p><p>
+            Enfin, merci à TrollTech pour Qt et Qtopia et, bien entendu, à Sharp, pour le Zaurus!
+            </p>
+        </div>
+        <div id="sidebar">
+            <img src="../img/logo.png" width="260" height="255" alt="Logo de toMOTko"/>
+            <ul>
+                <li><a href="about.shtml">À propos</a></li>
+                <li><a href="screenshots.shtml">Aperçu</a></li>
+                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk">Télécharger</a></li>
+                <li><a href="../help/en/html/toMOTko.html">Aide en ligne</a></li>
+                <li><a href="http://sourceforge.net/projects/tomotko">Page de projet SourceForge</a></li>
+                <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Code source</a></li>
+                <li><a href="../doc/html/index.html">Documentation Doxygen</a></li>
+                <li><a href="#">Crédits</a></li>
+            </ul>
+        </div>
+        <div id="footer">
+            Dernière modification: <!--#config timefmt="%Y-%m-%d; %H:%M %Z"--><!--#echo var="LAST_MODIFIED"-->;
+        </div>
+    </div>
+</body>
+</html>
+

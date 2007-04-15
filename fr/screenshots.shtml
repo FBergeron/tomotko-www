@@ -1,7 +1,7 @@
 <!DOCTYPE html 
     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "DTD/xhtml1-transitional.dtd">
-<html lang="en">
+<html lang="fr">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="description" content="Aperçu de toMOTko" />
@@ -45,12 +45,12 @@
             <ul>
                 <li><a href="about.shtml">À propos</a></li>
                 <li><a href="#">Aperçu</a></li>
-                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_0.4.2_arm.ipk">Télécharger</a></li>
+                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk">Télécharger</a></li>
                 <li><a href="../help/en/html/toMOTko.html">Aide en ligne</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">Page de projet SourceForge</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Code source</a></li>
                 <li><a href="../doc/html/index.html">Documentation Doxygen</a></li>
-                <!--li><a href="#">Crédits</a></li-->
+                <li><a href="credits.shtml">Crédits</a></li>
             </ul>
         </div>
         <div id="footer">
