@@ -46,6 +46,7 @@
             <ul>
                 <li><a href="about.shtml">About</a></li>
                 <li><a href="screenshots.shtml">Screenshots</a></li>
+                <li><a href="glossaries.shtml">Glossaries</a></li>
                 <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk">Download</a></li>
                 <li><a href="../help/en/html/toMOTko.html">Online help</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">SourceForge Project page</a></li>

@@ -69,3 +69,18 @@ body {
 #screenshotTable {
     margin: 5px;
 }
+
+#glossaryTable {
+    background: #CCCCCC;
+    border: 1px solid;
+    margin: 20px;
+    padding: 5px;
+}
+
+.glossaryTitle {
+    font-size: larger;
+}
+
+.glossaryThumbnail img {
+    border: 1px solid;
+}

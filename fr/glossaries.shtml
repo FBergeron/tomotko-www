@@ -4,12 +4,12 @@
 <html lang="fr">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="Aperçu de toMOTko" />
+    <meta name="description" content="Glossaires de toMOTko" />
     <meta name="keywords" content="flashcard,japonais,apprentissage,vocabulaire,zaurus,aperçu" />
     <meta name="copyright" content="Copyright (c) 2006 Frederic Bergeron" />
     <meta name="author" content="Frederic Bergeron" />
     <link rel="stylesheet" href="../default.css" type="text/css"/>
-    <title>Aperçu de toMOTko</title>
+    <title>Glossaires de toMOTko</title>
 </head>
 <body bgcolor="#ffffff">
     <div id="wrap">
@@ -17,26 +17,33 @@
             <img src="../img/tomotkoTitle.png" width="216" height="46" alt="Titre de toMOTko"/>
         </div>
         <div id="main">
-            <h2>Aperçu</h2>
-            <p>Voici quelques copies d'écran de l'application.  Pour voir en gros plan, cliquez sur les images.</p>
-            <table id="screenshotTable">
-                <tr>
-                    <td>
-                        <a href="../img/screenshotQuiz.png"><img src="../img/thumbQuiz.png" alt="Aperçu du Quiz" width="100" height="75"/></a>
-                    </td>
-                    <td>Quiz</td>
+            <h2>Glossaires</h2>
+            <p>
+            Cette page contient quelques-uns de mes glossaires.  Ceci afin de montrer que 
+            la fonctionnalité d'import/export fonctionne bien.  Ceci peut aussi servir à quelqu'un
+            voulant construire ses propres fichiers de données en étudiant le format du XML.
+            </p><p>
+            Si vous voulez partager vos fichiers de glossaires, je vous invite à me les envoyer.
+            Je les placerai dans cette page.  Je prévois implanter une interface web dynamique pour
+            faciliter le partage des fichiers de glossaires mais pour le moment, je procède manuellement.
+            </p>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Gacha-San, le squelette</td>
                 </tr>
                 <tr>
                     <td>
-                        <a href="../img/screenshotGlossaryManager.png"><img src="../img/thumbGlossaryManager.png" alt="Aperçu du Gestionnaire de glossaires" width="100" height="75"/></a>
+                        <p>Contient les mots nouveaux d'un livre pour enfants
+                        dont le principal intervenant est Gacha-san, le squelette.
+                        L'histoire se passe dans un village peuplé de créatures surnaturelles.
+                        Très bien fait et comique.  J'ai bien aimé.
+                        </p><p>
+                        <a href="../glossaries/GachaSan.xml"/>GachaSan.xml</a>
+                        </p>
                     </td>
-                    <td>Gestionnaire de glossaires</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="../img/screenshotPreferences.png"><img src="../img/thumbPreferences.png" alt="Aperçu des Préérences" width="100" height="75"/></a>
+                    <td class="glossaryThumbnail">
+                        <img src="../img/glossaries/GachaSan.png"/>
                     </td>
-                    <td>Préférences</td>
                 </tr>
             </table>
         </div>
@@ -44,8 +51,8 @@
             <img src="../img/logo.png" width="260" height="255" alt="Logo de toMOTko"/>
             <ul>
                 <li><a href="about.shtml">À propos</a></li>
-                <li><a href="#">Aperçu</a></li>
-                <li><a href="glossaries.shtml">Glossaires</a></li>
+                <li><a href="screenshots.shtml">Aperçu</a></li>
+                <li><a href="#">Glossaires</a></li>
                 <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk">Télécharger</a></li>
                 <li><a href="../help/en/html/toMOTko.html">Aide en ligne</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">Page de projet SourceForge</a></li>
@@ -60,6 +67,3 @@
     </div>
 </body>
 </html>
-
-
-

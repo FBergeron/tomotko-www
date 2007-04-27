@@ -4,12 +4,12 @@
 <html lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="Screenshots of toMOTko" />
+    <meta name="description" content="Glossaries of toMOTko" />
     <meta name="keywords" content="flashcard,japanese,learning,vocabulary,zaurus,screenshots" />
     <meta name="copyright" content="Copyright (c) 2006 Frederic Bergeron" />
     <meta name="author" content="Frederic Bergeron" />
     <link rel="stylesheet" href="../default.css" type="text/css"/>
-    <title>toMOTko's screenshots</title>
+    <title>toMOTko's glossaries</title>
 </head>
 <body bgcolor="#ffffff">
     <div id="wrap">
@@ -17,26 +17,32 @@
             <img src="../img/tomotkoTitle.png" width="216" height="46" alt="toMOTko's title"/>
         </div>
         <div id="main">
-            <h2>Screenshots</h2>
-            <p>Here are some screenshots of the application.  Click on the thumbnails to get a larger image.</p>
-            <table id="screenshotTable">
-                <tr>
-                    <td>
-                        <a href="../img/screenshotQuiz.png"><img src="../img/thumbQuiz.png" alt="Thumbnail of Quiz screenshot" width="100" height="75"/></a>
-                    </td>
-                    <td>Quiz</td>
+            <h2>Glossaries</h2>
+            <p>
+            This page contains some of my glossary files.  This proves that the 
+            import/export feature works.  Also, I think it could be useful for someone
+            wanting to build its own data files so he or she can examine the XML format.
+            </p><p>
+            If you want to share your glossary files, please send them to me.  I will gladly
+            put them in this page.  I plan to provide a dynamic web interface to facilitate the
+            sharing of the glossaries but meanwhile, I do it manually.
+            </p>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Gacha-San, the skeleton</td>
                 </tr>
                 <tr>
                     <td>
-                        <a href="../img/screenshotGlossaryManager.png"><img src="../img/thumbGlossaryManager.png" alt="Thumbnail of Glossary Manager screenshot" width="100" height="75"/></a>
+                        <p>Contains new words from a book targeted for children where
+                        the main character is a skeleton living in a strange town
+                        of fairy beings.  Very well done and funny.  I liked it very much.
+                        </p><p>
+                        <a href="../glossaries/GachaSan.xml"/>GachaSan.xml</a>
+                        </p>
                     </td>
-                    <td>Glossary Manager</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="../img/screenshotPreferences.png"><img src="../img/thumbPreferences.png" alt="Thumbnail of Preferences screenshot" width="100" height="75"/></a>
+                    <td class="glossaryThumbnail">
+                        <img src="../img/glossaries/GachaSan.png"/>
                     </td>
-                    <td>Preferences</td>
                 </tr>
             </table>
         </div>
@@ -44,8 +50,8 @@
             <img src="../img/logo.png" width="260" height="255" alt="toMOTko Logo"/>
             <ul>
                 <li><a href="about.shtml">About</a></li>
-                <li><a href="#">Screenshots</a></li>
-                <li><a href="glossaries.shtml">Glossaries</a></li>
+                <li><a href="screenshots.shtml">Screenshots</a></li>
+                <li><a href="#">Glossaries</a></li>
                 <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk">Download</a></li>
                 <li><a href="../help/en/html/toMOTko.html">Online help</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">SourceForge Project page</a></li>
@@ -60,5 +66,3 @@
     </div>
 </body>
 </html>
-
-
