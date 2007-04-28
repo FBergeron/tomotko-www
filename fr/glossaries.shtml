@@ -41,8 +41,50 @@
                         <a href="../glossaries/GachaSan.xml"/>GachaSan.xml</a>
                         </p>
                     </td>
-                    <td class="glossaryThumbnail">
-                        <img src="../img/glossaries/GachaSan.png"/>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/GachaSan.png" width="68" height="100" alt="Couverture de GachaSan"/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Tanoshii Ruby</td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Ce livre est une introduction au langage de 
+                        programmation Ruby.  Pour chaque chapitre, j'ai
+                        entré les mots que je ne connaissais pas dans 
+                        toMOTko.  Plusieurs mots sont reliés au domaine
+                        de l'informatique mais il y a quand même beaucoup
+                        de mots utiles en général.
+                        </p><p>
+                        Comme je ne suis pas rendu tellement loin dans ma
+                        lecture, seuls les premiers chapitres sont considérés.
+                        J'ajouterai les autres chapitres au fur et à mesure.
+                        </p><p>
+                        <a href="../glossaries/TanoshiiRuby.zip"/>TanoshiiRuby.zip</a>
+                        </p>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/TanoshiiRuby.png" width="70" height="100" alt="Couverture de Tanoshii Ruby"/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Kanji Drill 4 Top</td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Petit livret d'exercice d'introduction et
+                        de pratique pour les kanjis du niveau 4.
+                        </p><p>
+                        <a href="../glossaries/KanjiDrill4Top.zip"/>KanjiDrill4Top.zip</a>
+                        </p>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/KanjiDrill4Top.png" width="46" height="100" alt="Couverture de Kanji Drill 4 Top"/>
                     </td>
                 </tr>
             </table>

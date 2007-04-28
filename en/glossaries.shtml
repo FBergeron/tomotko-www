@@ -41,7 +41,46 @@
                         </p>
                     </td>
                     <td class="glossaryThumbnail">
-                        <img src="../img/glossaries/GachaSan.png"/>
+                        <img src="../img/glossaries/GachaSan.png" width="68" height="100" alt="Cover of GachaSan"/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Tanoshii Ruby</td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>This book introduces the Ruby programming language.
+                        For each chapter, I entered the words I didn't know into
+                        toMOTko.  Most of the words are related to computer science
+                        but some are useful for general situations.
+                        </p><p>
+                        I've only read a few chapters so far.  I will add other
+                        chapters later.  It's a very slow process to read such a 
+                        complicated book.
+                        </p><p>
+                        <a href="../glossaries/TanoshiiRuby.zip"/>TanoshiiRuby.zip</a>
+                        </p>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/TanoshiiRuby.png" width="70" height="100" alt="Cover of Tanoshii Ruby"/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Kanji Drill 4 Top</td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Booklet for introduction and drill of kanjis of level 4.
+                        </p><p>
+                        <a href="../glossaries/KanjiDrill4Top.zip"/>KanjiDrill4Top.zip</a>
+                        </p>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/KanjiDrill4Top.png" width="46" height="100" alt="Cover of Kanji Drill 4 Top"/>
                     </td>
                 </tr>
             </table>
