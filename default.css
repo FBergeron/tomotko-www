@@ -84,3 +84,15 @@ body {
 .glossaryThumbnail img {
     border: 1px solid;
 }
+
+#converterTable {
+    background: #CCCCCC;
+    border: 1px solid;
+    margin: 20px;
+    padding: 5px;
+}
+
+.converterTitle {
+    font-size: larger;
+}
+

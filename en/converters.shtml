@@ -4,12 +4,12 @@
 <html lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="Screenshots of toMOTko" />
-    <meta name="keywords" content="flashcard,japanese,learning,vocabulary,zaurus,screenshots" />
+    <meta name="description" content="Converters of toMOTko" />
+    <meta name="keywords" content="flashcard,japanese,learning,vocabulary,zaurus,converters,conversion" />
     <meta name="copyright" content="Copyright (c) 2006 Frederic Bergeron" />
     <meta name="author" content="Frederic Bergeron" />
     <link rel="stylesheet" href="../default.css" type="text/css"/>
-    <title>toMOTko's screenshots</title>
+    <title>toMOTko's data converters</title>
 </head>
 <body bgcolor="#ffffff">
     <div id="wrap">
@@ -17,26 +17,26 @@
             <img src="../img/tomotkoTitle.png" width="216" height="46" alt="toMOTko's title"/>
         </div>
         <div id="main">
-            <h2>Screenshots</h2>
-            <p>Here are some screenshots of the application.  Click on the thumbnails to get a larger image.</p>
-            <table id="screenshotTable">
+            <h2>Converters</h2>
+            <p>
+            This page contains some free services to convert your data file from
+            other flashcard applications.
+            </p><p>
+            Other converters will be added if requested.
+            </p>
+            <table id="converterTable">
                 <tr>
-                    <td>
-                        <a href="../img/screenshotQuiz.png"><img src="../img/thumbQuiz.png" alt="Thumbnail of Quiz screenshot" width="100" height="75"/></a>
-                    </td>
-                    <td>Quiz</td>
+                    <td class="converterTitle">MioFlash -> toMOTko</td>
                 </tr>
                 <tr>
                     <td>
-                        <a href="../img/screenshotGlossaryManager.png"><img src="../img/thumbGlossaryManager.png" alt="Thumbnail of Glossary Manager screenshot" width="100" height="75"/></a>
+                        <form action="../converters/mioflash2tomotko.php" method="post" enctype="multipart/form-data">
+                            <!-- MAX_FILE_SIZE must precede the file input field -->
+                            <input type="hidden" name="MAX_FILE_SIZE" value="2000000" />
+                          Enter your data file <input name="glossaryFile" type="file"/><br/>
+                          <input type="submit" value="Submit"/>
+                        </form>
                     </td>
-                    <td>Glossary Manager</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="../img/screenshotPreferences.png"><img src="../img/thumbPreferences.png" alt="Thumbnail of Preferences screenshot" width="100" height="75"/></a>
-                    </td>
-                    <td>Preferences</td>
                 </tr>
             </table>
         </div>
@@ -44,14 +44,14 @@
             <img src="../img/logo.png" width="260" height="255" alt="toMOTko Logo"/>
             <ul>
                 <li><a href="about.shtml">About</a></li>
-                <li><a href="#">Screenshots</a></li>
+                <li><a href="screenshots.shtml">Screenshots</a></li>
                 <li><a href="glossaries.shtml">Glossaries</a></li>
                 <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk">Download</a></li>
                 <li><a href="../help/en/html/toMOTko.html">Online help</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">SourceForge Project page</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko/">SVN repository</a></li>
                 <li><a href="../doc/html/index.html">Doxygen documentation</a></li>
-                <li><a href="converters.shtml">Data converters</a>
+                <li><a href="#">Data converters</a>
                 <li><a href="credits.shtml">Credits</a></li>
             </ul>
         </div>
@@ -61,5 +61,4 @@
     </div>
 </body>
 </html>
-
 

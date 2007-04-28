@@ -4,12 +4,12 @@
 <html lang="fr">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="Aperçu de toMOTko" />
-    <meta name="keywords" content="flashcard,japonais,apprentissage,vocabulaire,zaurus,aperçu" />
+    <meta name="description" content="Convertisseurs de toMOTko" />
+    <meta name="keywords" content="flashcard,japonais,apprentissage,vocabulaire,zaurus,convertisseurs,conversion" />
     <meta name="copyright" content="Copyright (c) 2006 Frederic Bergeron" />
     <meta name="author" content="Frederic Bergeron" />
     <link rel="stylesheet" href="../default.css" type="text/css"/>
-    <title>Aperçu de toMOTko</title>
+    <title>Convertisseurs de données pour toMOTko</title>
 </head>
 <body bgcolor="#ffffff">
     <div id="wrap">
@@ -17,26 +17,26 @@
             <img src="../img/tomotkoTitle.png" width="216" height="46" alt="Titre de toMOTko"/>
         </div>
         <div id="main">
-            <h2>Aperçu</h2>
-            <p>Voici quelques copies d'écran de l'application.  Pour voir en gros plan, cliquez sur les images.</p>
-            <table id="screenshotTable">
+            <h2>Convertisseurs de données pour toMOTko</h2>
+            <p>
+            Cette page contient des outils de conversion de données permettant de réutiliser
+            les glossaires provenant d'autres applications similaires à toMOTko.
+            </p><p>
+            D'autres convertisseurs seront ajoutés à la demande.
+            </p>
+            <table id="converterTable">
                 <tr>
-                    <td>
-                        <a href="../img/screenshotQuiz.png"><img src="../img/thumbQuiz.png" alt="Aperçu du Quiz" width="100" height="75"/></a>
-                    </td>
-                    <td>Quiz</td>
+                    <td class="converterTitle">MioFlash -> toMOTko</td>
                 </tr>
                 <tr>
                     <td>
-                        <a href="../img/screenshotGlossaryManager.png"><img src="../img/thumbGlossaryManager.png" alt="Aperçu du Gestionnaire de glossaires" width="100" height="75"/></a>
+                        <form action="../converters/mioflash2tomotko.php" method="post" enctype="multipart/form-data">
+                            <!-- MAX_FILE_SIZE must precede the file input field -->
+                            <input type="hidden" name="MAX_FILE_SIZE" value="2000000" />
+                          Entrez un fichier de données <input name="glossaryFile" type="file"/><br/>
+                          <input type="submit" value="Soumettre"/>
+                        </form>
                     </td>
-                    <td>Gestionnaire de glossaires</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="../img/screenshotPreferences.png"><img src="../img/thumbPreferences.png" alt="Aperçu des Préérences" width="100" height="75"/></a>
-                    </td>
-                    <td>Préférences</td>
                 </tr>
             </table>
         </div>
@@ -44,14 +44,14 @@
             <img src="../img/logo.png" width="260" height="255" alt="Logo de toMOTko"/>
             <ul>
                 <li><a href="about.shtml">À propos</a></li>
-                <li><a href="#">Aperçu</a></li>
+                <li><a href="screenshots.shtml">Aperçu</a></li>
                 <li><a href="glossaries.shtml">Glossaires</a></li>
                 <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk">Télécharger</a></li>
                 <li><a href="../help/en/html/toMOTko.html">Aide en ligne</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">Page de projet SourceForge</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Code source</a></li>
                 <li><a href="../doc/html/index.html">Documentation Doxygen</a></li>
-                <li><a href="converters.shtml">Convertisseurs de données</a>
+                <li><a href="#">Convertisseurs de données</a>
                 <li><a href="credits.shtml">Crédits</a></li>
             </ul>
         </div>
@@ -61,6 +61,4 @@
     </div>
 </body>
 </html>
-
-
 
