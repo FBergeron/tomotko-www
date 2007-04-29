@@ -33,13 +33,16 @@
                 </tr>
                 <tr>
                     <td>
+                        <div class="glossaryDescription">
                         <p>Contient les mots nouveaux d'un livre pour enfants
                         dont le principal intervenant est Gacha-san, le squelette.
                         L'histoire se passe dans un village peuplé de créatures surnaturelles.
-                        Très bien fait et comique.  J'ai bien aimé.
-                        </p><p>
+                        Très bien fait et comique.  J'ai bien aimé.</p>
+                        </div>
                         <a href="../glossaries/GachaSan.xml"/>GachaSan.xml</a>
-                        </p>
+                        <div class="glossaryProviderLine">Soumis par 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
                     </td>
                     <td class="glossaryThumbnail" valign="top">
                         <img src="../img/glossaries/GachaSan.png" width="68" height="100" alt="Couverture de GachaSan"/>
@@ -52,6 +55,7 @@
                 </tr>
                 <tr>
                     <td>
+                        <div class="glossaryDescription">
                         <p>Ce livre est une introduction au langage de 
                         programmation Ruby.  Pour chaque chapitre, j'ai
                         entré les mots que je ne connaissais pas dans 
@@ -62,9 +66,12 @@
                         Comme je ne suis pas rendu tellement loin dans ma
                         lecture, seuls les premiers chapitres sont considérés.
                         J'ajouterai les autres chapitres au fur et à mesure.
-                        </p><p>
-                        <a href="../glossaries/TanoshiiRuby.zip"/>TanoshiiRuby.zip</a>
                         </p>
+                        </div>
+                        <a href="../glossaries/TanoshiiRuby.zip"/>TanoshiiRuby.zip</a>
+                        <div class="glossaryProviderLine">Soumis par 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
                     </td>
                     <td class="glossaryThumbnail" valign="top">
                         <img src="../img/glossaries/TanoshiiRuby.png" width="70" height="100" alt="Couverture de Tanoshii Ruby"/>
@@ -77,14 +84,58 @@
                 </tr>
                 <tr>
                     <td>
+                        <div class="glossaryDescription">
                         <p>Petit livret d'exercice d'introduction et
                         de pratique pour les kanjis du niveau 4.
-                        </p><p>
-                        <a href="../glossaries/KanjiDrill4Top.zip"/>KanjiDrill4Top.zip</a>
                         </p>
+                        </div>
+                        <a href="../glossaries/KanjiDrill4Top.zip"/>KanjiDrill4Top.zip</a>
+                        <div class="glossaryProviderLine">Soumis par
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
                     </td>
                     <td class="glossaryThumbnail" valign="top">
                         <img src="../img/glossaries/KanjiDrill4Top.png" width="46" height="100" alt="Couverture de Kanji Drill 4 Top"/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Listes de Kanjis</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>4 fichiers de données, chacun contenant 100 kanjis
+                        avec plusieurs "compounds" pour chaque symbole.</p>
+                        </div>
+                        <a href="../glossaries/KanjiLists.zip"/>KanjiLists.zip</a>
+                        <div class="glossaryProviderLine">Soumis gracieusement par 
+                            <span class="glossaryProvider">Kurochka</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <br/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Genki I</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>23 fichiers de données pour chacune des leçons de 
+                        ce livret d'apprentissage de la langue japonaise.</p>
+                        </div>
+                        <a href="../glossaries/Genki1.zip"/>Genki1.zip</a>
+                        <div class="glossaryProviderLine">Soumis gracieusement par
+                            <span class="glossaryProvider">Kurochka</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/Genki1.png" width="70" height="100" alt="Cover of Genki I"/>
                     </td>
                 </tr>
             </table>

@@ -33,12 +33,15 @@
                 </tr>
                 <tr>
                     <td>
+                        <div class="glossaryDescription">
                         <p>Contains new words from a book targeted for children where
                         the main character is a skeleton living in a strange town
-                        of fairy beings.  Very well done and funny.  I liked it very much.
-                        </p><p>
+                        of fairy beings.  Very well done and funny.  I liked it very much.</p>
+                        </div>
                         <a href="../glossaries/GachaSan.xml"/>GachaSan.xml</a>
-                        </p>
+                        <div class="glossaryProviderLine">Provided by 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
                     </td>
                     <td class="glossaryThumbnail">
                         <img src="../img/glossaries/GachaSan.png" width="68" height="100" alt="Cover of GachaSan"/>
@@ -51,6 +54,7 @@
                 </tr>
                 <tr>
                     <td>
+                        <div class="glossaryDescription">
                         <p>This book introduces the Ruby programming language.
                         For each chapter, I entered the words I didn't know into
                         toMOTko.  Most of the words are related to computer science
@@ -59,9 +63,12 @@
                         I've only read a few chapters so far.  I will add other
                         chapters later.  It's a very slow process to read such a 
                         complicated book.
-                        </p><p>
-                        <a href="../glossaries/TanoshiiRuby.zip"/>TanoshiiRuby.zip</a>
                         </p>
+                        </div>
+                        <a href="../glossaries/TanoshiiRuby.zip"/>TanoshiiRuby.zip</a>
+                        <div class="glossaryProviderLine">Provided by 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
                     </td>
                     <td class="glossaryThumbnail" valign="top">
                         <img src="../img/glossaries/TanoshiiRuby.png" width="70" height="100" alt="Cover of Tanoshii Ruby"/>
@@ -74,13 +81,56 @@
                 </tr>
                 <tr>
                     <td>
-                        <p>Booklet for introduction and drill of kanjis of level 4.
-                        </p><p>
+                        <div class="glossaryDescription">
+                        <p>Booklet for introduction and drill of kanjis of level 4.</p>
+                        </div>
                         <a href="../glossaries/KanjiDrill4Top.zip"/>KanjiDrill4Top.zip</a>
-                        </p>
+                        <div class="glossaryProviderLine">Provided by 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
                     </td>
                     <td class="glossaryThumbnail" valign="top">
                         <img src="../img/glossaries/KanjiDrill4Top.png" width="46" height="100" alt="Cover of Kanji Drill 4 Top"/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Kanji Lists</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Glossary files oriented on the learning of kanjis.
+                        Hundreds (400) of kanjis with associated compounds.</p>
+                        </div>
+                        <a href="../glossaries/KanjiLists.zip"/>KanjiLists.zip</a>
+                        <div class="glossaryProviderLine">Kindly provided by 
+                            <span class="glossaryProvider">Kurochka</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <br/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Genki I</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Some words taken from this study book.  One glossary file for
+                        each of the 23 lessons.</p>
+                        </div>
+                        <a href="../glossaries/Genki1.zip"/>Genki1.zip</a>
+                        <div class="glossaryProviderLine">Kindly provided by 
+                            <span class="glossaryProvider">Kurochka</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/Genki1.png" width="70" height="100" alt="Cover of Genki I"/>
                     </td>
                 </tr>
             </table>

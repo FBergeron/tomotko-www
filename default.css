@@ -77,8 +77,25 @@ body {
     padding: 5px;
 }
 
+#glossaryTable tr td {
+    width: 100%;
+}
+
 .glossaryTitle {
     font-size: larger;
+    text-decoration: underline;
+}
+
+.glossaryDescription {
+    margin: 5px;
+}
+
+.glossaryProviderLine {
+    font-size: smaller;
+}
+
+.glossaryProvider {
+    font-weight: bold;
 }
 
 .glossaryThumbnail img {
@@ -94,5 +111,6 @@ body {
 
 .converterTitle {
     font-size: larger;
+    text-decoration: underline;
 }
 
