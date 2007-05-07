@@ -134,6 +134,25 @@
                     </td>
                 </tr>
             </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Japanese Phrases</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>261 useful phrases (taken from Watakan).</p>
+                        </div>
+                        <a href="../glossaries/JapanesePhrases.xml"/>JapanesePhrases.xml</a>
+                        <div class="glossaryProviderLine">Kindly provided by 
+                            <span class="glossaryProvider">Kurochka</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <br/>
+                    </td>
+                </tr>
+            </table>
         </div>
         <div id="sidebar">
             <img src="../img/logo.png" width="260" height="255" alt="toMOTko Logo"/>
