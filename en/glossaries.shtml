@@ -153,6 +153,28 @@
                     </td>
                 </tr>
             </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">JLPT Vocabulary</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Official list of words for the JLPT (4 levels)</p>
+                        <p>Source: Copyright (C) 2001 Thierry Bézecourt (<a href="http://www.thbz.org<">http://www.thbz.org</a>)</p>
+                        </div>
+                        <a href="../glossaries/JLPT.zip"/>JLPT.zip</a>
+                        <div class="glossaryProviderLine">Suggested by 
+                            <span class="glossaryProvider">Kurochka</span>;<br/>
+                            originally written by <span class="glossaryProvider">Thierry Bézecourt</span>;<br/>
+                            adapted by <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <br/>
+                    </td>
+                </tr>
+            </table>
         </div>
         <div id="sidebar">
             <img src="../img/logo.png" width="260" height="255" alt="toMOTko Logo"/>
