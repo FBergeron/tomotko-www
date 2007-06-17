@@ -68,7 +68,6 @@
             <ul>
                 <li>Statistiques (nombres de mots dans les glossaires, pourcentage de succès et d'echecs, etc.)</li>
                 <li>Améliorer le gestionnaire de glossaires (permettre de changer l'organisation des dossiers).</li>
-                <li>Ajouter des boutons pour faciliter la sélection des mots pour le quiz.</li>
                 <li>Initialiser le répartiteur de mots en fonction des statistiques.</li>
                 <li>Banque de glossaires web pour permettre aux utilisateurs de partager leurs données.</li>
                 <li>Conserver/rétablir l'état de l'application lorsqu'on la ferme/lance.</li>

@@ -69,7 +69,6 @@
             <ul>
                 <li>Some statistics (word count, percentage of success/misses, etc.)</li>
                 <li>Improve the glossary manager (we should be able to move folders and words easily, etc.)</li>
-                <li>Add buttons to ease word selection for quiz.</li>
                 <li>Use the statistics to initialize the TermScheduler.</li>
                 <li>External web repository where people can upload/download glossary files.</li>
                 <li>Keep/restore state when quitting/starting the application.</li>
