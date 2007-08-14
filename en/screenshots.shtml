@@ -22,21 +22,51 @@
             <table id="screenshotTable">
                 <tr>
                     <td>
-                        <a href="../img/screenshotQuiz.png"><img src="../img/thumbQuiz.png" alt="Thumbnail of Quiz screenshot" width="100" height="75"/></a>
+                        <a href="../img/screenshots/quiz.png"><img src="../img/screenshots/thumbQuiz.png" alt="Thumbnail of Quiz screenshot" width="100" height="75"/></a>
                     </td>
                     <td>Quiz</td>
                 </tr>
                 <tr>
                     <td>
-                        <a href="../img/screenshotGlossaryManager.png"><img src="../img/thumbGlossaryManager.png" alt="Thumbnail of Glossary Manager screenshot" width="100" height="75"/></a>
+                        <a href="../img/screenshots/glossaryManager.png"><img src="../img/screenshots/thumbGlossaryManager.png" alt="Thumbnail of Glossary Manager screenshot" width="100" height="75"/></a>
                     </td>
                     <td>Glossary Manager</td>
                 </tr>
                 <tr>
                     <td>
-                        <a href="../img/screenshotPreferences.png"><img src="../img/thumbPreferences.png" alt="Thumbnail of Preferences screenshot" width="100" height="75"/></a>
+                        <a href="../img/screenshots/preferencesQuiz.png"><img src="../img/screenshots/thumbPreferencesQuiz.png" alt="Thumbnail of Quiz Preferences screenshot" width="100" height="75"/></a>
                     </td>
-                    <td>Preferences</td>
+                    <td>Preferences for the quiz</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="../img/screenshots/preferencesLanguages.png"><img src="../img/screenshots/thumbPreferencesLanguages.png" alt="Thumbnail of Languages Preferences screenshot" width="100" height="75"/></a>
+                    </td>
+                    <td>Preferences for language selection</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="../img/screenshots/preferencesInterface.png"><img src="../img/screenshots/thumbPreferencesInterface.png" alt="Thumbnail of Interface Preferences screenshot" width="100" height="75"/></a>
+                    </td>
+                    <td>Preferences for interface</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="../img/screenshots/quizInJapanese_en2de.png"><img src="../img/screenshots/thumbQuizInJapanese_en2de.png" alt="Thumbnail of Quiz (in Japanese) screenshot" width="100" height="75"/></a>
+                    </td>
+                    <td>Quiz (in Japanese) from English to German</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="../img/screenshots/glossaryManager_en2de.png"><img src="../img/screenshots/thumbGlossaryManager_en2de.png" alt="Thumbnail of Glossary Manager (from English to German) screenshot" width="100" height="75"/></a>
+                    </td>
+                    <td>Glossary Manager from English to German</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="../img/screenshots/glossaryManagerInFrench_fr2es.png"><img src="../img/screenshots/thumbGlossaryManagerInFrench_fr2es.png" alt="Thumbnail of Glossary Manager (in French from French to Spanish) screenshot" width="100" height="75"/></a>
+                    </td>
+                    <td>Glossary Manager (in French) from French to Spanish</td>
                 </tr>
             </table>
         </div>
