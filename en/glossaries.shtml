@@ -167,11 +167,33 @@
                         <div class="glossaryProviderLine">Suggested by 
                             <span class="glossaryProvider">Kurochka</span>;<br/>
                             originally written by <span class="glossaryProvider">Thierry Bézecourt</span>;<br/>
-                            adapted by <span class="glossaryProvider">Frédéric Bergeron</span>.
+                            Adapted by <span class="glossaryProvider">Frédéric Bergeron</span>.
                         </div>
                     </td>
                     <td class="glossaryThumbnail" valign="top">
                         <br/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Reina del Sur</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>List of words taken from this suspense book.
+                        </p><p>
+                        This glossary is in French and Spanish.
+                        </p>
+                        </div>
+                        <a href="../glossaries/ReinaDelSur.xml"/>ReinaDelSur.xml</a>
+                        <div class="glossaryProviderLine">Provided by 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/ReinaDelSur.png" width="62" height="100" alt="Cover of Reina del Sur"/>
                     </td>
                 </tr>
             </table>
