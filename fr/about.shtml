@@ -20,8 +20,10 @@
             <h2>À propos</h2>
             <p>
             toMOTko est une application utile pour mémoriser/apprendre du vocabulaire pour 
-            une langue seconde.  La version actuelle est ciblée sur l'apprentissage du japonais
-            pour les anglophones mais je prévois éventuellement supporter d'autres langues.
+            une langue seconde.
+            </p><p>
+            Depuis la version 0.6.0, toMOTko supporte plusieurs langues.
+            Cependant, la configuration par défaut est pour les anglophones apprenant le japonais.
             </p><p>
             J'étais fatigué de fabriquer des flashcards et de toujours devoir les trainer avec moi
             (plutôt encombrant).  J'avais aussi tendance à associer les mots avec l'apparence des 
@@ -57,22 +59,18 @@
             Qt/Qtopia.  Si vous disposez d'un autre modèle, je suis très curieux de savoir si toMOTko fonctionne
             ou pas dessus.  Faites m'en part par courriel svp.
             </p><p>
-            Le développement de l'application est fait sur deux vieux ordinateurs qui sont à ma disposition :
-            un laptop Pentium III avec <a href="http://www.debian.org">Debian GNU/Linux (Etch)</a> et un 
-            desktop Pentium I avec <a href="http://www.ubuntu.com">Ubuntu (Breezy Badger)</a>.  
-            Naturellement, j'ai installé le SDK de Qt sur les deux machines pour pouvoir cross-compiler et
-            bâtir l'application.
+            Le développement de l'application est fait une machine roulant <a href="http://www.debian.org">Debian GNU/Linux (Etch)</a>
+            où j'ai installé le SDK de Qt pour pouvoir cross-compiler et bâtir l'application.
             </p><p>
-            Voici une liste de fonctionnalités à implanter (par priorité) :<br/>
+            Voici une liste de fonctionnalités à implanter :<br/>
             </p>
             <ul>
-                <li>Statistiques (nombres de mots dans les glossaires, pourcentage de succès et d'echecs, etc.)</li>
                 <li>Améliorer le gestionnaire de glossaires (permettre de changer l'organisation des dossiers).</li>
+                <li>Conserver/rétablir l'état de l'application lorsqu'on la ferme/lance.</li>
+                <li>Faire fonctionner l'application sur d'autres plateformes.</li>
+                <li>Statistiques (nombres de mots dans les glossaires, pourcentage de succès et d'echecs, etc.)</li>
                 <li>Initialiser le répartiteur de mots en fonction des statistiques.</li>
                 <li>Banque de glossaires web pour permettre aux utilisateurs de partager leurs données.</li>
-                <li>Conserver/rétablir l'état de l'application lorsqu'on la ferme/lance.</li>
-                <li>Supporter d'autres langues (au moins le français et l'espagnol).</li>
-                <li>Faire fonctionner l'application sur d'autres plateformes.</li>
             </ul>
             <p>
             Vos commentaires, impressions et bugs sont les bienvenus.  Il est suggéré d'utiliser les forums/trackers

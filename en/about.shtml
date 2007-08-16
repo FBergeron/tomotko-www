@@ -19,9 +19,10 @@
         <div id="main">
             <h2>About</h2>
             <p>
-            toMOTko is a small Zaurus application for English speakers learning Japanese. 
-            It's a customizable flashcard program that asks words repetitively to acquire new 
-            vocabulary and memorize kanji readings/writings.
+            toMOTko is a small Zaurus application for learning new vocabulary in a foreign language.
+            </p><p>
+            Since version 0.6.0, toMOTko supports several languages even though the default settings
+            are for English speakers learning Japanese. 
             </p><p>
             toMOTko was born of need for a tool that could run on my 
             PDA and help me to learn/acquire new vocabulary 
@@ -56,24 +57,18 @@
             and may require modifications in the source code).  If you have a different model, let me know
             (by email) if toMOTko works or not on it.
             </p><p>
-            The development is made on two spare computers I have at my disposal : an old Pentium-III
-            laptop running <a href="http://www.debian.org">Debian GNU/Linux (Etch)</a> and an older Pendtium I running 
-            <a href="http://www.ubuntu.com">Ubuntu (Breezy Badger)</a>.  
-            Naturally, I installed Qt SDK on both machines for cross-compiling and building the application.
+            The development is made on a machine running <a href="http://www.debian.org">Debian GNU/Linux (Etch)</a>
+            on which I installed Qt SDK to cross-compile and build the application.
             </p><p>
-            For the moment, it only supports Japanese-English.  But I intend to support other 
-            languages (especially Spanish).
-            </p><p>
-            Features to implement (ordered by priority) :<br/>
+            Features to implement :<br/>
             </p>
             <ul>
-                <li>Some statistics (word count, percentage of success/misses, etc.)</li>
                 <li>Improve the glossary manager (we should be able to move folders and words easily, etc.)</li>
+                <li>Keep/restore state when quitting/starting the application.</li>
+                <li>Make it work for other platforms.</li>
+                <li>Some statistics (word count, percentage of success/misses, etc.)</li>
                 <li>Use the statistics to initialize the TermScheduler.</li>
                 <li>External web repository where people can upload/download glossary files.</li>
-                <li>Keep/restore state when quitting/starting the application.</li>
-                <li>Support for other languages (minimally Spanish and French).</li>
-                <li>Make it work for other platforms.</li>
             </ul>
             <p>
             Your comments, suggestions or bug reports are welcome.  
