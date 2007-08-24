@@ -203,6 +203,27 @@
                     </td>
                 </tr>
             </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Alphabet Thaï</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Glossaire pratique pour apprendre l'alphabet Thaï</p>
+                        <p>Ce glossaire est en anglais et en thaï.</p>
+                        <p>Source: <a href="">Thai on Zaurus</a></p>
+                        </div>
+                        <a href="../glossaries/ThaiAlphabet.xml"/>ThaiAlphabet.xml</a>
+                        <div class="glossaryProviderLine">Soumis par 
+                            <span class="glossaryProvider">Koan</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <br/>
+                    </td>
+                </tr>
+            </table>
         </div>
         <div id="sidebar">
             <img src="../img/logo.png" width="260" height="255" alt="Logo de toMOTko"/>

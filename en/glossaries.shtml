@@ -197,6 +197,27 @@
                     </td>
                 </tr>
             </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Thai alphabet</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Useful glossary to learn Thai alphabet.</p>
+                        <p>This glossary is in English and Thai.</p>
+                        <p>Source: <a href="">Thai on Zaurus</a></p>
+                        </div>
+                        <a href="../glossaries/ReinaDelSur.xml"/>ReinaDelSur.xml</a>
+                        <div class="glossaryProviderLine">Provided by 
+                            <span class="glossaryProvider">Koan</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <br/>
+                    </td>
+                </tr>
+            </table>
         </div>
         <div id="sidebar">
             <img src="../img/logo.png" width="260" height="255" alt="toMOTko Logo"/>
