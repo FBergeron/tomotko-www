@@ -1,0 +1,92 @@
+<!DOCTYPE html 
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "DTD/xhtml1-transitional.dtd">
+<html lang="es">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="Sitio web de toMOTko" />
+    <meta name="keywords" content="flashcard,idiomas,aprentisaje,vocabulario,zaurus" />
+    <meta name="copyright" content="Copyright (c) 2006 Frederic Bergeron" />
+    <meta name="author" content="Frederic Bergeron" />
+    <link rel="stylesheet" href="../default.css" type="text/css"/>
+    <title>toMOTko</title>
+</head>
+<body bgcolor="#ffffff">
+    <div id="wrap">
+        <div id="header">
+            <img src="../img/tomotkoTitle.png" width="216" height="46" alt="Título de toMOTko"/>
+        </div>
+        <div id="main">
+            <h2>A proposito de toMOTko</h2>
+            <p>
+            toMOTko es una aplicación útil para aprender/memorisar nuevo vocabulario 
+            de un idioma estranjero.
+            </p><p>
+            Estaba cansado de fabricar cartas y de llevarlas conmigo dentro el tren o
+            el autobus.  
+            Como tenía un Zaurus y que quería aprender la librería 
+            <a href="http://www.trolltech.com/products/qt">Qt</a>, familiarme con el environmente
+            <a href="http://www.trolltech.com/products/qtopia">Qtopia</a> y programar en C++ 
+            (lo que no habia hecho desde hace casi 10 años), decidí escribir toMOTko!
+            </p><p>
+            El nombre se pronuncia "to-mo-ko".  Es un nombre común para una muchacha japonesa.
+            Originalmente, toMOTko sólo suportaba japonés y inglés.  Desde la versión 0.6.0, es
+            posible aprender otros idiomas también.  Eligí este nombre para dar un aspecto más "humano"
+            y bonito a mi aplicación.  De este modo, un usuario podría imaginarse aprender 
+            nuevas palabras con ella (Tomoko).  Cambie el centro del nombre por MOT que quiere decir
+            "palabra" en francés (mi idioma natal) por fin de distinción.
+            </p><p>
+            La aplicación es muy sencilla.  Pide unas palabras de una manera semejante a
+            un <a href="http://fr.wikipedia.org/wiki/Carte_m%C3%A9moire_%28apprentissage%29">Sistema Leitner</a>.
+            El algorithmo no es perfecto ya pero funciona bastante bien para facilitar el aprentisaje
+            de palabras nuevas.
+            </p><p>
+            La aplicación contiene un gestionario de glosarios que permite añadir/quitar/editar grupos de
+            palabras en una estructura hierarjica practica para seleccionar las palabras a aprender.
+            </p><p>
+            toMOTko funciona sobra las computadoras portables de tipo Zaurus SL-C1000 (ROM Sharp).
+            En principio, debería funcionar también sobre los modelos similares (de la serie SL) asi
+            que las maquinas con una arquitectura basada sobre un procesor ARM y usando Qt/Qtopia.
+            </p><p>
+            El desarollo de la aplicación es hecho sobre una computadora usando 
+            <a href="http://www.debian.org">Debian GNU/Linux (Etch)</a>
+            donde instalé el SDK de Qt para "cross-compilar" y construirla.
+            </p><p>
+            Aquí está la lista de algunas funcionalidades planificadas :
+            </p>
+            <ul>
+                <li>Amejorar el gestionario de glosarios (permitir el cambio de organización de las palabras/archivos).</li>
+                <li>Conservar/restablecer el estado de la aplicación cuando la cerra/abrera.</li>
+                <li>Migrar sobre otras plateformas (Windows, Linux, MacOS, ncurses, etc.)</li>
+                <li>Introducir estadísticos varios.</li>
+                <li>Amejorar el algoritmo considerando los estadísticos.</li>
+                <li>Implementar una interface web permitiendo a los usuarios de compartir facilmente sus glosarios.</li>
+            </ul>
+            <p>
+            Para mandar sus comentarios o sugestiones o para reportar algonos problemas, usa los forums/trackers de la
+            pagina SourceForge o mandame un mensaje directamente a 
+            <br/>
+            <tt>fbergeron [at] users.sourceforge.net</tt>.
+            </p>
+        </div>
+        <div id="sidebar">
+            <img src="../img/logo.png" width="260" height="255" alt="Logo de toMOTko"/>
+            <ul>
+                <li><a href="#">A proposito</a></li>
+                <li><a href="screenshots.shtml">Screenshots</a></li>
+                <li><a href="glossaries.shtml">Glossarios</a></li>
+                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk">Descargar</a></li>
+                <li><a href="../help/en/html/toMOTko.html">Ayuda</a></li>
+                <li><a href="http://sourceforge.net/projects/tomotko">Pagina del proyecto SourceForge</a></li>
+                <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Código</a></li>
+                <li><a href="../doc/html/index.html">Documentación Doxygen</a></li>
+                <li><a href="converters.shtml">Convertidores de datos</a>
+                <li><a href="credits.shtml">Créditos</a></li>
+            </ul>
+        </div>
+        <div id="footer">
+            Ultima modificación: <!--#config timefmt="%Y-%m-%d; %H:%M %Z"--><!--#echo var="LAST_MODIFIED"-->;
+        </div>
+    </div>
+</body>
+</html>

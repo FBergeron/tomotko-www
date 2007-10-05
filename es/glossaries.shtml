@@ -1,51 +1,49 @@
 <!DOCTYPE html 
     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "DTD/xhtml1-transitional.dtd">
-<html lang="fr">
+<html lang="es">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="Glossaires de toMOTko" />
-    <meta name="keywords" content="flashcard,japonais,apprentissage,vocabulaire,zaurus,aperçu" />
+    <meta name="description" content="Glossarios de toMOTko" />
+    <meta name="keywords" content="flashcard,idiomas,aprentisaje,vocabulario,zaurus" />
     <meta name="copyright" content="Copyright (c) 2006 Frederic Bergeron" />
     <meta name="author" content="Frederic Bergeron" />
     <link rel="stylesheet" href="../default.css" type="text/css"/>
-    <title>Glossaires de toMOTko</title>
+    <title>Glosarios de toMOTko</title>
 </head>
 <body bgcolor="#ffffff">
     <div id="wrap">
         <div id="header">
-            <img src="../img/tomotkoTitle.png" width="216" height="46" alt="Titre de toMOTko"/>
+            <img src="../img/tomotkoTitle.png" width="216" height="46" alt="Título de toMOTko"/>
         </div>
         <div id="main">
-            <h2>Glossaires</h2>
+            <h2>Glossarios</h2>
             <p>
-            Cette page contient quelques-uns de mes glossaires.  Ceci afin de montrer que 
-            la fonctionnalité d'import/export fonctionne bien.  Ceci peut aussi servir à quelqu'un
-            voulant construire ses propres fichiers de données en étudiant le format du XML.
+            Aquí están algunos glosarios proviniendos de usuarios de toMOTko.
             </p><p>
-            Si vous voulez partager vos fichiers de glossaires, je vous invite à me les envoyer.
-            Je les placerai dans cette page.  Je prévois implanter une interface web dynamique pour
-            faciliter le partage des fichiers de glossaires mais pour le moment, je procède manuellement.
+            Si usted quiere compartir sus glosarios con otros usuarios de toMOTko, puede
+            usar las funcionalidades de importación/exportación y mandarme sus datos.
+            Cuando tendré el tiempo, los pondré en esta pagina para permitir el aceso a todos.
             </p>
             <table id="glossaryTable">
                 <tr colspan="2">
-                    <td class="glossaryTitle">Gacha-San, le squelette</td>
+                    <td class="glossaryTitle">Gacha-San, el esqueleto</td>
                 </tr>
                 <tr>
                     <td>
                         <div class="glossaryDescription">
-                        <p>Contient les mots nouveaux d'un livre pour enfants
-                        dont le principal intervenant est Gacha-san, le squelette.
-                        L'histoire se passe dans un village peuplé de créatures surnaturelles.
-                        Très bien fait et comique.  J'ai bien aimé.</p>
+                        <p>Contiene las palabras nuevas de un libro para los niño en el cual
+                        el personaje principal es un esqueleto llamado Gacha-San.
+                        La historia ocure en un vilagio poblado con criaturas sobrenaturales.
+                        Es muy padre y comico.  Me gustó mucho.</p>
                         </div>
                         <a href="../glossaries/GachaSan.xml"/>GachaSan.xml</a>
-                        <div class="glossaryProviderLine">Soumis par 
+                        <div class="glossaryProviderLine">Mandato por 
                             <span class="glossaryProvider">Frédéric Bergeron</span>.
                         </div>
                     </td>
                     <td class="glossaryThumbnail" valign="top">
-                        <img src="../img/glossaries/GachaSan.png" width="68" height="100" alt="Couverture de GachaSan"/>
+                        <img src="../img/glossaries/GachaSan.png" width="68" height="100" alt="Pagina cubierta de GachaSan"/>
                     </td>
                 </tr>
             </table>
@@ -56,25 +54,22 @@
                 <tr>
                     <td>
                         <div class="glossaryDescription">
-                        <p>Ce livre est une introduction au langage de 
-                        programmation Ruby.  Pour chaque chapitre, j'ai
-                        entré les mots que je ne connaissais pas dans 
-                        toMOTko.  Plusieurs mots sont reliés au domaine
-                        de l'informatique mais il y a quand même beaucoup
-                        de mots utiles en général.
+                        <p>Es un libro de introducción al idioma de programación Ruby.
+                        Para cada sección, escribí las palabras nuevas dentro toMOTko.
+                        Por supuesto, la mayoria de esas palabras son relatadas al campo
+                        del informatica pero hay palabras también de uso general.
                         </p><p>
-                        Comme je ne suis pas rendu tellement loin dans ma
-                        lecture, seuls les premiers chapitres sont considérés.
-                        J'ajouterai les autres chapitres au fur et à mesure.
+                        Mi lectura de este libro no es terminada ya.
+                        Añadiré otras palabras más tarde.
                         </p>
                         </div>
                         <a href="../glossaries/TanoshiiRuby.zip"/>TanoshiiRuby.zip</a>
-                        <div class="glossaryProviderLine">Soumis par 
+                        <div class="glossaryProviderLine">Mandato por 
                             <span class="glossaryProvider">Frédéric Bergeron</span>.
                         </div>
                     </td>
                     <td class="glossaryThumbnail" valign="top">
-                        <img src="../img/glossaries/TanoshiiRuby.png" width="70" height="100" alt="Couverture de Tanoshii Ruby"/>
+                        <img src="../img/glossaries/TanoshiiRuby.png" width="70" height="100" alt="Pagina cubierta de Tanoshii Ruby"/>
                     </td>
                 </tr>
             </table>
@@ -85,32 +80,30 @@
                 <tr>
                     <td>
                         <div class="glossaryDescription">
-                        <p>Petit livret d'exercice d'introduction et
-                        de pratique pour les kanjis du niveau 4.
+                        <p>Pequeño libro de ejercicios para introducirse a los kanjis del nivel 4
                         </p>
                         </div>
                         <a href="../glossaries/KanjiDrill4Top.zip"/>KanjiDrill4Top.zip</a>
-                        <div class="glossaryProviderLine">Soumis par
+                        <div class="glossaryProviderLine">Mandato por
                             <span class="glossaryProvider">Frédéric Bergeron</span>.
                         </div>
                     </td>
                     <td class="glossaryThumbnail" valign="top">
-                        <img src="../img/glossaries/KanjiDrill4Top.png" width="46" height="100" alt="Couverture de Kanji Drill 4 Top"/>
+                        <img src="../img/glossaries/KanjiDrill4Top.png" width="46" height="100" alt="Pagina cubierta de Kanji Drill 4 Top"/>
                     </td>
                 </tr>
             </table>
             <table id="glossaryTable">
                 <tr colspan="2">
-                    <td class="glossaryTitle">Listes de Kanjis</td>
+                    <td class="glossaryTitle">Listas de Kanjis</td>
                 </tr>
                 <tr>
                     <td>
                         <div class="glossaryDescription">
-                        <p>4 fichiers de données, chacun contenant 100 kanjis
-                        avec plusieurs "compounds" pour chaque symbole.</p>
+                        <p>4 archivos de datos cada uno contiendo 100 kanjis con varios ejemplos de palabras.</p>
                         </div>
                         <a href="../glossaries/KanjiLists.zip"/>KanjiLists.zip</a>
-                        <div class="glossaryProviderLine">Soumis gracieusement par 
+                        <div class="glossaryProviderLine">Mandato por 
                             <span class="glossaryProvider">Kurochka</span>.
                         </div>
                     </td>
@@ -126,30 +119,30 @@
                 <tr>
                     <td>
                         <div class="glossaryDescription">
-                        <p>23 fichiers de données pour chacune des leçons de 
-                        ce livret d'apprentissage de la langue japonaise.</p>
+                        <p>23 archivos de datos cada uno contiene las palabras de
+                        cada lección de este libro de aprendisaje del idioma japonés.</p>
                         </div>
                         <a href="../glossaries/Genki1.zip"/>Genki1.zip</a>
-                        <div class="glossaryProviderLine">Soumis gracieusement par
+                        <div class="glossaryProviderLine">Mandato por
                             <span class="glossaryProvider">Kurochka</span>.
                         </div>
                     </td>
                     <td class="glossaryThumbnail" valign="top">
-                        <img src="../img/glossaries/Genki1.png" width="70" height="100" alt="Couverture de Genki I"/>
+                        <img src="../img/glossaries/Genki1.png" width="70" height="100" alt="Pagina cubierta de Genki I"/>
                     </td>
                 </tr>
             </table>
             <table id="glossaryTable">
                 <tr colspan="2">
-                    <td class="glossaryTitle">Japanese Phrases</td>
+                    <td class="glossaryTitle">Frases japonesas</td>
                 </tr>
                 <tr>
                     <td>
                         <div class="glossaryDescription">
-                        <p>261 phrases pratiques (tirées de Watakan).</p>
+                        <p>261 frases practicas (proviniendas de Watakan).</p>
                         </div>
                         <a href="../glossaries/JapanesePhrases.xml"/>JapanesePhrases.xml</a>
-                        <div class="glossaryProviderLine">Soumis gracieusement par
+                        <div class="glossaryProviderLine">Mandato por 
                             <span class="glossaryProvider">Kurochka</span>.
                         </div>
                     </td>
@@ -160,19 +153,19 @@
             </table>
             <table id="glossaryTable">
                 <tr colspan="2">
-                    <td class="glossaryTitle">Vocabulaire pour le JLPT</td>
+                    <td class="glossaryTitle">Vocabulario para el JLPT</td>
                 </tr>
                 <tr>
                     <td>
                         <div class="glossaryDescription">
-                        <p>Liste des mots officiels pour le passage du test JLPT (4 niveaux).</p>
-                        <p>Source: Copyright (C) 2001 Thierry Bézecourt (<a href="http://www.thbz.org">http://www.thbz.org</a>)</p>
+                        <p>Lista oficial de las palabras del testo JLPT (4 niveles).</p>
+                        <p>Origen: Copyright (C) 2001 Thierry Bézecourt (<a href="http://www.thbz.org">http://www.thbz.org</a>)</p>
                         </div>
                         <a href="../glossaries/JLPT.zip"/>JLPT.zip</a>
-                        <div class="glossaryProviderLine">Suggéré par 
+                        <div class="glossaryProviderLine">Sugerado por
                             <span class="glossaryProvider">Kurochka</span>;<br/> 
-                            Originalement écrit par <span class="glossaryProvider">Thierry Bézecourt</span>;<br/>
-                            Adapté par <span class="glossaryProvider">Frédéric Bergeron</span>.
+                            Originalmente escrito por <span class="glossaryProvider">Thierry Bézecourt</span>;<br/>
+                            Adaptado por <span class="glossaryProvider">Frédéric Bergeron</span>.
                         </div>
                     </td>
                     <td class="glossaryThumbnail" valign="top">
@@ -187,35 +180,35 @@
                 <tr>
                     <td>
                         <div class="glossaryDescription">
-                        <p>Liste des mots dont j'ignorais la signification
-                        lors de ma lecture de ce roman de suspense sur le monde de la drogue.
+                        <p>Lista de palabras nuevas encontradas durante la lectura 
+                        de esta novela policia sobre el mundo de la droga.
                         </p><p>
-                        Ce glossaire est en français et en espagnol.
+                        Este glosario es en francés y en español.
                         </p>
                         </div>
                         <a href="../glossaries/ReinaDelSur.xml"/>ReinaDelSur.xml</a>
-                        <div class="glossaryProviderLine">Soumis par 
+                        <div class="glossaryProviderLine">Mandato por 
                             <span class="glossaryProvider">Frédéric Bergeron</span>.
                         </div>
                     </td>
                     <td class="glossaryThumbnail" valign="top">
-                        <img src="../img/glossaries/ReinaDelSur.png" width="62" height="100" alt="Couverture de Reina del Sur"/>
+                        <img src="../img/glossaries/ReinaDelSur.png" width="62" height="100" alt="Pagina cubierta de Reina del Sur"/>
                     </td>
                 </tr>
             </table>
             <table id="glossaryTable">
                 <tr colspan="2">
-                    <td class="glossaryTitle">Alphabet Thaï</td>
+                    <td class="glossaryTitle">Alfabeto Thaï</td>
                 </tr>
                 <tr>
                     <td>
                         <div class="glossaryDescription">
-                        <p>Glossaire pratique pour apprendre l'alphabet Thaï.</p>
-                        <p>Ce glossaire est en anglais et en thaï.</p>
-                        <p>Source: <a href="">Thai on Zaurus</a></p>
+                        <p>Glosario practico para aprender el alfabeto Thaï.</p>
+                        <p>Este glosario es en inglés y en thai.</p>
+                        <p>Origen: <a href="">Thai on Zaurus</a></p>
                         </div>
                         <a href="../glossaries/ThaiAlphabet.xml"/>ThaiAlphabet.xml</a>
-                        <div class="glossaryProviderLine">Soumis par 
+                        <div class="glossaryProviderLine">Mandato por 
                             <span class="glossaryProvider">Koan</span>.
                         </div>
                     </td>
@@ -228,20 +221,20 @@
         <div id="sidebar">
             <img src="../img/logo.png" width="260" height="255" alt="Logo de toMOTko"/>
             <ul>
-                <li><a href="about.shtml">À propos</a></li>
-                <li><a href="screenshots.shtml">Aperçu</a></li>
-                <li><a href="#">Glossaires</a></li>
-                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk">Télécharger</a></li>
-                <li><a href="../help/en/html/toMOTko.html">Aide en ligne</a></li>
-                <li><a href="http://sourceforge.net/projects/tomotko">Page de projet SourceForge</a></li>
-                <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Code source</a></li>
-                <li><a href="../doc/html/index.html">Documentation Doxygen</a></li>
-                <li><a href="converters.shtml">Convertisseurs de données</a>
-                <li><a href="credits.shtml">Crédits</a></li>
+                <li><a href="about.shtml">A proposito</a></li>
+                <li><a href="screenshots.shtml">Screenshots</a></li>
+                <li><a href="#">Glosarios</a></li>
+                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk">Descargar</a></li>
+                <li><a href="../help/en/html/toMOTko.html">Ayuda</a></li>
+                <li><a href="http://sourceforge.net/projects/tomotko">Pagina del proyecto SourceForge</a></li>
+                <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Código</a></li>
+                <li><a href="../doc/html/index.html">Documentación Doxygen</a></li>
+                <li><a href="converters.shtml">Convertidores de datos</a>
+                <li><a href="credits.shtml">Créditos</a></li>
             </ul>
         </div>
         <div id="footer">
-            Dernière modification: <!--#config timefmt="%Y-%m-%d; %H:%M %Z"--><!--#echo var="LAST_MODIFIED"-->;
+            Ultima modificación: <!--#config timefmt="%Y-%m-%d; %H:%M %Z"--><!--#echo var="LAST_MODIFIED"-->;
         </div>
     </div>
 </body>

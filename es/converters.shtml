@@ -1,0 +1,62 @@
+<!DOCTYPE html 
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "DTD/xhtml1-transitional.dtd">
+<html lang="es">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="Convertidores de toMOTko" />
+    <meta name="keywords" content="flashcard,idiomas,aprentisaje,vocabulario,zaurus" />
+    <meta name="copyright" content="Copyright (c) 2006 Frederic Bergeron" />
+    <meta name="author" content="Frederic Bergeron" />
+    <link rel="stylesheet" href="../default.css" type="text/css"/>
+    <title>Convertidores de datos para toMOTko</title>
+</head>
+<body bgcolor="#ffffff">
+    <div id="wrap">
+        <div id="header">
+            <img src="../img/tomotkoTitle.png" width="216" height="46" alt="Título de toMOTko"/>
+        </div>
+        <div id="main">
+            <h2>Convertidores de datos para toMOTko</h2>
+            <p>
+            En esta pagina se encuentran herramientas para convertir datos para usarlos con toMOTko.
+            </p><p>
+            Si otros convertidores son necesarios, comunicamelo y trataré implementarlos.
+            </p>
+            <table id="converterTable">
+                <tr>
+                    <td class="converterTitle">MioFlash -> toMOTko</td>
+                </tr>
+                <tr>
+                    <td>
+                        <form action="../converters/mioflash2tomotko.php" method="post" enctype="multipart/form-data">
+                            <!-- MAX_FILE_SIZE must precede the file input field -->
+                            <input type="hidden" name="MAX_FILE_SIZE" value="2000000" />
+                          Entre un archivo de datos <input name="glossaryFile" type="file"/><br/>
+                          <input type="submit" value="Mandar"/>
+                        </form>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div id="sidebar">
+            <img src="../img/logo.png" width="260" height="255" alt="Logo de toMOTko"/>
+            <ul>
+                <li><a href="about.shtml">A proposito</a></li>
+                <li><a href="screenshots.shtml">Screenshots</a></li>
+                <li><a href="glossaries.shtml">Glossarios</a></li>
+                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk">Descargar</a></li>
+                <li><a href="../help/en/html/toMOTko.html">Ayuda</a></li>
+                <li><a href="http://sourceforge.net/projects/tomotko">Pagina del proyecto SourceForge</a></li>
+                <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Código</a></li>
+                <li><a href="../doc/html/index.html">Documentación Doxygen</a></li>
+                <li><a href="#">Convertidores de datos</a>
+                <li><a href="credits.shtml">Créditos</a></li>
+            </ul>
+        </div>
+        <div id="footer">
+            Ultima modificación: <!--#config timefmt="%Y-%m-%d; %H:%M %Z"--><!--#echo var="LAST_MODIFIED"-->;
+        </div>
+    </div>
+</body>
+</html>

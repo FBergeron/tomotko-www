@@ -1,0 +1,66 @@
+<!DOCTYPE html 
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "DTD/xhtml1-transitional.dtd">
+<html lang="es">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="Creditos de toMOTko" />
+    <meta name="keywords" content="toMOTko,creditos" />
+    <meta name="copyright" content="Copyright (c) 2006-2007 Frederic Bergeron" />
+    <meta name="author" content="Frederic Bergeron" />
+    <link rel="stylesheet" href="../default.css" type="text/css"/>
+    <title>Créditos de toMOTko</title>
+</head>
+<body bgcolor="#ffffff">
+    <div id="wrap">
+        <div id="header">
+            <img src="../img/tomotkoTitle.png" width="216" height="46" alt="Título de toMOTko"/>
+        </div>
+        <div id="main">
+            <h2>Créditos</h2>
+            <p>
+            En esta pagina se encuentran las menciones de crédito para toMOTko.
+            </p><p>
+            Esta pagina es dedicada a todas las personas que contribueron al desarollo de toMOTko.
+            </p><p>
+            Quiero agradecer el artista que dibuje el imagen de toMOTko.  Creo que la imagen venga
+            del manga llamado "Private Emotion".  Encontré esta imagen sobre Google y la alteré un poco.
+            No pidé el permiso para usarla pero como no hago dinero con toMOTko, no pienso que es muy importante.  
+            Si alguien tenga problema con eso, escribeme por favor.
+            </p><p>
+            Gracias a los autores de las aplicaciones <a href="http://wiki.gohome.org/zten/">ZTen</a> y
+            <a href="http://www.linux-solutions.at/projects/zaurus/applications-Sketches.html">Sketches of Q</a>.  
+            El código de estas aplicaciones fue muy útil para facilitar mi comprensión des API de Qt/Qtopia.
+            </p><p>
+            Gracias a <a href="http://www.456bereastreet.com">456 BEREA St.</a> donde tomé el  
+            <a href="http://www.456bereastreet.com/lab/developing_with_web_standards/csslayout/2-col/">código HTML/CSS</a>
+            para implementar el sitio web de toMOTko.  Es sencillo pero bastante.
+            </p><p>
+            Gracias también a todos los usuarios de toMOTko por sus comentarios, sugestiones y mejoramientos 
+            (especialmente a Scott Wallace, Ed Halley, Kurochka y Koan).
+            </p><p>
+            Finalmente, un millón de gracias a TrollTech por Qt/Qtopia y, por supuesto, a Sharp por el Zaurus!
+            </p>
+        </div>
+        <div id="sidebar">
+            <img src="../img/logo.png" width="260" height="255" alt="Logo de toMOTko"/>
+            <ul>
+                <li><a href="about.shtml">A proposito</a></li>
+                <li><a href="screenshots.shtml">Screenshots</a></li>
+                <li><a href="glossaries.shtml">Glossarios</a></li>
+                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk">Descargar</a></li>
+                <li><a href="../help/en/html/toMOTko.html">Ayuda</a></li>
+                <li><a href="http://sourceforge.net/projects/tomotko">Pagina del proyecto SourceForge</a></li>
+                <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Código</a></li>
+                <li><a href="../doc/html/index.html">Documentación Doxygen</a></li>
+                <li><a href="converters.shtml">Convertidores de datos</a>
+                <li><a href="#">Créditos</a></li>
+            </ul>
+        </div>
+        <div id="footer">
+            Ultima modificación: <!--#config timefmt="%Y-%m-%d; %H:%M %Z"--><!--#echo var="LAST_MODIFIED"-->;
+        </div>
+    </div>
+</body>
+</html>
+
