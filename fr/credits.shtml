@@ -28,7 +28,8 @@
             profit avec toMOTko, je ne crois pas que ça soit vraiment un problème.  Si jamais c'était le cas, 
             je retirerais aussitôt l'image.
             </p><p>
-            Merci aux développeurs des applications <a href="http://wiki.gohome.org/zten/">ZTen</a> et 
+            Merci aux développeurs des applications <a href="http://wiki.gohome.org/zten/">ZTen</a>,
+            <a href="http://bedic.sourceforge.net/">ZBEDic</a> et 
             <a href="http://www.linux-solutions.at/projects/zaurus/applications-Sketches.html">Sketches of Q</a>.  
             Le code de ces deux applications m'ont aidé à illucider quelques zones obscures (voire moins bien
             documentée que le reste) de l'API de Qt/Qtopia.
