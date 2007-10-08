@@ -205,16 +205,19 @@
             </table>
             <table id="glossaryTable">
                 <tr colspan="2">
-                    <td class="glossaryTitle">Alphabet Thaï</td>
+                    <td class="glossaryTitle">Glossaires Thaï</td>
                 </tr>
                 <tr>
                     <td>
                         <div class="glossaryDescription">
-                        <p>Glossaire pratique pour apprendre l'alphabet Thaï.</p>
-                        <p>Ce glossaire est en anglais et en thaï.</p>
+                        <p>Glossaires pratiques pour apprendre la langue Thaï.</p>
+                        <p>Ces glossaires sont en anglais et en thaï.</p>
                         <p>Source: <a href="">Thai on Zaurus</a></p>
                         </div>
-                        <a href="../glossaries/ThaiAlphabet.xml"/>ThaiAlphabet.xml</a>
+                        <a href="../glossaries/ThaiAlphabet.xml"/>ThaiAlphabet.xml</a><br />
+                        <a href="../glossaries/ThaiNumbers.xml"/>ThaiNumbers.xml</a><br />
+                        <a href="../glossaries/ThaiTime.xml"/>ThaiTime.xml</a><br />
+                        <a href="../glossaries/ThaiEverydayPhrases.xml"/>ThaiEverydayPhrases.xml</a><br />
                         <div class="glossaryProviderLine">Soumis par 
                             <span class="glossaryProvider">Koan</span>.
                         </div>
