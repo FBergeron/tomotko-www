@@ -47,6 +47,12 @@
                 </tr>
                 <tr>
                     <td>
+                        <a href="../img/screenshots/preferencesFonts.png"><img src="../img/screenshots/thumbPreferencesFonts.png" alt="Screenshot de las preferencias de los tipos de letras" width="100" height="75"/></a>
+                    </td>
+                    <td>Preferenciasde los tipos de letras</td>
+                </tr>
+                <tr>
+                    <td>
                         <a href="../img/screenshots/preferencesInterface.png"><img src="../img/screenshots/thumbPreferencesInterface.png" alt="Screenshot de las preferencias del interface" width="100" height="75"/></a>
                     </td>
                     <td>Preferenciasdel interface</td>

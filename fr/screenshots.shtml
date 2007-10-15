@@ -46,6 +46,12 @@
                 </tr>
                 <tr>
                     <td>
+                        <a href="../img/screenshots/preferencesFonts.png"><img src="../img/screenshots/thumbPreferencesFonts.png" alt="Aperçu des Préférences de polices de caractères" width="100" height="75"/></a>
+                    </td>
+                    <td>Préférences des polices de caractères</td>
+                </tr>
+                <tr>
+                    <td>
                         <a href="../img/screenshots/preferencesInterface.png"><img src="../img/screenshots/thumbPreferencesInterface.png" alt="Aperçu des Préférences de l'interface" width="100" height="75"/></a>
                     </td>
                     <td>Préférences de l'interface</td>

@@ -46,6 +46,12 @@
                 </tr>
                 <tr>
                     <td>
+                        <a href="../img/screenshots/preferencesFonts.png"><img src="../img/screenshots/thumbPreferencesFonts.png" alt="Thumbnail of Fonts Preferences screenshot" width="100" height="75"/></a>
+                    </td>
+                    <td>Preferences for fonts</td>
+                </tr>
+                <tr>
+                    <td>
                         <a href="../img/screenshots/preferencesInterface.png"><img src="../img/screenshots/thumbPreferencesInterface.png" alt="Thumbnail of Interface Preferences screenshot" width="100" height="75"/></a>
                     </td>
                     <td>Preferences for interface</td>
