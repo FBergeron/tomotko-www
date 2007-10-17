@@ -37,7 +37,10 @@
                         <p>Contient les mots nouveaux d'un livre pour enfants
                         dont le principal intervenant est Gacha-san, le squelette.
                         L'histoire se passe dans un village peuplé de créatures surnaturelles.
-                        Très bien fait et comique.  J'ai bien aimé.</p>
+                        Très bien fait et comique.  J'ai bien aimé.
+                        </p><p>
+                        Ce glossaire est en anglais et en japonais.
+                        </p>
                         </div>
                         <a href="../glossaries/GachaSan.xml"/>GachaSan.xml</a>
                         <div class="glossaryProviderLine">Soumis par 
@@ -51,21 +54,52 @@
             </table>
             <table id="glossaryTable">
                 <tr colspan="2">
+                    <td class="glossaryTitle">Ramu-San, la momie</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Contient les mots nouveaux d'un livre pour enfants
+                        de la même série que Gacha-San.  Ça se passe dans le même
+                        village sauf que cette fois-ci, ça raconte une journée 
+                        dans la vie de Ramu-San, la momie.  Très mignon.
+                        </p><p>
+                        Ce glossaire est en anglais et en japonais.
+                        </p>
+                        </div>
+                        <a href="../glossaries/RamuSan.xml"/>RamuSan.xml</a>
+                        <div class="glossaryProviderLine">Soumis par 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/RamuSan.png" width="69" height="100" alt="Couverture de RamuSan"/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
                     <td class="glossaryTitle">Tanoshii Ruby</td>
                 </tr>
                 <tr>
                     <td>
                         <div class="glossaryDescription">
                         <p>Ce livre est une introduction au langage de 
-                        programmation Ruby.  Pour chaque chapitre, j'ai
+                        programmation Ruby.
+                        </p><p>
+                        Pour chaque chapitre, j'ai
                         entré les mots que je ne connaissais pas dans 
-                        toMOTko.  Plusieurs mots sont reliés au domaine
+                        toMOTko.
+                        </p><p>
+                        Plusieurs mots sont reliés au domaine
                         de l'informatique mais il y a quand même beaucoup
                         de mots utiles en général.
                         </p><p>
                         Comme je ne suis pas rendu tellement loin dans ma
                         lecture, seuls les premiers chapitres sont considérés.
                         J'ajouterai les autres chapitres au fur et à mesure.
+                        </p><p>
+                        Ce glossaire est en anglais et en japonais.
                         </p>
                         </div>
                         <a href="../glossaries/TanoshiiRuby.zip"/>TanoshiiRuby.zip</a>
@@ -87,6 +121,8 @@
                         <div class="glossaryDescription">
                         <p>Petit livret d'exercice d'introduction et
                         de pratique pour les kanjis du niveau 4.
+                        </p><p>
+                        Ce glossaire est en anglais et en japonais.
                         </p>
                         </div>
                         <a href="../glossaries/KanjiDrill4Top.zip"/>KanjiDrill4Top.zip</a>
@@ -107,7 +143,10 @@
                     <td>
                         <div class="glossaryDescription">
                         <p>4 fichiers de données, chacun contenant 100 kanjis
-                        avec plusieurs "compounds" pour chaque symbole.</p>
+                        avec plusieurs "compounds" pour chaque symbole.
+                        </p><p>
+                        Ces glossaires sont en anglais et en japonais.
+                        </p>
                         </div>
                         <a href="../glossaries/KanjiLists.zip"/>KanjiLists.zip</a>
                         <div class="glossaryProviderLine">Soumis gracieusement par 
@@ -127,7 +166,10 @@
                     <td>
                         <div class="glossaryDescription">
                         <p>23 fichiers de données pour chacune des leçons de 
-                        ce livret d'apprentissage de la langue japonaise.</p>
+                        ce livret d'apprentissage de la langue japonaise.
+                        </p><p>
+                        Ces glossaires sont en anglais et en japonais.
+                        </p>
                         </div>
                         <a href="../glossaries/Genki1.zip"/>Genki1.zip</a>
                         <div class="glossaryProviderLine">Soumis gracieusement par
@@ -146,7 +188,10 @@
                 <tr>
                     <td>
                         <div class="glossaryDescription">
-                        <p>261 phrases pratiques (tirées de Watakan).</p>
+                        <p>261 phrases pratiques (tirées de Watakan).
+                        </p><p>
+                        Ce glossaire est en anglais et en japonais.
+                        </p>
                         </div>
                         <a href="../glossaries/JapanesePhrases.xml"/>JapanesePhrases.xml</a>
                         <div class="glossaryProviderLine">Soumis gracieusement par
@@ -165,8 +210,11 @@
                 <tr>
                     <td>
                         <div class="glossaryDescription">
-                        <p>Liste des mots officiels pour le passage du test JLPT (4 niveaux).</p>
-                        <p>Source: Copyright (C) 2001 Thierry Bézecourt (<a href="http://www.thbz.org">http://www.thbz.org</a>)</p>
+                        <p>Liste des mots officiels pour le passage du test JLPT (4 niveaux).
+                        </p><p>
+                        Ces glossaires sont en anglais et en japonais.
+                        </p><p>
+                        Source: Copyright (C) 2001 Thierry Bézecourt (<a href="http://www.thbz.org">http://www.thbz.org</a>)</p>
                         </div>
                         <a href="../glossaries/JLPT.zip"/>JLPT.zip</a>
                         <div class="glossaryProviderLine">Suggéré par 
@@ -200,6 +248,29 @@
                     </td>
                     <td class="glossaryThumbnail" valign="top">
                         <img src="../img/glossaries/ReinaDelSur.png" width="62" height="100" alt="Couverture de Reina del Sur"/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Némesis</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Liste des mots dont j'ignorais la signification
+                        lors de ma lecture de ce roman de science-fiction d'Isaac Asimov.
+                        </p><p>
+                        Ces glossaires sont en français et en espagnol.
+                        </p>
+                        </div>
+                        <a href="../glossaries/Nemesis.zip"/>Nemesis.zip</a>
+                        <div class="glossaryProviderLine">Soumis par 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/Nemesis.png" width="65" height="100" alt="Couverture de Nemesis"/>
                     </td>
                 </tr>
             </table>

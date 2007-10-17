@@ -36,15 +36,43 @@
                         <div class="glossaryDescription">
                         <p>Contains new words from a book targeted for children where
                         the main character is a skeleton living in a strange town
-                        of fairy beings.  Very well done and funny.  I liked it very much.</p>
+                        of fairy beings.  Very well done and funny.  I liked it very much.
+                        </p><p>
+                        This glossary is in English and Japanese.
+                        </p>
                         </div>
                         <a href="../glossaries/GachaSan.xml"/>GachaSan.xml</a>
                         <div class="glossaryProviderLine">Provided by 
                             <span class="glossaryProvider">Frédéric Bergeron</span>.
                         </div>
                     </td>
-                    <td class="glossaryThumbnail">
+                    <td class="glossaryThumbnail" valign="top">
                         <img src="../img/glossaries/GachaSan.png" width="68" height="100" alt="Cover of GachaSan"/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Ramu-San, the mummy</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Contains new words from a book targeted for children from
+                        the same serie of Gacha-San.  It happens in the same village
+                        except that this time, it tells a day in the life of Ramu-San,
+                        the mummy.  Very cute.
+                        </p><p>
+                        This glossary is in English and Japanese.
+                        </p>
+                        </div>
+                        <a href="../glossaries/RamuSan.xml"/>RamuSan.xml</a>
+                        <div class="glossaryProviderLine">Provided by 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/RamuSan.png" width="69" height="100" alt="Cover of RamuSan"/>
                     </td>
                 </tr>
             </table>
@@ -63,6 +91,8 @@
                         I've only read a few chapters so far.  I will add other
                         chapters later.  It's a very slow process to read such a 
                         complicated book.
+                        </p><p>
+                        This glossary is in English and Japanese.
                         </p>
                         </div>
                         <a href="../glossaries/TanoshiiRuby.zip"/>TanoshiiRuby.zip</a>
@@ -82,7 +112,10 @@
                 <tr>
                     <td>
                         <div class="glossaryDescription">
-                        <p>Booklet for introduction and drill of kanjis of level 4.</p>
+                        <p>Booklet for introduction and drill of kanjis of level 4.
+                        </p><p>
+                        This glossary is in English and Japanese.
+                        </p>
                         </div>
                         <a href="../glossaries/KanjiDrill4Top.zip"/>KanjiDrill4Top.zip</a>
                         <div class="glossaryProviderLine">Provided by 
@@ -102,7 +135,10 @@
                     <td>
                         <div class="glossaryDescription">
                         <p>Glossary files oriented on the learning of kanjis.
-                        Hundreds (500) of kanjis with associated compounds.</p>
+                        Hundreds (500) of kanjis with associated compounds.
+                        </p><p>
+                        These glossaries are in English and Japanese.
+                        </p>
                         </div>
                         <a href="../glossaries/KanjiLists.zip"/>KanjiLists.zip</a>
                         <div class="glossaryProviderLine">Kindly provided by 
@@ -122,7 +158,10 @@
                     <td>
                         <div class="glossaryDescription">
                         <p>Some words taken from this study book.  One glossary file for
-                        each of the 23 lessons.</p>
+                        each of the 23 lessons.
+                        </p><p>
+                        This glossary is in English and Japanese.
+                        </p>
                         </div>
                         <a href="../glossaries/Genki1.zip"/>Genki1.zip</a>
                         <div class="glossaryProviderLine">Kindly provided by 
@@ -141,7 +180,10 @@
                 <tr>
                     <td>
                         <div class="glossaryDescription">
-                        <p>261 useful phrases (taken from Watakan).</p>
+                        <p>261 useful phrases (taken from Watakan).
+                        </p><p>
+                        This glossary is in English and Japanese.
+                        </p>
                         </div>
                         <a href="../glossaries/JapanesePhrases.xml"/>JapanesePhrases.xml</a>
                         <div class="glossaryProviderLine">Kindly provided by 
@@ -160,8 +202,11 @@
                 <tr>
                     <td>
                         <div class="glossaryDescription">
-                        <p>Official list of words for the JLPT (4 levels)</p>
-                        <p>Source: Copyright (C) 2001 Thierry Bézecourt (<a href="http://www.thbz.org<">http://www.thbz.org</a>)</p>
+                        <p>Official list of words for the JLPT (4 levels)
+                        </p><p>
+                        These glossaries are in English and Japanese.
+                        </p><p>
+                        Source: Copyright (C) 2001 Thierry Bézecourt (<a href="http://www.thbz.org<">http://www.thbz.org</a>)</p>
                         </div>
                         <a href="../glossaries/JLPT.zip"/>JLPT.zip</a>
                         <div class="glossaryProviderLine">Suggested by 
@@ -194,6 +239,28 @@
                     </td>
                     <td class="glossaryThumbnail" valign="top">
                         <img src="../img/glossaries/ReinaDelSur.png" width="62" height="100" alt="Cover of Reina del Sur"/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Némesis</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>List of words taken from this Isaac Asimov's science-fiction novel.
+                        </p><p>
+                        These glossaries are in French and Spanish.
+                        </p>
+                        </div>
+                        <a href="../glossaries/Nemesis.zip"/>Nemesis.zip</a>
+                        <div class="glossaryProviderLine">Provided by 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/Nemesis.png" width="65" height="100" alt="Cover of Nemesis"/>
                     </td>
                 </tr>
             </table>

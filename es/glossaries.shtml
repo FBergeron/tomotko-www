@@ -35,7 +35,11 @@
                         <p>Contiene las palabras nuevas de un libro para los niño en el cual
                         el personaje principal es un esqueleto llamado Gacha-San.
                         La historia ocure en un vilagio poblado con criaturas sobrenaturales.
-                        Es muy padre y comico.  Me gustó mucho.</p>
+                        </p><p>
+                        Es muy padre y comico.  Me gustó mucho.
+                        </p><p>
+                        Este glosario es en inglés y en japonés.
+                        </p>
                         </div>
                         <a href="../glossaries/GachaSan.xml"/>GachaSan.xml</a>
                         <div class="glossaryProviderLine">Mandato por 
@@ -44,6 +48,30 @@
                     </td>
                     <td class="glossaryThumbnail" valign="top">
                         <img src="../img/glossaries/GachaSan.png" width="68" height="100" alt="Pagina cubierta de GachaSan"/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Ramu-San, la momia</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Contiene las palabras nuevas de un libro donde el acción
+                        occure en el mismo barrio que Gacha-San.  Esta vez, cuenta
+                        un día especial en la vida de Ramu-San, la momia.  
+                        </p><p>
+                        Este glosario es en inglés y en japonés.
+                        </p>
+                        </div>
+                        <a href="../glossaries/RamuSan.xml"/>RamuSan.xml</a>
+                        <div class="glossaryProviderLine">Mandato por 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/RamuSan.png" width="65" height="100" alt="Pagina cubierta de RamuSan"/>
                     </td>
                 </tr>
             </table>
@@ -61,6 +89,8 @@
                         </p><p>
                         Mi lectura de este libro no es terminada ya.
                         Añadiré otras palabras más tarde.
+                        </p><p>
+                        Estos glosarios son en inglés y en japonés.
                         </p>
                         </div>
                         <a href="../glossaries/TanoshiiRuby.zip"/>TanoshiiRuby.zip</a>
@@ -81,6 +111,8 @@
                     <td>
                         <div class="glossaryDescription">
                         <p>Pequeño libro de ejercicios para introducirse a los kanjis del nivel 4
+                        </p><p>
+                        Estos glosarios son en inglés y en japonés.
                         </p>
                         </div>
                         <a href="../glossaries/KanjiDrill4Top.zip"/>KanjiDrill4Top.zip</a>
@@ -100,7 +132,10 @@
                 <tr>
                     <td>
                         <div class="glossaryDescription">
-                        <p>4 archivos de datos cada uno contiendo 100 kanjis con varios ejemplos de palabras.</p>
+                        <p>4 archivos de datos cada uno contiendo 100 kanjis con varios ejemplos de palabras.
+                        </p><p>
+                        Estos glosarios son en inglés y en japonés.
+                        </p>
                         </div>
                         <a href="../glossaries/KanjiLists.zip"/>KanjiLists.zip</a>
                         <div class="glossaryProviderLine">Mandato por 
@@ -120,7 +155,10 @@
                     <td>
                         <div class="glossaryDescription">
                         <p>23 archivos de datos cada uno contiene las palabras de
-                        cada lección de este libro de aprendisaje del idioma japonés.</p>
+                        cada lección de este libro de aprendisaje del idioma japonés.
+                        </p><p>
+                        Estos glosarios son en inglés y en japonés.
+                        </p>
                         </div>
                         <a href="../glossaries/Genki1.zip"/>Genki1.zip</a>
                         <div class="glossaryProviderLine">Mandato por
@@ -139,7 +177,10 @@
                 <tr>
                     <td>
                         <div class="glossaryDescription">
-                        <p>261 frases practicas (proviniendas de Watakan).</p>
+                        <p>261 frases practicas (proviniendas de Watakan).
+                        </p><p>
+                        Este glosario es en inglés y en japonés.
+                        </p>
                         </div>
                         <a href="../glossaries/JapanesePhrases.xml"/>JapanesePhrases.xml</a>
                         <div class="glossaryProviderLine">Mandato por 
@@ -158,8 +199,11 @@
                 <tr>
                     <td>
                         <div class="glossaryDescription">
-                        <p>Lista oficial de las palabras del testo JLPT (4 niveles).</p>
-                        <p>Origen: Copyright (C) 2001 Thierry Bézecourt (<a href="http://www.thbz.org">http://www.thbz.org</a>)</p>
+                        <p>Lista oficial de las palabras del testo JLPT (4 niveles).
+                        </p><p>
+                        Este glosario es en inglés y en japonés.
+                        </p><p>
+                        Origen: Copyright (C) 2001 Thierry Bézecourt (<a href="http://www.thbz.org">http://www.thbz.org</a>)</p>
                         </div>
                         <a href="../glossaries/JLPT.zip"/>JLPT.zip</a>
                         <div class="glossaryProviderLine">Sugerado por
@@ -193,6 +237,29 @@
                     </td>
                     <td class="glossaryThumbnail" valign="top">
                         <img src="../img/glossaries/ReinaDelSur.png" width="62" height="100" alt="Pagina cubierta de Reina del Sur"/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Némesis</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Lista de palabras nuevas encontradas durante la lectura 
+                        de esta novela de ciencia ficción escrito por Isaac Asimov.
+                        </p><p>
+                        Estos glosarios son en francés y en español.
+                        </p>
+                        </div>
+                        <a href="../glossaries/Nemesis.zip"/>Nemesis.zip</a>
+                        <div class="glossaryProviderLine">Mandato por 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/Nemesis.png" width="65" height="100" alt="Pagina cubierta de Nemesis"/>
                     </td>
                 </tr>
             </table>
