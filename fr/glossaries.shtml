@@ -165,13 +165,15 @@
                 <tr>
                     <td>
                         <div class="glossaryDescription">
-                        <p>23 fichiers de données pour chacune des leçons de 
-                        ce livret d'apprentissage de la langue japonaise.
+                        <p>2 archives, chacune contenant 23 glossaires des mots
+                        et kanjis pour chaque leçon de ce livret d'apprentissage de
+                        la langue japonaise.
                         </p><p>
                         Ces glossaires sont en anglais et en japonais.
                         </p>
                         </div>
-                        <a href="../glossaries/Genki1.zip"/>Genki1.zip</a>
+                        <a href="../glossaries/Genki1.zip"/>Genki1Vocab.zip</a>
+                        <a href="../glossaries/Genki1.zip"/>Genki1Kanji.zip</a>
                         <div class="glossaryProviderLine">Soumis gracieusement par
                             <span class="glossaryProvider">Kurochka</span>.
                         </div>

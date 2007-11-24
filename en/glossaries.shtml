@@ -157,13 +157,14 @@
                 <tr>
                     <td>
                         <div class="glossaryDescription">
-                        <p>Some words taken from this study book.  One glossary file for
-                        each of the 23 lessons.
+                        <p>Some words and kanjis taken from this study book.  
+                        2 archives, each one containing 23 glossaries, one by lesson.
                         </p><p>
                         This glossary is in English and Japanese.
                         </p>
                         </div>
-                        <a href="../glossaries/Genki1.zip"/>Genki1.zip</a>
+                        <a href="../glossaries/Genki1.zip"/>Genki1Vocab.zip</a>
+                        <a href="../glossaries/Genki1.zip"/>Genki1Kanji.zip</a>
                         <div class="glossaryProviderLine">Kindly provided by 
                             <span class="glossaryProvider">Kurochka</span>.
                         </div>
