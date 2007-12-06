@@ -59,15 +59,21 @@
                 </tr>
                 <tr>
                     <td>
-                        <a href="../img/screenshots/quizInJapanese_en2de.png"><img src="../img/screenshots/thumbQuizInJapanese_en2de.png" alt="Screenshot del quiz en japones" width="100" height="75"/></a>
+                        <a href="../img/screenshots/quizInJapanese_fr2de.png"><img src="../img/screenshots/thumbQuizInJapanese_fr2de.png" alt="Screenshot del quiz en japones" width="100" height="75"/></a>
                     </td>
-                    <td>Quiz (en japonés) desde inglés hasta alemán</td>
+                    <td>Quiz (en japonés) desde francés hasta alemán</td>
                 </tr>
                 <tr>
                     <td>
-                        <a href="../img/screenshots/glossaryManager_en2de.png"><img src="../img/screenshots/thumbGlossaryManager_en2de.png" alt="Screenshot del gestionario de glosarios desde ingles hasta aleman" width="100" height="75"/></a>
+                        <a href="../img/screenshots/glossaryManager_en2th.png"><img src="../img/screenshots/thumbGlossaryManager_en2th.png" alt="Screenshot del gestionario de glosarios desde ingles hasta thai" width="100" height="75"/></a>
                     </td>
-                    <td>Gestionario de glosarios desde inglés hasta alemán</td>
+                    <td>Gestionario de glosarios desde ingles hasta thai</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="../img/screenshots/glossaryManager_fr2de.png"><img src="../img/screenshots/thumbGlossaryManager_fr2de.png" alt="Screenshot del gestionario de glosarios desde ingles hasta aleman" width="100" height="75"/></a>
+                    </td>
+                    <td>Gestionario de glosarios desde francés hasta alemán</td>
                 </tr>
                 <tr>
                     <td>

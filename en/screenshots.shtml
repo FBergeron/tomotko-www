@@ -58,15 +58,21 @@
                 </tr>
                 <tr>
                     <td>
-                        <a href="../img/screenshots/quizInJapanese_en2de.png"><img src="../img/screenshots/thumbQuizInJapanese_en2de.png" alt="Thumbnail of Quiz (in Japanese) screenshot" width="100" height="75"/></a>
+                        <a href="../img/screenshots/quizInJapanese_fr2de.png"><img src="../img/screenshots/thumbQuizInJapanese_fr2de.png" alt="Thumbnail of Quiz (in Japanese) screenshot" width="100" height="75"/></a>
                     </td>
-                    <td>Quiz (in Japanese) from English to German</td>
+                    <td>Quiz (in Japanese) from French to German</td>
                 </tr>
                 <tr>
                     <td>
-                        <a href="../img/screenshots/glossaryManager_en2de.png"><img src="../img/screenshots/thumbGlossaryManager_en2de.png" alt="Thumbnail of Glossary Manager (from English to German) screenshot" width="100" height="75"/></a>
+                        <a href="../img/screenshots/glossaryManager_en2th.png"><img src="../img/screenshots/thumbGlossaryManager_en2th.png" alt="Thumbnail of Glossary Manager (from English to Thai) screenshot" width="100" height="75"/></a>
                     </td>
-                    <td>Glossary Manager from English to German</td>
+                    <td>Glossary Manager from English to Thai</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="../img/screenshots/glossaryManager_fr2de.png"><img src="../img/screenshots/thumbGlossaryManager_fr2de.png" alt="Thumbnail of Glossary Manager (from English to German) screenshot" width="100" height="75"/></a>
+                    </td>
+                    <td>Glossary Manager from French to German</td>
                 </tr>
                 <tr>
                     <td>

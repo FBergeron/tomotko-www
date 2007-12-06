@@ -58,15 +58,21 @@
                 </tr>
                 <tr>
                     <td>
-                        <a href="../img/screenshots/quizInJapanese_en2de.png"><img src="../img/screenshots/thumbQuizInJapanese_en2de.png" alt="Aperçu du Quiz en japonais" width="100" height="75"/></a>
+                        <a href="../img/screenshots/quizInJapanese_fr2de.png"><img src="../img/screenshots/thumbQuizInJapanese_fr2de.png" alt="Aperçu du Quiz en japonais" width="100" height="75"/></a>
                     </td>
-                    <td>Quiz (en japonais) de l'anglais vers l'allemand</td>
+                    <td>Quiz (en japonais) du français vers l'allemand</td>
                 </tr>
                 <tr>
                     <td>
-                        <a href="../img/screenshots/glossaryManager_en2de.png"><img src="../img/screenshots/thumbGlossaryManager_en2de.png" alt="Aperçu du Gestionnaire de glossaires (de l'anglais vers l'allemand)" width="100" height="75"/></a>
+                        <a href="../img/screenshots/glossaryManager_en2th.png"><img src="../img/screenshots/thumbGlossaryManager_en2th.png" alt="Aperçu du Gestionnaire de glossaires (de l'anglais vers le thailandais)" width="100" height="75"/></a>
                     </td>
-                    <td>Gestionnaire de glossaires de l'anglais vers l'allemand</td>
+                    <td>Gestionnaire de glossaires de l'anglais vers le thaïlandais</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="../img/screenshots/glossaryManager_fr2de.png"><img src="../img/screenshots/thumbGlossaryManager_fr2de.png" alt="Aperçu du Gestionnaire de glossaires (de l'anglais vers l'allemand)" width="100" height="75"/></a>
+                    </td>
+                    <td>Gestionnaire de glossaires du français vers l'allemand</td>
                 </tr>
                 <tr>
                     <td>
