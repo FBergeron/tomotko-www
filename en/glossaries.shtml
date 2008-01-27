@@ -289,6 +289,26 @@
                     </td>
                 </tr>
             </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Harrap's Express Method for learning German</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Glossaries taken from lessons 1 to 9.</p>
+                        <p>These glossaries are in French and German.</p>
+                        </div>
+                        <a href="../glossaries/HarrapsExpressMethod_fr2de.zip"/>HarrapsExpressMethod_fr2de.zip</a><br />
+                        <div class="glossaryProviderLine">Provided by 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <br/>
+                    </td>
+                </tr>
+            </table>
         </div>
         <div id="sidebar">
             <img src="../img/logo.png" width="260" height="255" alt="toMOTko Logo"/>

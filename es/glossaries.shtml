@@ -289,6 +289,26 @@
                     </td>
                 </tr>
             </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Harrap's lecciones para apprender Aleman</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Lecciones 1 hasta 9 de los libros Harrap's para apprender Aleman.</p>
+                        <p>Estos glosarios son en francés y en aleman.</p>
+                        </div>
+                        <a href="../glossaries/HarrapsExpressMethod_fr2de.zip"/>HarrapsExpressMethod_fr2de.zip</a><br />
+                        <div class="glossaryProviderLine">Mandatos por 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <br/>
+                    </td>
+                </tr>
+            </table>
         </div>
         <div id="sidebar">
             <img src="../img/logo.png" width="260" height="255" alt="Logo de toMOTko"/>

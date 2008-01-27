@@ -300,6 +300,27 @@
                     </td>
                 </tr>
             </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Méthode Express Harrap's Allemand</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Glossaires tirés de la méthode d'apprentissage de l'allemand.
+                        Couvre les leçons 1 à 9.</p>
+                        <p>Ces glossaires sont en français et en allemand.</p>
+                        </div>
+                        <a href="../glossaries/HarrapsExpressMethod_fr2de.zip"/>HarrapsExpressMethod_fr2de.zip</a><br />
+                        <div class="glossaryProviderLine">Soumis par 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <br/>
+                    </td>
+                </tr>
+            </table>
         </div>
         <div id="sidebar">
             <img src="../img/logo.png" width="260" height="255" alt="Logo de toMOTko"/>
