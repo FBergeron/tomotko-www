@@ -41,7 +41,7 @@
                         This glossary is in English and Japanese.
                         </p>
                         </div>
-                        <a href="../glossaries/GachaSan.xml"/>GachaSan.xml</a>
+                        <a href="../glossaries/GachaSan.zip"/>GachaSan.zip</a>
                         <div class="glossaryProviderLine">Provided by 
                             <span class="glossaryProvider">Frédéric Bergeron</span>.
                         </div>
@@ -66,7 +66,7 @@
                         This glossary is in English and Japanese.
                         </p>
                         </div>
-                        <a href="../glossaries/RamuSan.xml"/>RamuSan.xml</a>
+                        <a href="../glossaries/RamuSan.zip"/>RamuSan.zip</a>
                         <div class="glossaryProviderLine">Provided by 
                             <span class="glossaryProvider">Frédéric Bergeron</span>.
                         </div>
@@ -163,8 +163,7 @@
                         This glossary is in English and Japanese.
                         </p>
                         </div>
-                        <a href="../glossaries/Genki1.zip"/>Genki1Vocab.zip</a>
-                        <a href="../glossaries/Genki1.zip"/>Genki1Kanji.zip</a>
+                        <a href="../glossaries/Genki1.zip"/>Genki1.zip</a>
                         <div class="glossaryProviderLine">Kindly provided by 
                             <span class="glossaryProvider">Kurochka</span>.
                         </div>
@@ -186,7 +185,7 @@
                         This glossary is in English and Japanese.
                         </p>
                         </div>
-                        <a href="../glossaries/JapanesePhrases.xml"/>JapanesePhrases.xml</a>
+                        <a href="../glossaries/JapanesePhrases.zip"/>JapanesePhrases.zip</a>
                         <div class="glossaryProviderLine">Kindly provided by 
                             <span class="glossaryProvider">Kurochka</span>.
                         </div>
@@ -233,7 +232,7 @@
                         This glossary is in French and Spanish.
                         </p>
                         </div>
-                        <a href="../glossaries/ReinaDelSur.xml"/>ReinaDelSur.xml</a>
+                        <a href="../glossaries/ReinaDelSur.zip"/>ReinaDelSur.zip</a>
                         <div class="glossaryProviderLine">Provided by 
                             <span class="glossaryProvider">Frédéric Bergeron</span>.
                         </div>
@@ -274,12 +273,12 @@
                         <div class="glossaryDescription">
                         <p>Useful glossaries to learn Thai.</p>
                         <p>These glossaries are in English and Thai.</p>
-                        <p>Source: <a href="">Thai on Zaurus</a></p>
+                        <p>Source: <a href="http://www.lyndonhill.com/Projects/thaionzaurus.html">Thai on Zaurus</a></p>
                         </div>
-                        <a href="../glossaries/ThaiAlphabet.xml"/>ThaiAlphabet.xml</a><br />
-                        <a href="../glossaries/ThaiNumbers.xml"/>ThaiNumbers.xml</a><br />
-                        <a href="../glossaries/ThaiTime.xml"/>ThaiTime.xml</a><br />
-                        <a href="../glossaries/ThaiEverydayPhrases.xml"/>ThaiEverydayPhrases.xml</a><br />
+                        <a href="../glossaries/ThaiAlphabet.zip"/>ThaiAlphabet.zip</a><br />
+                        <a href="../glossaries/ThaiNumbers.zip"/>ThaiNumbers.zip</a><br />
+                        <a href="../glossaries/ThaiTime.zip"/>ThaiTime.zip</a><br />
+                        <a href="../glossaries/ThaiEveryDayPhrases.zip"/>ThaiEveryDayPhrases.zip</a><br />
                         <div class="glossaryProviderLine">Provided by 
                             <span class="glossaryProvider">Koan</span>.
                         </div>
