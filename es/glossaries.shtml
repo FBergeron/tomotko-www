@@ -20,6 +20,7 @@
             <h2>Glossarios</h2>
             <p>
             Aquí están algunos glosarios proviniendos de usuarios de toMOTko.
+            Usted puede importar estos glosarios en su toMOTko.
             </p><p>
             Si usted quiere compartir sus glosarios con otros usuarios de toMOTko, puede
             usar las funcionalidades de importación/exportación y mandarme sus datos.
@@ -111,6 +112,9 @@
                     <td>
                         <div class="glossaryDescription">
                         <p>Pequeño libro de ejercicios para introducirse a los kanjis del nivel 4
+                        </p><p>
+                        Algunos palabras usan imagenes animadas del sitio <a href="http://www.kanjicafe.com">KanjiCafe</a>.
+                        El uso de estas imagenes es conforme a la <a href="http://www.kanjicafe.com/license.htm">licencia</a>.
                         </p><p>
                         Estos glosarios son en inglés y en japonés.
                         </p>

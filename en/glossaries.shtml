@@ -19,9 +19,7 @@
         <div id="main">
             <h2>Glossaries</h2>
             <p>
-            This page contains some of my glossary files.  This proves that the 
-            import/export feature works.  Also, I think it could be useful for someone
-            wanting to build its own data files so he or she can examine the XML format.
+            This page contains some of my glossary files that you can import into toMOTko.
             </p><p>
             If you want to share your glossary files, please send them to me.  I will gladly
             put them in this page.  I plan to provide a dynamic web interface to facilitate the
@@ -113,6 +111,9 @@
                     <td>
                         <div class="glossaryDescription">
                         <p>Booklet for introduction and drill of kanjis of level 4.
+                        </p><p>
+                        Some terms contain animated kanjis taken from <a href="http://www.kanjicafe.com">KanjiCafe</a>
+                        and are used according to the <a href="http://www.kanjicafe.com/license.htm">license</a>.
                         </p><p>
                         This glossary is in English and Japanese.
                         </p>
