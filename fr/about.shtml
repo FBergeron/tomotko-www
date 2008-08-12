@@ -65,7 +65,6 @@
             Voici une liste de fonctionnalités à implanter :<br/>
             </p>
             <ul>
-                <li>Améliorer le gestionnaire de glossaires (permettre de changer l'organisation des dossiers).</li>
                 <li>Conserver/rétablir l'état de l'application lorsqu'on la ferme/lance.</li>
                 <li>Faire fonctionner l'application sur d'autres plateformes.</li>
                 <li>Statistiques (nombres de mots dans les glossaires, pourcentage de succès et d'echecs, etc.)</li>

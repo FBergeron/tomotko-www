@@ -63,7 +63,6 @@
             Features to implement :<br/>
             </p>
             <ul>
-                <li>Improve the glossary manager (we should be able to move folders and words easily, etc.)</li>
                 <li>Keep/restore state when quitting/starting the application.</li>
                 <li>Make it work for other platforms.</li>
                 <li>Some statistics (word count, percentage of success/misses, etc.)</li>

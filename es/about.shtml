@@ -55,7 +55,6 @@
             Aquí está la lista de algunas funcionalidades planificadas :
             </p>
             <ul>
-                <li>Amejorar el gestionario de glosarios (permitir el cambio de organización de las palabras/archivos).</li>
                 <li>Conservar/restablecer el estado de la aplicación cuando la cerra/abrera.</li>
                 <li>Migrar sobre otras plateformas (Windows, Linux, MacOS, ncurses, etc.)</li>
                 <li>Introducir estadísticos varios.</li>
