@@ -33,7 +33,7 @@
                 <tr>
                     <td>
                         <div class="glossaryDescription">
-                        <p>Contiene las palabras nuevas de un libro para los niño en el cual
+                        <p>Contiene las palabras nuevas de un libro para los niños en el cual
                         el personaje principal es un esqueleto llamado Gacha-San.
                         La historia ocure en un vilagio poblado con criaturas sobrenaturales.
                         </p><p>
@@ -73,6 +73,30 @@
                     </td>
                     <td class="glossaryThumbnail" valign="top">
                         <img src="../img/glossaries/RamuSan.png" width="65" height="100" alt="Pagina cubierta de RamuSan"/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Hoyahoya, el ave</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Contiene las palabras nuevas de un libro para los niños en el cual
+                        el personaje principal es un ave llamado Hoyahoya.
+                        La historia ocure en un vilagio poblado con criaturas sobrenaturales.
+                        </p><p>
+                        Este glosario es en inglés y en japonés.
+                        </p>
+                        </div>
+                        <a href="../glossaries/HoyahoyaKeichou.zip"/>HoyahoyaKeichou.zip</a>
+                        <div class="glossaryProviderLine">Mandato por 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/KeichouHoyahoya.png" width="68" height="100" alt="Pagina cubierta de Hoyahoya"/>
                     </td>
                 </tr>
             </table>

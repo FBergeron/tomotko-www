@@ -76,6 +76,30 @@
             </table>
             <table id="glossaryTable">
                 <tr colspan="2">
+                    <td class="glossaryTitle">Hoyahoya, the bird</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Contains new words from a book targeted for children where
+                        the main character is a funny bird living in a strange town
+                        of fairy beings.
+                        </p><p>
+                        This glossary is in English and Japanese.
+                        </p>
+                        </div>
+                        <a href="../glossaries/HoyahoyaKeichou.zip"/>HoyahoyaKeichou.zip</a>
+                        <div class="glossaryProviderLine">Provided by 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/KeichouHoyahoya.png" width="68" height="100" alt="Cover of Hoyahoya"/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
                     <td class="glossaryTitle">Tanoshii Ruby</td>
                 </tr>
                 <tr>

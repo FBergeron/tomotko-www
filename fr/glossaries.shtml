@@ -78,6 +78,31 @@
             </table>
             <table id="glossaryTable">
                 <tr colspan="2">
+                    <td class="glossaryTitle">Hoyahoya, l'oiseau</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Contient les mots nouveaux d'un livre pour enfants
+                        dont le principal intervenant est Hoyahoya, un oiseau tirant certains
+                        pouvoirs d'un collier magique.
+                        L'histoire se passe dans un village peuplé de créatures surnaturelles.
+                        </p><p>
+                        Ce glossaire est en anglais et en japonais.
+                        </p>
+                        </div>
+                        <a href="../glossaries/HoyahoyaKeichou.zip"/>HoyahoyaKeichou.zip</a>
+                        <div class="glossaryProviderLine">Soumis par 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/KeichouHoyahoya.png" width="68" height="100" alt="Couverture de Hoyahoya"/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
                     <td class="glossaryTitle">Tanoshii Ruby</td>
                 </tr>
                 <tr>
