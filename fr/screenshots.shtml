@@ -80,6 +80,18 @@
                     </td>
                     <td>Gestionnaire de glossaires (en français) (du français vers l'espagnol)</td>
                 </tr>
+                <tr>
+                    <td>
+                        <a href="../img/screenshots/search.png"><img src="../img/screenshots/thumbSearch.png" alt="Aperçu du l'outil de Recherche" width="100" height="75"/></a>
+                    </td>
+                    <td>Outil de recherche</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="../img/screenshots/sequenceEditor.png"><img src="../img/screenshots/thumbSequenceEditor.png" alt="Aperçu de l'editeur de sequences" width="100" height="75"/></a>
+                    </td>
+                    <td>Éditeur de séquences</td>
+                </tr>
             </table>
         </div>
         <div id="sidebar">

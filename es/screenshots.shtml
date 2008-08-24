@@ -49,13 +49,13 @@
                     <td>
                         <a href="../img/screenshots/preferencesFonts.png"><img src="../img/screenshots/thumbPreferencesFonts.png" alt="Screenshot de las preferencias de los tipos de letras" width="100" height="75"/></a>
                     </td>
-                    <td>Preferenciasde los tipos de letras</td>
+                    <td>Preferencias de los tipos de letras</td>
                 </tr>
                 <tr>
                     <td>
                         <a href="../img/screenshots/preferencesInterface.png"><img src="../img/screenshots/thumbPreferencesInterface.png" alt="Screenshot de las preferencias del interface" width="100" height="75"/></a>
                     </td>
-                    <td>Preferenciasdel interface</td>
+                    <td>Preferencias del interface</td>
                 </tr>
                 <tr>
                     <td>
@@ -80,6 +80,18 @@
                         <a href="../img/screenshots/glossaryManagerInFrench_fr2es.png"><img src="../img/screenshots/thumbGlossaryManagerInFrench_fr2es.png" alt="Screenshot del gestionario de glosarios en frances (desde frances hasta espanol)" width="100" height="75"/></a>
                     </td>
                     <td>Gestionario de glosarios (en franćes) desde francés hasta español</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="../img/screenshots/search.png"><img src="../img/screenshots/thumbSearch.png" alt="Screenshot del herramienta de buscada" width="100" height="75"/></a>
+                    </td>
+                    <td>Herramienta de buscada</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="../img/screenshots/sequenceEditor.png"><img src="../img/screenshots/thumbSequenceEditor.png" alt="Screenshot del editor de secuencias" width="100" height="75"/></a>
+                    </td>
+                    <td>Editor de secuencias</td>
                 </tr>
             </table>
         </div>

@@ -24,6 +24,27 @@
             To see the evolution of the application, you can also view the associated screenshots using the button below.</p>
             <p><input type="button" id="toggleShowHideScreenshotsButton" onClick="javascript:toggleScreenshots();" value="Show Screenshots"/></p>
             <table id="releaseTable">
+                <h3>0.11.x</h3>
+                <tr><td>
+<p>Version 0.11.0 (????-??-??)</p>
+<ul>
+<li>...</li>
+<li>Reimplemented revealing sequence tool.</li>
+<li>Added Search tool.</li>
+</ul>
+<div class="historyScreenshots"
+<a href="../img/history/0.11.x/GlossaryManager.png"><img src="../img/history/0.11.x/GlossaryManager_small.png" width="320" height="240" alt="GlossaryManager"></img></a>
+<a href="../img/history/0.11.x/Quiz.png"><img src="../img/history/0.11.x/Quiz_small.png" width="320" height="240" alt="Quiz"></img></a>
+<a href="../img/history/0.11.x/PreferencesQuiz.png"><img src="../img/history/0.11.x/PreferencesQuiz_small.png" width="320" height="240" alt="Preferences - Quiz"></img></a>
+<a href="../img/history/0.11.x/PreferencesLanguages.png"><img src="../img/history/0.11.x/PreferencesLanguages_small.png" width="320" height="240" alt="Preferences - Languages"></img></a>
+<a href="../img/history/0.11.x/PreferencesFonts.png"><img src="../img/history/0.11.x/PreferencesFonts_small.png" width="320" height="240" alt="Preferences - Fonts"></img></a>
+<a href="../img/history/0.11.x/PreferencesInterface.png"><img src="../img/history/0.11.x/PreferencesInterface_small.png" width="320" height="240" alt="Preferences - Interface"></img></a>
+<a href="../img/history/0.11.x/Search.png"><img src="../img/history/0.11.x/Search_small.png" width="320" height="240" alt="Search"></img></a>
+<a href="../img/history/0.11.x/SequenceEditor.png"><img src="../img/history/0.11.x/SequenceEditor_small.png" width="320" height="240" alt="Sequence Editor"></img></a>
+</div>
+                </td></tr>
+            </table>
+            <table id="releaseTable">
                 <h3>0.10.x</h3>
                 <tr><td>
 <p>Version 0.10.0 (2008-07-06)</p>
@@ -59,7 +80,7 @@
 <ul>
 <li>Implemented cut, copy, and paste for vocabularies and folders.</li>
 <li>Added scrolling capabilities with arrow keys for Quiz.</li>
-<li>Got rid of LegacyVocabParser for deprecatedglossary XML format.</li>
+<li>Got rid of LegacyVocabParser for deprecated glossary XML format.</li>
 <li>Save vocabulary tree in compressed binary.</li>
 <li>Began adding support for Chinese (still embryonary).</li>
 <li>Improved persistence management for keyboard accelerators.</li>
@@ -160,7 +181,7 @@
 <li>Added font preferences.</li>
 <li>Implemented multiple words deletion.</li>
 <li>Optimized data saving when closing the application.</li>
-<li>Added buttons to check all terms of glossaryor inverse the selection.</li>
+<li>Added buttons to check all terms of glossary or inverse the selection.</li>
 <li>Improved application's icon.</li>
 </ul>
 <div class="historyScreenshots">

@@ -80,6 +80,18 @@
                     </td>
                     <td>Glossary Manager (in French) from French to Spanish</td>
                 </tr>
+                <tr>
+                    <td>
+                        <a href="../img/screenshots/search.png"><img src="../img/screenshots/thumbSearch.png" alt="Thumbnail of Search Tool screenshot" width="100" height="75"/></a>
+                    </td>
+                    <td>Search Tool</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="../img/screenshots/sequenceEditor.png"><img src="../img/screenshots/thumbSequenceEditor.png" alt="Thumbnail of Sequence Editor screenshot" width="100" height="75"/></a>
+                    </td>
+                    <td>Sequence Editor</td>
+                </tr>
             </table>
         </div>
         <div id="sidebar">
