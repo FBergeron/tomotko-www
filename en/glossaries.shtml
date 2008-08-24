@@ -88,7 +88,7 @@
                         This glossary is in English and Japanese.
                         </p>
                         </div>
-                        <a href="../glossaries/HoyahoyaKeichou.zip"/>HoyahoyaKeichou.zip</a>
+                        <a href="../glossaries/KeichouHoyahoya.zip"/>KeichouHoyahoya.zip</a>
                         <div class="glossaryProviderLine">Provided by 
                             <span class="glossaryProvider">Frédéric Bergeron</span>.
                         </div>
@@ -343,6 +343,7 @@
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko/">SVN repository</a></li>
                 <li><a href="../doc/html/index.html">Doxygen documentation</a></li>
                 <li><a href="converters.shtml">Data converters</a>
+                <li><a href="history.shtml">History</a>
                 <li><a href="credits.shtml">Credits</a></li>
             </ul>
         </div>

@@ -29,6 +29,11 @@ body {
     width:              500px;
 }
 
+.historyScreenshots {
+    margin-left:        10px;
+    display:            none;
+}
+
 #sidebar {
     background:         #fff;
     float:              right;

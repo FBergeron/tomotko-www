@@ -1,0 +1,258 @@
+<!DOCTYPE html 
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "DTD/xhtml1-transitional.dtd">
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="History of toMOTko" />
+    <meta name="keywords" content="flashcard,japanese,learning,vocabulary,zaurus,history" />
+    <meta name="copyright" content="Copyright (c) 2006 Frederic Bergeron" />
+    <meta name="author" content="Frederic Bergeron" />
+    <link rel="stylesheet" href="../default.css" type="text/css"/>
+    <script type="text/javascript" src="../jquery-1.2.6.min.js"></script>
+    <script type="text/javascript" src="../util.js"></script>
+    <title>toMOTko's history</title>
+</head>
+<body bgcolor="#ffffff">
+    <div id="wrap">
+        <div id="header">
+            <img src="../img/tomotkoTitle.png" width="216" height="46" alt="toMOTko's title"/>
+        </div>
+        <div id="main" style="width: 100%">
+            <h2>History</h2>
+            <p>In this page, you will find the list of modifications corresponding for each release.
+            To see the evolution of the application, you can also view the associated screenshots using the button below.</p>
+            <p><input type="button" id="toggleShowHideScreenshotsButton" onClick="javascript:toggleScreenshots();" value="Show Screenshots"/></p>
+            <table id="releaseTable">
+                <h3>0.10.x</h3>
+                <tr><td>
+<p>Version 0.10.0 (2008-07-06)</p>
+<ul>
+<li>Added image support for terms.</li>
+<li>Added support for tree and subtree manipulations (copy, cut, paste, import, export).</li>
+<li>Changed data format to use file system hierarchy and zip files.</li>
+<li>Various bug fixes.</li>
+</ul>
+<div class="historyScreenshots"
+<a href="../img/history/0.10.x/GlossaryManager.png"><img src="../img/history/0.10.x/GlossaryManager_small.png" width="320" height="240" alt="GlossaryManager"></img></a>
+<a href="../img/history/0.10.x/Quiz.png"><img src="../img/history/0.10.x/Quiz_small.png" width="320" height="240" alt="Quiz"></img></a>
+<a href="../img/history/0.10.x/PreferencesQuiz.png"><img src="../img/history/0.10.x/PreferencesQuiz_small.png" width="320" height="240" alt="Preferences - Quiz"></img></a>
+<a href="../img/history/0.10.x/PreferencesLanguages.png"><img src="../img/history/0.10.x/PreferencesLanguages_small.png" width="320" height="240" alt="Preferences - Languages"></img></a>
+<a href="../img/history/0.10.x/PreferencesFonts.png"><img src="../img/history/0.10.x/PreferencesFonts_small.png" width="320" height="240" alt="Preferences - Fonts"></img></a>
+<a href="../img/history/0.10.x/PreferencesInterface.png"><img src="../img/history/0.10.x/PreferencesInterface_small.png" width="320" height="240" alt="Preferences - Interface"></img></a>
+</div>
+                </td></tr>
+            </table>
+            <table id="releaseTable">
+                <h3>0.9.x</h3>
+                <tr><td>
+<p>Version 0.9.2 (2008-03-16)</p>
+<ul>
+<li>Fixed copy-cut-paste bug reported by Kurochka.</li>
+<li>Fixed bug #1872216 : Added test before copying previous data in preinst script.</li>
+</ul>
+<p>Version 0.9.1 (2007-12-22)</p>
+<ul>
+<li>Fixed crash bug with cut & paste reported by Kurochka.</li>
+</ul>
+<p>Version 0.9.0 (2007-12-20)</p>
+<ul>
+<li>Implemented cut, copy, and paste for vocabularies and folders.</li>
+<li>Added scrolling capabilities with arrow keys for Quiz.</li>
+<li>Got rid of LegacyVocabParser for deprecatedglossary XML format.</li>
+<li>Save vocabulary tree in compressed binary.</li>
+<li>Began adding support for Chinese (still embryonary).</li>
+<li>Improved persistence management for keyboard accelerators.</li>
+<li>Save Quiz state (per language pair).</li>
+<li>Improved column width management for lists.</li>
+<li>Added Properties panel showing author, dates, and counters.</li>
+<li>Added Preferences option to hide Quiz's buttons.</li>
+<li>Added Maximize button for Quiz and Glossary Manager.</li>
+<li>Added missing digraphs.</li>
+<li>Put digraph definitions in a separate text file (/opt/Qtopia/lib/toMOTko/digraphs.conf).</li>
+<li>Compressed glossary files (using zlib).</li>
+<li>Added installation script that backup previous data.</li>
+<li>Various bug fixes.</li>
+</ul>
+<div class="historyScreenshots"
+<a href="../img/history/0.9.x/GlossaryManager.png"><img src="../img/history/0.9.x/GlossaryManager_small.png" width="320" height="240" alt="GlossaryManager"></img></a>
+<a href="../img/history/0.9.x/Quiz.png"><img src="../img/history/0.9.x/Quiz_small.png" width="320" height="240" alt="Quiz"></img></a>
+<a href="../img/history/0.9.x/PreferencesQuiz.png"><img src="../img/history/0.9.x/PreferencesQuiz_small.png" width="320" height="240" alt="Preferences - Quiz"></img></a>
+<a href="../img/history/0.9.x/PreferencesLanguages.png"><img src="../img/history/0.9.x/PreferencesLanguages_small.png" width="320" height="240" alt="Preferences - Languages"></img></a>
+<a href="../img/history/0.9.x/PreferencesFonts.png"><img src="../img/history/0.9.x/PreferencesFonts_small.png" width="320" height="240" alt="Preferences - Fonts"></img></a>
+<a href="../img/history/0.9.x/PreferencesInterface.png"><img src="../img/history/0.9.x/PreferencesInterface_small.png" width="320" height="240" alt="Preferences - Interface"></img></a>
+</div>
+                </td></tr>
+            </table>
+            <table id="releaseTable">
+                <h3>0.8.x</h3>
+                <tr><td>
+<p>Version 0.8.0 (2007-10-17)</p>
+<ul>
+<li>Added missing digraphs.</li>
+<li>Fixed comment update bug in the quiz.</li>
+<li>Fixed multiple terms deletion.</li>
+<li>Improved FileDialog for import/export feature.</li>
+<li>Improved menus' look with icons.</li>
+<li>Added keyboard accelerators.</li>
+<li>Show word count in congratulation message.</li>
+</ul>
+<div class="historyScreenshots"
+<a href="../img/history/0.8.x/GlossaryManager.png"><img src="../img/history/0.8.x/GlossaryManager_small.png" width="320" height="240" alt="GlossaryManager"></img></a>
+<a href="../img/history/0.8.x/Quiz.png"><img src="../img/history/0.8.x/Quiz_small.png" width="320" height="240" alt="Quiz"></img></a>
+<a href="../img/history/0.8.x/PreferencesQuiz.png"><img src="../img/history/0.8.x/PreferencesQuiz_small.png" width="320" height="240" alt="Preferences - Quiz"></img></a>
+<a href="../img/history/0.8.x/PreferencesLanguages.png"><img src="../img/history/0.8.x/PreferencesLanguages_small.png" width="320" height="240" alt="Preferences - Languages"></img></a>
+<a href="../img/history/0.8.x/PreferencesFonts.png"><img src="../img/history/0.8.x/PreferencesFonts_small.png" width="320" height="240" alt="Preferences - Fonts"></img></a>
+<a href="../img/history/0.8.x/PreferencesInterface.png"><img src="../img/history/0.8.x/PreferencesInterface_small.png" width="320" height="240" alt="Preferences - Interface"></img></a>
+</div>
+                </td></tr>
+            </table>
+            <table id="releaseTable">
+                <h3>0.7.x</h3>
+                <tr><td>
+<p>Version 0.7.0 (2007-09-07)</p>
+<ul>
+<li>Fixed duplicate folder id bug.</li>
+<li>Improved layout update for QuizFrame when changing font.</li>
+<li>Added Language Selection dialog box for import/export.</li>
+<li>Shortened some strings in Spanish to make them fit in Portrait mode.</li>
+<li>Save the state of expanded/collapsed tree nodes in Glossary Manager.</li>
+<li>Display Undefined string in gray when a glossary contains no word in a language shown in the list of terms in the Glossary Manager.</li>
+<li>Fixed lost selection bug when switching language or changing the state of the filter.</li>
+</ul>
+<div class="historyScreenshots"
+<a href="../img/history/0.7.x/GlossaryManager.png"><img src="../img/history/0.7.x/GlossaryManager_small.png" width="320" height="240" alt="GlossaryManager"></img></a>
+<a href="../img/history/0.7.x/Quiz.png"><img src="../img/history/0.7.x/Quiz_small.png" width="320" height="240" alt="Quiz"></img></a>
+<a href="../img/history/0.7.x/PreferencesQuiz.png"><img src="../img/history/0.7.x/PreferencesQuiz_small.png" width="320" height="240" alt="Preferences - Quiz"></img></a>
+<a href="../img/history/0.7.x/PreferencesLanguages.png"><img src="../img/history/0.7.x/PreferencesLanguages_small.png" width="320" height="240" alt="Preferences - Languages"></img></a>
+<a href="../img/history/0.7.x/PreferencesInterface.png"><img src="../img/history/0.7.x/PreferencesInterface_small.png" width="320" height="240" alt="Preferences - Interface"></img></a>
+</div>
+                </td></tr>
+            </table>
+            <table id="releaseTable">
+                <h3>0.6.x</h3>
+                <tr><td>
+<p>Version 0.6.0 (2007-08-18)</p>
+<ul>
+<li>Added built-in support for accents (digraphs).</li>
+<li>Added support for other languages.</li>
+<li>Added font overrides per language.</li>
+<li>Internationalized the interface in French, Spanish and Japanese (partially).</li>
+<li>Changed the data format from XML to binary for optimization (disk space and speed).</li>
+<li>Converted existing glossaries.</li>
+<li>Dropped very first glossary file format.</li>
+</ul>
+<div class="historyScreenshots"
+<a href="../img/history/0.6.x/GlossaryManager.png"><img src="../img/history/0.6.x/GlossaryManager_small.png" width="320" height="240" alt="GlossaryManager"></img></a>
+<a href="../img/history/0.6.x/Quiz.png"><img src="../img/history/0.6.x/Quiz_small.png" width="320" height="240" alt="Quiz"></img></a>
+<a href="../img/history/0.6.x/PreferencesQuiz.png"><img src="../img/history/0.6.x/PreferencesQuiz_small.png" width="320" height="240" alt="Preferences - Quiz"></img></a>
+<a href="../img/history/0.6.x/PreferencesLanguages.png"><img src="../img/history/0.6.x/PreferencesLanguages_small.png" width="320" height="240" alt="Preferences - Languages"></img></a>
+<a href="../img/history/0.6.x/PreferencesInterface.png"><img src="../img/history/0.6.x/PreferencesInterface_small.png" width="320" height="240" alt="Preferences - Interface"></img></a>
+</div>
+                </td></tr>
+            </table>
+            <table id="releaseTable">
+                <h3>0.5.x</h3>
+                <tr><td>
+<p>Version 0.5.0 (2007-06-17)</p>
+<ul>
+<li>Implemented (partially) Cut/Copy/Paste feature (works only for terms).</li>
+<li>Added font preferences.</li>
+<li>Implemented multiple words deletion.</li>
+<li>Optimized data saving when closing the application.</li>
+<li>Added buttons to check all terms of glossaryor inverse the selection.</li>
+<li>Improved application's icon.</li>
+</ul>
+<div class="historyScreenshots">
+<a href="../img/history/0.5.x/GlossaryManager.png"><img src="../img/history/0.5.x/GlossaryManager_small.png" width="320" height="240" alt="GlossaryManager"></img></a>
+<a href="../img/history/0.5.x/Quiz.png"><img src="../img/history/0.5.x/Quiz_small.png" width="320" height="240" alt="Quiz"></img></a>
+<a href="../img/history/0.5.x/Preferences.png"><img src="../img/history/0.5.x/Preferences_small.png" width="320" height="240" alt="Preferences"></img></a>
+</div>
+                </td></tr>
+            </table>
+            <table id="releaseTable">
+                <h3>0.4.x</h3>
+                <tr><td>
+<p>Version 0.4.2 (2007-04-14)</p>
+<ul>
+<li>Fixed crash bug when starting a quiz with no selected words.</li>
+<li>Show a dialog message when no files are importable.</li>
+</ul>
+<p>Version 0.4.1 (2007-04-08)</p>
+<ul>
+<li>Fixed launcher icon bug.</li>
+</ul>
+<p>Version 0.4.0 (2007-04-07)</p>
+<ul>
+<li>Implemented glossary Import/Export functionality.</li>
+<li>Optimized icons to XPM files.</li>
+<li>Added online help.</li>
+<li>Generated doxygen documentation.</li>
+<li>Improved Glossary Manager's portrait layout.</li>
+<li>Added Resume quiz feature.</li>
+<li>Inserted Quiz's completion progress bar.</li>
+<li>Fixed small bugs.</li>
+</ul>
+<div class="historyScreenshots">
+<a href="../img/history/0.4.x/GlossaryManager.png"><img src="../img/history/0.4.x/GlossaryManager_small.png" width="320" height="240" alt="GlossaryManager"></img></a>
+<a href="../img/history/0.4.x/Quiz.png"><img src="../img/history/0.4.x/Quiz_small.png" width="320" height="240" alt="Quiz"></img></a>
+<a href="../img/history/0.4.x/Preferences.png"><img src="../img/history/0.4.x/Preferences_small.png" width="320" height="240" alt="Preferences"></img></a>
+</div>
+                </td></tr>
+            </table>
+            <table id="releaseTable">
+                <h3>0.3.x</h3>
+                <tr><td>
+<p>Version 0.3.0 (2007-02-03)</p>
+<ul>
+<li>Implemented preferences dialog to specify quiz length and modes.</li> 
+<li>Improved the word selection for quiz. Except for the last word, the quiz should not ask the same word twice in a row.</li>
+<li>Fixed bug occurring with an empty quiz.</li>
+</ul>
+<div class="historyScreenshots">
+<a href="../img/history/0.3.x/GlossaryManager.png"><img src="../img/history/0.3.x/GlossaryManager_small.png" width="320" height="240" alt="GlossaryManager"></img></a>
+<a href="../img/history/0.3.x/Quiz.png"><img src="../img/history/0.3.x/Quiz_small.png" width="320" height="240" alt="Quiz"></img></a>
+</div>
+                </td></tr>
+            </table>
+            <table id="releaseTable">
+                <h3>0.2.x</h3>
+                <tr><td>
+<p>Version 0.2.0 (2007-01-04)</p>
+<ul>
+<li>Added a Glossary Manager that allows users to create more than one collection of words and to organize them in a hierarchical structure. It also features the ability to mark words for study instead of asking all the words.</li>
+</ul>
+<div class="historyScreenshots">
+<a href="../img/history/0.2.x/GlossaryManager.png"><img src="../img/history/0.2.x/GlossaryManager_small.png" width="320" height="240" alt="GlossaryManager"></img></a>
+<a href="../img/history/0.2.x/Quiz.png"><img src="../img/history/0.2.x/Quiz_small.png" width="320" height="240" alt="Quiz"></img></a>
+<a href="../img/history/0.2.x/Editor.png"><img src="../img/history/0.2.x/Editor_small.png" width="320" height="240" alt="Editor"></img></a>
+</div>
+                </td></tr>
+            </table>
+            <table id="releaseTable">
+                <h3>0.1.x</h3>
+                <tr><td>
+<p>Version 0.1.1 (2007-01-01)</p>
+<ul>
+<li>Bug fix : Escaped XML special characters <, > and & when saving data.</li>
+</ul>
+<p>Version 0.1.0 (2006-11-13)</p>
+<ul>
+<li>First release (good enough to learn a single list of words).</li>
+</ul>
+<div class="historyScreenshots">
+<a href="../img/history/0.1.x/Quiz.png"><img src="../img/history/0.1.x/Quiz_small.png" width="320" height="240" alt="Quiz"></img></a>
+<a href="../img/history/0.1.x/Editor.png"><img src="../img/history/0.1.x/Editor_small.png" width="320" height="240" alt="Editor"></img></a>
+</div>
+                </td></tr>
+            </table>
+        </div>
+        <div id="footer">
+            Last update: <!--#config timefmt="%Y-%m-%d; %H:%M %Z"--><!--#echo var="LAST_MODIFIED"-->;
+        </div>
+    </div>
+</body>
+</html>
+
+
+
