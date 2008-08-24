@@ -5,7 +5,7 @@ function showScreenshots() {
 
 function hideScreenshots() {
     $( 'div.historyScreenshots' ).fadeOut( 'slow' );
-    $( 'input#toggleShowHideScreenshotsButton' ).value( 'Show Screenshots' );
+    $( 'input#toggleShowHideScreenshotsButton' ).attr( 'value', 'Show Screenshots' );
 }
 
 function toggleScreenshots() {
