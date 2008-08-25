@@ -32,6 +32,8 @@
 <li>Reimplemented revealing sequence tool.</li>
 <li>Added Search tool.</li>
 <li>Added preferences option to show alt value in list of terms.</li>
+<li>Save preferences and marked items in compressed binary.</li>
+<li>Dropped support for legacy data format.</li>
 </ul>
 <div class="historyScreenshots"
 <a href="../img/history/0.11.x/GlossaryManager.png"><img src="../img/history/0.11.x/GlossaryManager_small.png" width="320" height="240" alt="GlossaryManager"></img></a>
