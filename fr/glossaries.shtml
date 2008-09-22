@@ -28,6 +28,101 @@
             </p>
             <table id="glossaryTable">
                 <tr colspan="2">
+                    <td class="glossaryTitle">Japanese for Busy People (vol. I &amp; II)</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Mots tirés des livres de Kodansha International 1994.
+                        </p><p>
+                        Ces glossaires sont en anglais et en japonais.
+                        </p>
+                        </div>
+                        <a href="../glossaries/JBP-I.zip"/>JBP-I.zip</a><br/>
+                        <a href="../glossaries/JBP-II.zip"/>JBP-II.zip</a>
+                        <div class="glossaryProviderLine">Suggéré par 
+                            <span class="glossaryProvider">Kurochka</span>;<br/> 
+                            Adapté par <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <br/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Japanese Now!</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Mots tirés du livres de University of Hawai Press, 1982.
+                        </p><p>
+                        Ce glossaire est en anglais et en japonais.
+                        </p>
+                        </div>
+                        <a href="../glossaries/JNI.zip"/>JNI.zip</a>
+                        <div class="glossaryProviderLine">Suggéré par 
+                            <span class="glossaryProvider">Kurochka</span>;<br/> 
+                            Adapté par <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <br/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Japanese for College Students: Basic</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Mots tirés du livres de Kodansha International 1996.
+                        </p><p>
+                        Ce glossaire est en anglais et en japonais.
+                        </p>
+                        </div>
+                        <a href="../glossaries/JCS.zip"/>JCS.zip</a>
+                        <div class="glossaryProviderLine">Suggéré par 
+                            <span class="glossaryProvider">Kurochka</span>;<br/> 
+                            Adapté par <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <br/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Vocabulaire pour le JLPT</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Liste des mots officiels pour le passage du test JLPT (4 niveaux).
+                        </p><p>
+                        Ces glossaires sont en anglais et en japonais.
+                        </p><p>
+                        Source: Copyright (C) 2001 Thierry Bézecourt (<a href="http://www.thbz.org">http://www.thbz.org</a>)</p>
+                        </div>
+                        <a href="../glossaries/JLPT.zip"/>JLPT.zip</a>
+                        <div class="glossaryProviderLine">Suggéré par 
+                            <span class="glossaryProvider">Kurochka</span>;<br/> 
+                            Originalement écrit par <span class="glossaryProvider">Thierry Bézecourt</span>;<br/>
+                            Adapté par <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <br/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
                     <td class="glossaryTitle">Gacha-San, le squelette</td>
                 </tr>
                 <tr>
@@ -221,31 +316,6 @@
                         <a href="../glossaries/JapanesePhrases.zip"/>JapanesePhrases.zip</a>
                         <div class="glossaryProviderLine">Soumis gracieusement par
                             <span class="glossaryProvider">Kurochka</span>.
-                        </div>
-                    </td>
-                    <td class="glossaryThumbnail" valign="top">
-                        <br/>
-                    </td>
-                </tr>
-            </table>
-            <table id="glossaryTable">
-                <tr colspan="2">
-                    <td class="glossaryTitle">Vocabulaire pour le JLPT</td>
-                </tr>
-                <tr>
-                    <td>
-                        <div class="glossaryDescription">
-                        <p>Liste des mots officiels pour le passage du test JLPT (4 niveaux).
-                        </p><p>
-                        Ces glossaires sont en anglais et en japonais.
-                        </p><p>
-                        Source: Copyright (C) 2001 Thierry Bézecourt (<a href="http://www.thbz.org">http://www.thbz.org</a>)</p>
-                        </div>
-                        <a href="../glossaries/JLPT.zip"/>JLPT.zip</a>
-                        <div class="glossaryProviderLine">Suggéré par 
-                            <span class="glossaryProvider">Kurochka</span>;<br/> 
-                            Originalement écrit par <span class="glossaryProvider">Thierry Bézecourt</span>;<br/>
-                            Adapté par <span class="glossaryProvider">Frédéric Bergeron</span>.
                         </div>
                     </td>
                     <td class="glossaryThumbnail" valign="top">
