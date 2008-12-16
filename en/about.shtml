@@ -21,6 +21,9 @@
             <p>
             toMOTko is a small Zaurus application for learning new vocabulary in a foreign language.
             </p><p>
+            Since version 0.11.1, toMOTko works also on Windows, at last!  A port for Linux and MacOS X
+            is also expected in the coming months.
+            </p><p>
             Since version 0.6.0, toMOTko supports several languages even though the default settings
             are for English speakers learning Japanese. 
             </p><p>
@@ -51,20 +54,21 @@
             in a hierarchical structure that is convenient to efficiently
             select or unselect groups of words to memorize/learn.  
             </p><p>
-            It presently works on Zaurus SL C-1000 PDA (Sharp ROM).  
+            It presently works on Zaurus SL C-1000 PDA (Sharp ROM) and Windows (since 0.11.1).  
             In theory, it should work on similar models (SL serie) as well as any computers with ARM-based 
             processor using Qt/Qtopia environment (but this has never been personally experimented
             and may require modifications in the source code).  If you have a different model, let me know
             (by email) if toMOTko works or not on it.
             </p><p>
-            The development is made on a machine running <a href="http://www.debian.org">Debian GNU/Linux (Etch)</a>
-            on which I installed Qt SDK to cross-compile and build the application.
+            The development is made on a dual-boot machine running <a href="http://www.debian.org">Debian GNU/Linux (Etch)</a>,
+            on which I installed Qt SDK to cross-compile and build the application, and Windows XP Professional, on which I
+            installed Qt-4.4.1 SDK (open source edition).
             </p><p>
             Features to implement :<br/>
             </p>
             <ul>
                 <li>Keep/restore state when quitting/starting the application.</li>
-                <li>Make it work for other platforms.</li>
+                <li>Make it work for Linux and MacOS X.</li>
                 <li>Some statistics (word count, percentage of success/misses, etc.)</li>
                 <li>Use the statistics to initialize the TermScheduler.</li>
                 <li>External web repository where people can upload/download glossary files.</li>
@@ -82,7 +86,7 @@
                 <li><a href="#">About</a></li>
                 <li><a href="screenshots.shtml">Screenshots</a></li>
                 <li><a href="glossaries.shtml">Glossaries</a></li>
-                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk">Download</a></li>
+                <li>Download <a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk"><img border="0" src="../img/zaurus.gif" width="19" height="13" alt="Zaurus version"/></a><a href="http://downloads.sourceforge.net/tomotko/toMOTko-<!--#include virtual="/version.txt"-->-Setup.exe"><img border="0" src="../img/win.gif" width="16" height="16" alt="Windows version"/></a></li>
                 <li><a href="../help/en/html/toMOTko.html">Online help</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">SourceForge Project page</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko/">SVN repository</a></li>

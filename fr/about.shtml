@@ -22,6 +22,9 @@
             toMOTko est une application utile pour mémoriser/apprendre du vocabulaire pour 
             une langue seconde.
             </p><p>
+            Depuis la version 0.11.1, toMOTko est désormais aussi disponible sur Windows.
+            Une version pour Linux et MacOS X est prévue dans les prochains mois.
+            </p><p>
             Depuis la version 0.6.0, toMOTko supporte plusieurs langues.
             Cependant, la configuration par défaut est pour les anglophones apprenant le japonais.
             </p><p>
@@ -59,14 +62,15 @@
             Qt/Qtopia.  Si vous disposez d'un autre modèle, je suis très curieux de savoir si toMOTko fonctionne
             ou pas dessus.  Faites m'en part par courriel svp.
             </p><p>
-            Le développement de l'application est fait une machine roulant <a href="http://www.debian.org">Debian GNU/Linux (Etch)</a>
-            où j'ai installé le SDK de Qt pour pouvoir cross-compiler et bâtir l'application.
+            Le développement de l'application est fait une machine "dual-boot" roulant <a href="http://www.debian.org">Debian GNU/Linux (Etch)</a>
+            où j'ai installé le SDK de Qt pour pouvoir cross-compiler et bâtir l'application et Windows XP Professional où j'ai installé
+            le SDK de Qt 4.4.1 (version open-source).
             </p><p>
             Voici une liste de fonctionnalités à implanter :<br/>
             </p>
             <ul>
                 <li>Conserver/rétablir l'état de l'application lorsqu'on la ferme/lance.</li>
-                <li>Faire fonctionner l'application sur d'autres plateformes.</li>
+                <li>Faire fonctionner l'application sur Linux et MacOS X.</li>
                 <li>Statistiques (nombres de mots dans les glossaires, pourcentage de succès et d'echecs, etc.)</li>
                 <li>Initialiser le répartiteur de mots en fonction des statistiques.</li>
                 <li>Banque de glossaires web pour permettre aux utilisateurs de partager leurs données.</li>
@@ -84,7 +88,7 @@
                 <li><a href="#">À propos</a></li>
                 <li><a href="screenshots.shtml">Aperçu</a></li>
                 <li><a href="glossaries.shtml">Glossaires</a></li>
-                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk">Télécharger</a></li>
+                <li>Télécharger <a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk"><img border="0" src="../img/zaurus.gif" width="19" height="13" alt="Version Zaurus"/></a><a href="http://downloads.sourceforge.net/tomotko/toMOTko-<!--#include virtual="/version.txt"-->-Setup.exe"><img border="0" src="../img/win.gif" width="16" height="16" alt="Version Windows"/></a></li>
                 <li><a href="../help/en/html/toMOTko.html">Aide en ligne</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">Page de projet SourceForge</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Code source</a></li>

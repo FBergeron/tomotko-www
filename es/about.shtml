@@ -22,6 +22,12 @@
             toMOTko es una aplicación útil para aprender/memorisar nuevo vocabulario 
             de un idioma estranjero.
             </p><p>
+            Desde la versión 0.11.1, toMOTko puede funccionar sobre Windows también.
+            Normalement, debería funccionar sobre Linux y MacOS X dentro de los proximos meses.
+            </p><p>
+            Desde la versión 0.6.0, es posible de aprendar varios idiomas con toMOTko.  Por defecto,
+            el inglés y el japonés estan seleccionados pero otros idiomas son disponibles.
+            </p><p>
             Estaba cansado de fabricar cartas y de llevarlas conmigo dentro el tren o
             el autobus.  
             Como tenía un Zaurus y que quería aprender la librería 
@@ -48,15 +54,16 @@
             En principio, debería funcionar también sobre los modelos similares (de la serie SL) asi
             que las maquinas con una arquitectura basada sobre un procesor ARM y usando Qt/Qtopia.
             </p><p>
-            El desarollo de la aplicación es hecho sobre una computadora usando 
+            El desarollo de la aplicación es hecho sobre una computadora "dual-boot" usando 
             <a href="http://www.debian.org">Debian GNU/Linux (Etch)</a>
-            donde instalé el SDK de Qt para "cross-compilar" y construirla.
+            donde instalé el SDK de Qt para "cross-compilar" y construirla, y Windows XP Profesional donde instalé
+            el SDK de Qt 4.4.1 (open-source).
             </p><p>
             Aquí está la lista de algunas funcionalidades planificadas :
             </p>
             <ul>
                 <li>Conservar/restablecer el estado de la aplicación cuando la cerra/abrera.</li>
-                <li>Migrar sobre otras plateformas (Windows, Linux, MacOS, ncurses, etc.)</li>
+                <li>Migrar sobre Linux y MacOS.</li>
                 <li>Introducir estadísticos varios.</li>
                 <li>Amejorar el algoritmo considerando los estadísticos.</li>
                 <li>Implementar una interface web permitiendo a los usuarios de compartir facilmente sus glosarios.</li>
@@ -74,7 +81,7 @@
                 <li><a href="#">A proposito</a></li>
                 <li><a href="screenshots.shtml">Screenshots</a></li>
                 <li><a href="glossaries.shtml">Glossarios</a></li>
-                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk">Descargar</a></li>
+                <li>Descargar <a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk"><img border="0" src="../img/zaurus.gif" width="19" height="13" alt="Zaurus"/></a><a href="http://downloads.sourceforge.net/tomotko/toMOTko-<!--#include virtual="/version.txt"-->-Setup.exe"><img border="0" src="../img/win.gif" width="16" height="16" alt="Windows"/></a></li>
                 <li><a href="../help/en/html/toMOTko.html">Ayuda</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">Pagina del proyecto SourceForge</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Código</a></li>

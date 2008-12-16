@@ -100,7 +100,7 @@
                 <li><a href="about.shtml">À propos</a></li>
                 <li><a href="#">Aperçu</a></li>
                 <li><a href="glossaries.shtml">Glossaires</a></li>
-                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk">Télécharger</a></li>
+                <li>Télécharger <a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk"><img border="0" src="../img/zaurus.gif" width="19" height="13" alt="Version Zaurus"/></a><a href="http://downloads.sourceforge.net/tomotko/toMOTko-<!--#include virtual="/version.txt"-->-Setup.exe"><img border="0" src="../img/win.gif" width="16" height="16" alt="Version Windows"/></a></li>
                 <li><a href="../help/en/html/toMOTko.html">Aide en ligne</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">Page de projet SourceForge</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Code source</a></li>
