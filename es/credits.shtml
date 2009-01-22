@@ -37,6 +37,8 @@
             <a href="http://www.456bereastreet.com/lab/developing_with_web_standards/csslayout/2-col/">código HTML/CSS</a>
             para implementar el sitio web de toMOTko.  Es sencillo pero bastante.
             </p><p>
+            Gracias a Christian Varga por la traducción en alemán de toMOTko.
+            </p><p>
             Gracias también a todos los usuarios de toMOTko por sus comentarios, sugestiones y mejoramientos 
             (especialmente a Scott Wallace, Ed Halley, Kurochka, Koan y Matthis).
             </p><p>
@@ -49,7 +51,7 @@
                 <li><a href="about.shtml">A proposito</a></li>
                 <li><a href="screenshots.shtml">Screenshots</a></li>
                 <li><a href="glossaries.shtml">Glossarios</a></li>
-                <li>Descargar <a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk"><img border="0" src="../img/zaurus.gif" width="19" height="13" alt="Zaurus"/></a><a href="http://downloads.sourceforge.net/tomotko/toMOTko-<!--#include virtual="/version.txt"-->-Setup.exe"><img border="0" src="../img/win.gif" width="16" height="16" alt="Windows"/></a></li>
+                <li>Descargar <a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk"><img border="0" src="../img/zaurus.gif" width="19" height="13" alt="Zaurus"/></a><a href="http://downloads.sourceforge.net/tomotko/toMOTko-<!--#include virtual="/version.txt"-->-Win32-Setup.exe"><img border="0" src="../img/win.gif" width="16" height="16" alt="Windows"/></a></li>
                 <li><a href="../help/en/html/toMOTko.html">Ayuda</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">Pagina del proyecto SourceForge</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Código</a></li>

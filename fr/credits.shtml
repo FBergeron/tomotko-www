@@ -38,6 +38,8 @@
             <a href="http://www.456bereastreet.com/lab/developing_with_web_standards/csslayout/2-col/">code</a>
             de mise en page du site.  Simple mais suffisant.
             </p><p>
+            Merci à Christian Varga pour la traduction de l'application en allemand.
+            </p><p>
             Merci aussi aux utilisateurs de toMOTko qui ont signalé des anomalies ou qui ont suggéré
             des améliorations (notamment Scott Wallace, Ed Halley, Kurochka, Koan et Matthis).
             </p><p>
@@ -50,7 +52,7 @@
                 <li><a href="about.shtml">À propos</a></li>
                 <li><a href="screenshots.shtml">Aperçu</a></li>
                 <li><a href="glossaries.shtml">Glossaires</a></li>
-                <li>Télécharger <a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk"><img border="0" src="../img/zaurus.gif" width="19" height="13" alt="Version Zaurus"/></a><a href="http://downloads.sourceforge.net/tomotko/toMOTko-<!--#include virtual="/version.txt"-->-Setup.exe"><img border="0" src="../img/win.gif" width="16" height="16" alt="Version Windows"/></a></li>
+                <li>Télécharger <a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk"><img border="0" src="../img/zaurus.gif" width="19" height="13" alt="Version Zaurus"/></a><a href="http://downloads.sourceforge.net/tomotko/toMOTko-<!--#include virtual="/version.txt"-->-Win32-Setup.exe"><img border="0" src="../img/win.gif" width="16" height="16" alt="Version Windows"/></a></li>
                 <li><a href="../help/en/html/toMOTko.html">Aide en ligne</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">Page de projet SourceForge</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Code source</a></li>
