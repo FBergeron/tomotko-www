@@ -4,12 +4,12 @@
 <html lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="Converters of toMOTko" />
-    <meta name="keywords" content="flashcard,japanese,learning,vocabulary,zaurus,converters,conversion" />
+    <meta name="description" content="Homepage of toMOTko" />
+    <meta name="keywords" content="flashcard,japanese,learning,vocabulary,zaurus" />
     <meta name="copyright" content="Copyright (c) 2006-2009 Frederic Bergeron" />
     <meta name="author" content="Frederic Bergeron" />
     <link rel="stylesheet" href="../default.css" type="text/css"/>
-    <title>toMOTko's data converters</title>
+    <title>toMOTko</title>
 </head>
 <body bgcolor="#ffffff">
     <div id="wrap">
@@ -17,28 +17,23 @@
             <img src="../img/tomotkoTitle.png" width="216" height="46" alt="toMOTko's title"/>
         </div>
         <div id="main">
-            <h2>Converters</h2>
+            <h2>Download</h2>
             <p>
-            This page contains some free services to convert your data file from
-            other flashcard applications.
+            toMOTko is available on many platforms.  Here is the list of links giving access to the last version.
             </p><p>
-            Other converters will be added if requested.
+            Before installing the application, it's recommended to read the 
+            <a href="https://sourceforge.net/project/shownotes.php?group_id=181531&release_id=664921">release notes</a>.
             </p>
-            <table id="converterTable">
-                <tr>
-                    <td class="converterTitle">MioFlash -> toMOTko</td>
-                </tr>
-                <tr>
-                    <td>
-                        <form action="../converters/mioflash2tomotko.php" method="post" enctype="multipart/form-data">
-                            <!-- MAX_FILE_SIZE must precede the file input field -->
-                            <input type="hidden" name="MAX_FILE_SIZE" value="2000000" />
-                          Enter your data file <input name="glossaryFile" type="file"/><br/>
-                          <input type="submit" value="Submit"/>
-                        </form>
-                    </td>
-                </tr>
-            </table>
+            <p><h3>Available platforms</h3></p>
+            <ul>
+                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version_arm.txt"-->_arm.ipk">Zaurus SL-C1000, etc.</a></li>
+                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko-<!--#include virtual="/version_win32.txt"-->-Win32-Setup.exe">Windows XP, Vista, etc.</a></li>
+                <li><a href="http://downloads.sourceforge.net/tomotko/tomotko-<!--#include virtual="/version_deb.txt"-->_i386.deb">Debian, Ubuntu, etc.</a></li>
+                <li><a href="http://downloads.sourceforge.net/tomotko/tomotko-<!--#include virtual="/version_rpm.txt"-->.i386.rpm">RedHat, Fedora, etc.</a></li>
+            </ul>
+            <p>
+            If needed, you can also access <a href="https://sourceforge.net/project/showfiles.php?group_id=181531">previous versions and other dependencies</a>.
+            </p>
         </div>
         <div id="sidebar">
             <img src="../img/logo.png" width="260" height="255" alt="toMOTko Logo"/>
@@ -46,12 +41,12 @@
                 <li><a href="about.shtml">About</a></li>
                 <li><a href="screenshots.shtml">Screenshots</a></li>
                 <li><a href="glossaries.shtml">Glossaries</a></li>
-                <li><a href="download.shtml">Download</a></li>
+                <li><a href="#">Download</a></li>
                 <li><a href="../help/en/html/toMOTko.html">Online help</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">SourceForge Project page</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko/">SVN repository</a></li>
                 <li><a href="../doc/html/index.html">Doxygen documentation</a></li>
-                <li><a href="#">Data converters</a>
+                <li><a href="converters.shtml">Data converters</a>
                 <li><a href="history.shtml">History</a>
                 <li><a href="credits.shtml">Credits</a></li>
             </ul>
@@ -62,4 +57,3 @@
     </div>
 </body>
 </html>
-

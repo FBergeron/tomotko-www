@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="description" content="History of toMOTko" />
     <meta name="keywords" content="flashcard,japanese,learning,vocabulary,zaurus,history" />
-    <meta name="copyright" content="Copyright (c) 2006 Frederic Bergeron" />
+    <meta name="copyright" content="Copyright (c) 2006-2009 Frederic Bergeron" />
     <meta name="author" content="Frederic Bergeron" />
     <link rel="stylesheet" href="../default.css" type="text/css"/>
     <script type="text/javascript" src="../jquery-1.2.6.min.js"></script>
@@ -26,7 +26,7 @@
             <table id="releaseTable">
                 <h3>0.11.x</h3>
                 <tr><td>
-<p>Version 0.11.2 for Linux! (2009-01-22)</p>
+<p>Version 0.11.2 for Linux! (2009-03-02)</p>
 <ul>
 <li>Ported the application on Linux and produced deb and rpm files.</li>
 <li>Translated the application in German.  Thanks to Christian Varga!</li>

@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="description" content="Sitio web de toMOTko" />
     <meta name="keywords" content="flashcard,idiomas,aprentisaje,vocabulario,zaurus" />
-    <meta name="copyright" content="Copyright (c) 2006 Frederic Bergeron" />
+    <meta name="copyright" content="Copyright (c) 2006-2009 Frederic Bergeron" />
     <meta name="author" content="Frederic Bergeron" />
     <link rel="stylesheet" href="../default.css" type="text/css"/>
     <title>toMOTko</title>
@@ -55,15 +55,16 @@
             que las maquinas con una arquitectura basada sobre un procesor ARM y usando Qt/Qtopia.
             </p><p>
             El desarollo de la aplicación es hecho sobre una computadora "dual-boot" usando 
-            <a href="http://www.debian.org">Debian GNU/Linux (Etch)</a>
+            <a href="http://www.debian.org">Debian GNU/Linux (Lenny)</a>
             donde instalé el SDK de Qt para "cross-compilar" y construirla, y Windows XP Profesional donde instalé
-            el SDK de Qt 4.4.1 (open-source).
+            el SDK de Qt 4.4.1 (open-source).  Uso también <a href="www.ubuntu.com">Ubuntu</a> y <a href="fedoraproject.org">Fedora</a>
+            dentro de <a href="www.virtualbox.org">Virtual Box</a>.
             </p><p>
             Aquí está la lista de algunas funcionalidades planificadas :
             </p>
             <ul>
                 <li>Conservar/restablecer el estado de la aplicación cuando la cerra/abrera.</li>
-                <li>Migrar sobre Linux y MacOS.</li>
+                <li>Migrar sobre Windows CE y MacOS.</li>
                 <li>Introducir estadísticos varios.</li>
                 <li>Amejorar el algoritmo considerando los estadísticos.</li>
                 <li>Implementar una interface web permitiendo a los usuarios de compartir facilmente sus glosarios.</li>
@@ -81,7 +82,7 @@
                 <li><a href="#">A proposito</a></li>
                 <li><a href="screenshots.shtml">Screenshots</a></li>
                 <li><a href="glossaries.shtml">Glossarios</a></li>
-                <li>Descargar <a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk"><img border="0" src="../img/zaurus.gif" width="19" height="13" alt="Zaurus"/></a><a href="http://downloads.sourceforge.net/tomotko/toMOTko-<!--#include virtual="/version.txt"-->-Win32-Setup.exe"><img border="0" src="../img/win.gif" width="16" height="16" alt="Windows"/></a></li>
+                <li><a href="download.shtml">Descargar</a></li>
                 <li><a href="../help/en/html/toMOTko.html">Ayuda</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">Pagina del proyecto SourceForge</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Código</a></li>

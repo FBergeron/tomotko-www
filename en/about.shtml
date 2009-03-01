@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="description" content="Homepage of toMOTko" />
     <meta name="keywords" content="flashcard,japanese,learning,vocabulary,zaurus" />
-    <meta name="copyright" content="Copyright (c) 2006 Frederic Bergeron" />
+    <meta name="copyright" content="Copyright (c) 2006-2009 Frederic Bergeron" />
     <meta name="author" content="Frederic Bergeron" />
     <link rel="stylesheet" href="../default.css" type="text/css"/>
     <title>toMOTko</title>
@@ -60,15 +60,16 @@
             and may require modifications in the source code).  If you have a different model, let me know
             (by email) if toMOTko works or not on it.
             </p><p>
-            The development is made on a dual-boot machine running <a href="http://www.debian.org">Debian GNU/Linux (Etch)</a>,
+            The development is made on a dual-boot machine running <a href="http://www.debian.org">Debian GNU/Linux (Lenny)</a>,
             on which I installed Qt SDK to cross-compile and build the application, and Windows XP Professional, on which I
-            installed Qt-4.4.1 SDK (open source edition).
+            installed Qt-4.4.1 SDK (open source edition). I also use <a href="www.ubuntu.com">Ubuntu</a> and <a href="fedoraproject.org">Fedora</a>
+            running inside <a href="www.virtualbox.org">Virtual Box</a>. 
             </p><p>
             Features to implement :<br/>
             </p>
             <ul>
                 <li>Keep/restore state when quitting/starting the application.</li>
-                <li>Make it work for Linux and MacOS X.</li>
+                <li>Make it work for Windows CE and MacOS X.</li>
                 <li>Some statistics (word count, percentage of success/misses, etc.)</li>
                 <li>Use the statistics to initialize the TermScheduler.</li>
                 <li>External web repository where people can upload/download glossary files.</li>
@@ -86,7 +87,7 @@
                 <li><a href="#">About</a></li>
                 <li><a href="screenshots.shtml">Screenshots</a></li>
                 <li><a href="glossaries.shtml">Glossaries</a></li>
-                <li>Download <a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk"><img border="0" src="../img/zaurus.gif" width="19" height="13" alt="Zaurus version"/></a><a href="http://downloads.sourceforge.net/tomotko/toMOTko-<!--#include virtual="/version.txt"-->-Win32-Setup.exe"><img border="0" src="../img/win.gif" width="16" height="16" alt="Windows version"/></a></li>
+                <li><a href="download.shtml">Download</a></li>
                 <li><a href="../help/en/html/toMOTko.html">Online help</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">SourceForge Project page</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko/">SVN repository</a></li>

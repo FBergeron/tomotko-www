@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="description" content="Screenshots of toMOTko" />
     <meta name="keywords" content="flashcard,japanese,learning,vocabulary,zaurus,screenshots" />
-    <meta name="copyright" content="Copyright (c) 2006 Frederic Bergeron" />
+    <meta name="copyright" content="Copyright (c) 2006-2009 Frederic Bergeron" />
     <meta name="author" content="Frederic Bergeron" />
     <link rel="stylesheet" href="../default.css" type="text/css"/>
     <title>toMOTko's screenshots</title>
@@ -100,7 +100,7 @@
                 <li><a href="about.shtml">About</a></li>
                 <li><a href="#">Screenshots</a></li>
                 <li><a href="glossaries.shtml">Glossaries</a></li>
-                <li>Download <a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version.txt"-->_arm.ipk"><img border="0" src="../img/zaurus.gif" width="19" height="13" alt="Zaurus version"/></a><a href="http://downloads.sourceforge.net/tomotko/toMOTko-<!--#include virtual="/version.txt"-->-Win32-Setup.exe"><img border="0" src="../img/win.gif" width="16" height="16" alt="Windows version"/></a></li>
+                <li><a href="download.shtml">Download</a></li>
                 <li><a href="../help/en/html/toMOTko.html">Online help</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">SourceForge Project page</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko/">SVN repository</a></li>

@@ -4,12 +4,12 @@
 <html lang="fr">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="Convertisseurs de toMOTko" />
-    <meta name="keywords" content="flashcard,japonais,apprentissage,vocabulaire,zaurus,convertisseurs,conversion" />
+    <meta name="description" content="Site web de toMOTko" />
+    <meta name="keywords" content="flashcard,japonais,apprentissage,vocabulaire,zaurus" />
     <meta name="copyright" content="Copyright (c) 2006-2009 Frederic Bergeron" />
     <meta name="author" content="Frederic Bergeron" />
     <link rel="stylesheet" href="../default.css" type="text/css"/>
-    <title>Convertisseurs de données pour toMOTko</title>
+    <title>toMOTko</title>
 </head>
 <body bgcolor="#ffffff">
     <div id="wrap">
@@ -17,28 +17,24 @@
             <img src="../img/tomotkoTitle.png" width="216" height="46" alt="Titre de toMOTko"/>
         </div>
         <div id="main">
-            <h2>Convertisseurs de données pour toMOTko</h2>
+            <h2>Téléchargement</h2>
             <p>
-            Cette page contient des outils de conversion de données permettant de réutiliser
-            les glossaires provenant d'autres applications similaires à toMOTko.
+            toMOTko est disponible sur plusieurs plateformes.   
+            Voici la liste des liens donnant accès à la dernière version.
             </p><p>
-            D'autres convertisseurs seront ajoutés à la demande.
+            Avant d'installer l'application, il est recommandé de
+            lire les <a href="https://sourceforge.net/project/shownotes.php?group_id=181531&release_id=664921">notes de publication</a>.
             </p>
-            <table id="converterTable">
-                <tr>
-                    <td class="converterTitle">MioFlash -> toMOTko</td>
-                </tr>
-                <tr>
-                    <td>
-                        <form action="../converters/mioflash2tomotko.php" method="post" enctype="multipart/form-data">
-                            <!-- MAX_FILE_SIZE must precede the file input field -->
-                            <input type="hidden" name="MAX_FILE_SIZE" value="2000000" />
-                          Entrez un fichier de données <input name="glossaryFile" type="file"/><br/>
-                          <input type="submit" value="Soumettre"/>
-                        </form>
-                    </td>
-                </tr>
-            </table>
+            <p><h3>Plateformes supportées</h3></p>
+            <ul>
+                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko_<!--#include virtual="/version_arm.txt"-->_arm.ipk">Zaurus SL-C1000, etc.</a></li>
+                <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko-<!--#include virtual="/version_win32.txt"-->-Win32-Setup.exe">Windows XP, Vista, etc.</a></li>
+                <li><a href="http://downloads.sourceforge.net/tomotko/tomotko-<!--#include virtual="/version_deb.txt"-->_i386.deb">Debian, Ubuntu, etc.</a></li>
+                <li><a href="http://downloads.sourceforge.net/tomotko/tomotko-<!--#include virtual="/version_rpm.txt"-->.i386.rpm">RedHat, Fedora, etc.</a></li>
+            </ul>
+            <p>
+            Si nécessaire, vous pouvez aussi accéder à la liste de <a href="https://sourceforge.net/project/showfiles.php?group_id=181531">toutes les versions et dépendances</a>.
+            </p>
         </div>
         <div id="sidebar">
             <img src="../img/logo.png" width="260" height="255" alt="Logo de toMOTko"/>
@@ -46,12 +42,12 @@
                 <li><a href="about.shtml">À propos</a></li>
                 <li><a href="screenshots.shtml">Aperçu</a></li>
                 <li><a href="glossaries.shtml">Glossaires</a></li>
-                <li><a href="download.shtml">Télécharger</a></li>
+                <li><a href="#">Télécharger</a></li>
                 <li><a href="../help/en/html/toMOTko.html">Aide en ligne</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">Page de projet SourceForge</a></li>
                 <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Code source</a></li>
                 <li><a href="../doc/html/index.html">Documentation Doxygen</a></li>
-                <li><a href="#">Convertisseurs de données</a>
+                <li><a href="converters.shtml">Convertisseurs de données</a>
                 <li><a href="history.shtml">Historique</a>
                 <li><a href="credits.shtml">Crédits</a></li>
             </ul>
