@@ -30,6 +30,7 @@
                 <li><a href="http://downloads.sourceforge.net/tomotko/toMOTko-<!--#include virtual="/version_win32.txt"-->-Win32-Setup.exe">Windows XP, Vista, etc.</a></li>
                 <li><a href="http://downloads.sourceforge.net/tomotko/tomotko-<!--#include virtual="/version_deb.txt"-->_i386.deb">Debian, Ubuntu, etc.</a></li>
                 <li><a href="http://downloads.sourceforge.net/tomotko/tomotko-<!--#include virtual="/version_rpm.txt"-->.i386.rpm">RedHat, Fedora, etc.</a></li>
+                <li><a href="http://downloads.sourceforge.net/tomotko/tomotko-<!--#include virtual="/version_wm60pro.txt"-->-WinCE-WM60Pro.zip">Windows Mobile 6 Professional</a></li>
             </ul>
             <p>
             If needed, you can also access <a href="https://sourceforge.net/project/showfiles.php?group_id=181531">previous versions and other dependencies</a>.
