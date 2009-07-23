@@ -371,6 +371,29 @@
             </table>
             <table id="glossaryTable">
                 <tr colspan="2">
+                    <td class="glossaryTitle">Historia del Rey Transparente</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Liste des mots dont j'ignorais la signification
+                        lors de ma lecture de ce roman fantaisiste de Rosa Montero.
+                        </p><p>
+                        Ces glossaires sont en français et en espagnol.
+                        </p>
+                        </div>
+                        <a href="../glossaries/HistoriaDelReyTransparente.zip"/>HistoriaDelReyTransparente.zip</a>
+                        <div class="glossaryProviderLine">Soumis par 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/HistoriaDelReyTransparente.png" width="66" height="100" alt="Couverture de Historia del Rey Transparente"/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
                     <td class="glossaryTitle">Glossaires Thaï</td>
                 </tr>
                 <tr>
@@ -411,6 +434,27 @@
                     </td>
                     <td class="glossaryThumbnail" valign="top">
                         <img src="../img/glossaries/HarrapsExpressMethod.png" width="62" height="100" alt="Couverture de la Methode express Harrap allemande"/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Szenen 1 : Introduction à l'allemand</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Liste de mots vus dans le livre Szenen 1 lors d'un cours d'introduction
+                        à l'allemand suivi au collège ouvert de l'université d'Aichi à Nagoya.</p>
+                        <p>Le livre est en japonais et allemand mais ces glossaires sont en français et allemand.</p> 
+                        </div>
+                        <a href="../glossaries/Szenen1.zip"/>Szenen1.zip</a><br />
+                        <div class="glossaryProviderLine">Soumis par 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/Szenen1.png" width="72" height="100" alt="Couverture du livre Szenen 1"/>
                     </td>
                 </tr>
             </table>

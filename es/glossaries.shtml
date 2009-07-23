@@ -361,6 +361,29 @@
             </table>
             <table id="glossaryTable">
                 <tr colspan="2">
+                    <td class="glossaryTitle">Historia del Rey Transparente</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Lista de palabras nuevas encontradas durante la lectura 
+                        de esta novela fantastica escrita por Rosa Montero.
+                        </p><p>
+                        Estos glosarios son en francés y en español.
+                        </p>
+                        </div>
+                        <a href="../glossaries/HistoriaDelReyTransparente.zip"/>HistoriaDelReyTransparente.zip</a>
+                        <div class="glossaryProviderLine">Mandato por 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/HistoriaDelReyTransparente.png" width="66" height="100" alt="Pagina cubierta de Historia del Rey Transparente"/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
                     <td class="glossaryTitle">Glosarios Thaï</td>
                 </tr>
                 <tr>
@@ -400,6 +423,27 @@
                     </td>
                     <td class="glossaryThumbnail" valign="top">
                         <img src="../img/glossaries/HarrapsExpressMethod.png" width="62" height="100" alt="Pagina cubierta del libro de Harrap para aprender Aleman"/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Szenen 1 : Introducción al Aleman</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Lista de palabras encontradas durante un curso de introducción al Aleman
+                        tomado al colegio abierto de la Universidad de Aichi en Nagoya.</p>
+                        <p>Aunque este libro es escrito en japonés y aleman, estos glosarios son en francés y en aleman.</p>
+                        </div>
+                        <a href="../glossaries/Szenen1.zip"/>Szenen1.zip</a><br />
+                        <div class="glossaryProviderLine">Mandatos por 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/Szenen1.png" width="72" height="100" alt="Pagina cubierta del libro de Szenen 1"/>
                     </td>
                 </tr>
             </table>

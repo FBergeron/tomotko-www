@@ -358,6 +358,28 @@
             </table>
             <table id="glossaryTable">
                 <tr colspan="2">
+                    <td class="glossaryTitle">Historia del Rey Transparente</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>List of words taken from this fantasy novel written by Rosa Montero.
+                        </p><p>
+                        These glossaries are in French and Spanish.
+                        </p>
+                        </div>
+                        <a href="../glossaries/HistoriaDelReyTransparente.zip"/>HistoriaDelReyTransparente.zip</a>
+                        <div class="glossaryProviderLine">Provided by 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/HistoriaDelReyTransparente.png" width="66" height="100" alt="Cover of Historia del Rey Transparente"/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
                     <td class="glossaryTitle">Thai Glossaries</td>
                 </tr>
                 <tr>
@@ -397,6 +419,29 @@
                     </td>
                     <td class="glossaryThumbnail" valign="top">
                         <img src="../img/glossaries/HarrapsExpressMethod.png" width="62" height="100" alt="Cover of Harrap's German Express Method"/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Szenen 1 : Introduction to German</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>List of words seen in the textbook Szenen 1 while taking
+                        introduction lessons for German language at the Open College of
+                        Aichi University in Nagoya.</p>
+                        <p>Even tought the textbook is written in Japanese and German, 
+                        these glossaries are in French and German.</p>
+                        </div>
+                        <a href="../glossaries/Szenen1.zip"/>Szenen1.zip</a><br />
+                        <div class="glossaryProviderLine">Provided by 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <img src="../img/glossaries/Szenen1.png" width="72" height="100" alt="Cover of Szenen 1 textbook"/>
                     </td>
                 </tr>
             </table>
