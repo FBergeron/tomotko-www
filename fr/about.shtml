@@ -22,11 +22,16 @@
             toMOTko est une application utile pour mémoriser/apprendre du vocabulaire pour 
             une langue seconde.
             </p><p>
-            Depuis la version 0.11.1, toMOTko est désormais aussi disponible sur Windows.
-            Une version pour Linux et MacOS X est prévue dans les prochains mois.
+            L'application est développée pour fonctionner sur un Zaurus SL-C1000 mais 
+            depuis la version 0.11.x, toMOTko est désormais aussi disponible sur d'autres
+            systèmes: Windows, Linux, MacOS, et théoriquement, Windows Mobile 6.0.
+            Concernant le dernier système, l'application fonctionne bien dans l'émulateur
+            mais j'ignore ce que ça donne vraiment en réalité car je ne dispose pas d'un
+            appareil utilisant ce système.
             </p><p>
             Depuis la version 0.6.0, toMOTko supporte plusieurs langues.
-            Cependant, la configuration par défaut est pour les anglophones apprenant le japonais.
+            La configuration initiale est ciblée pour les anglophones apprenant le japonais
+            mais il est possible de sélectionner d'autres langues dans les Préférences.
             </p><p>
             J'étais fatigué de fabriquer des flashcards et de toujours devoir les trainer avec moi
             (plutôt encombrant).  J'avais aussi tendance à associer les mots avec l'apparence des 
@@ -52,15 +57,17 @@
             un <a href="http://fr.wikipedia.org/wiki/Carte_m%C3%A9moire_%28apprentissage%29">Système Leitner</a>.
             L'algorithme n'est pas encore parfait mais il fonctionne suffisamment bien pour faciliter 
             l'apprentissage de nouveaux mots.
+            </p><p>
+            Depuis la version 0.12.x, un nouvel algorithme est disponible.  Il ѕ'agit de 
+            l'algorithme SuperMemo-2.  Cet algorithme est plus "intelligent" que l'algorithme
+            original.  Il tient compte du degré de facilité d'apprentissage d'un mot pour planifier
+            la prochaine fois qu'il sera posé.  Cette planification peut s'échelonner sur plusieurs
+            jours, voire mêmes plusieurs semaines.  L'intérêt de l'algorithme SM-2 est de passer
+            plus de temps à mémoriser les mots difficiles et moins de temps sur les mots faciles.
+            </p><p>
             L'application contient aussi un Gestionnaire de glossaires permettant à l'usager d'ajouter/enlever/éditer
             des groupes de mots dans une structure hiérarchique pratique pour la sélection ou déselection des
             mots à apprendre.
-            </p><p>
-            toMOTko fonctionne présentement sur les portables PDA Zaurus SL C-1000 (Sharp ROM).  
-            En principe, il devrait aussi fonctionner sur les modèles similaires (de la série SL) ainsi que
-            toute machine dont l'architecture est basée sur un processeur ARM et dont le système supporte
-            Qt/Qtopia.  Si vous disposez d'un autre modèle, je suis très curieux de savoir si toMOTko fonctionne
-            ou pas dessus.  Faites m'en part par courriel svp.
             </p><p>
             Le développement de l'application est fait une machine "dual-boot" roulant <a href="http://www.debian.org">Debian GNU/Linux (Lenny)</a>
             où j'ai installé le SDK de Qt pour pouvoir cross-compiler et bâtir l'application et Windows XP Professional où j'ai installé
@@ -70,11 +77,10 @@
             Voici une liste de fonctionnalités à implanter :<br/>
             </p>
             <ul>
+                <li>Faire fonctionner l'application sur le système Maemo pour les téléphones Nokia 810.</li>
                 <li>Conserver/rétablir l'état de l'application lorsqu'on la ferme/lance.</li>
-                <li>Faire fonctionner l'application sur Windows CE et MacOS X.</li>
                 <li>Statistiques (nombres de mots dans les glossaires, pourcentage de succès et d'echecs, etc.)</li>
-                <li>Initialiser le répartiteur de mots en fonction des statistiques.</li>
-                <li>Banque de glossaires web pour permettre aux utilisateurs de partager leurs données.</li>
+                <li>Banque de glossaires web dynamique pour permettre aux utilisateurs de partager leurs données.</li>
             </ul>
             <p>
             Vos commentaires, impressions et bugs sont les bienvenus.  Il est suggéré d'utiliser les forums/trackers

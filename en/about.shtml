@@ -21,11 +21,14 @@
             <p>
             toMOTko is a small Zaurus application for learning new vocabulary in a foreign language.
             </p><p>
-            Since version 0.11.1, toMOTko works also on Windows, at last!  A port for Linux and MacOS X
-            is also expected in the coming months.
+            The main platform on which toMOTko works is a Zaurus SL-C1000.  But since version 0.11.x,
+            the application also works on other systems: Windows, Linux, MacOS, and theoritically,
+            on Windows Mobile 6.x.  The latter has been tested successfully in the emulator but as 
+            I do not have a device running this system, I don't know for sure if it works well in
+            reality.
             </p><p>
             Since version 0.6.0, toMOTko supports several languages even though the default settings
-            are for English speakers learning Japanese. 
+            are for English speakers learning Japanese.  Other languages can be selected in the Preferences. 
             </p><p>
             toMOTko was born of need for a tool that could run on my 
             PDA and help me to learn/acquire new vocabulary 
@@ -50,15 +53,12 @@
             repetitively in a way 
             similar to <a href="http://en.wikipedia.org/wiki/Flashcard">Leitner System</a>.  
             The algorithm is not perfect yet but it's already good enough to facilitate new vocabulary acquisition.
-            It provides a Glossary Manager that allows the user to add/remove/edit words 
-            in a hierarchical structure that is convenient to efficiently
-            select or unselect groups of words to memorize/learn.  
             </p><p>
-            It presently works on Zaurus SL C-1000 PDA (Sharp ROM) and Windows (since 0.11.1).  
-            In theory, it should work on similar models (SL serie) as well as any computers with ARM-based 
-            processor using Qt/Qtopia environment (but this has never been personally experimented
-            and may require modifications in the source code).  If you have a different model, let me know
-            (by email) if toMOTko works or not on it.
+            Since version 0.12.x, a new algorithm is available.  It's called SuperMemo-2 (aka SM-2). SM-2 is
+            "smarter" than the original algorithm.  It takes into account the easiness factor of remembrance of
+            a word to schedule the next time it will be asked.  The next repetition can be schedules several days
+            (or even weeks) later.  The idea is to spend less time on words that well known and more time
+            on words that are hard to remember.
             </p><p>
             The development is made on a dual-boot machine running <a href="http://www.debian.org">Debian GNU/Linux (Lenny)</a>,
             on which I installed Qt SDK to cross-compile and build the application, and Windows XP Professional, on which I
@@ -68,11 +68,11 @@
             Features to implement :<br/>
             </p>
             <ul>
+                <li>Make it work on Maemo so that it may be used on Nokia 810 phones.</li>
                 <li>Keep/restore state when quitting/starting the application.</li>
-                <li>Make it work for Windows CE and MacOS X.</li>
                 <li>Some statistics (word count, percentage of success/misses, etc.)</li>
                 <li>Use the statistics to initialize the TermScheduler.</li>
-                <li>External web repository where people can upload/download glossary files.</li>
+                <li>External dynamic web repository where people can upload/download glossary files.</li>
             </ul>
             <p>
             Your comments, suggestions or bug reports are welcome.  

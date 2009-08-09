@@ -22,8 +22,10 @@
             toMOTko es una aplicación útil para aprender/memorisar nuevo vocabulario 
             de un idioma estranjero.
             </p><p>
-            Desde la versión 0.11.1, toMOTko puede funccionar sobre Windows también.
-            Normalement, debería funccionar sobre Linux y MacOS X dentro de los proximos meses.
+            La aplicación está desarollada para funccionar sobre un Zaurus SL-C1000 pero
+            desde la versión 0.11.x, toMOTko puede funccionar sobre otros sistemas: Windows, Linux y MacOS.
+            En theoria, debería funcionar también sobre Windows Mobile 6.x porque puedo usarla dentro del emulator.
+            No tengo machinas usando este sistema entoncés no estoy seguro.
             </p><p>
             Desde la versión 0.6.0, es posible de aprendar varios idiomas con toMOTko.  Por defecto,
             el inglés y el japonés estan seleccionados pero otros idiomas son disponibles.
@@ -47,12 +49,14 @@
             El algorithmo no es perfecto ya pero funciona bastante bien para facilitar el aprentisaje
             de palabras nuevas.
             </p><p>
+            Desde la versión 0.12.x, hay un nuevo algorithmo disponible llamado SuperMemo-2 (o SM-2).  
+            Este algorithmo es mas "inteligente" que el algorithmo original.  Considere el nivel de facilidad
+            de memorisar una palabra para determinar la proxima ves que sera pedida.  Para las palabras faciles,
+            puede tomar semanas antes de pedirlas otra vez más.  Para las palabras dificiles, tomara menos tiempo.
+            SM-2 permite pasar más tiempo sobre las palabras dificiles que las palabras faciles.
+            </p><p>
             La aplicación contiene un gestionario de glosarios que permite añadir/quitar/editar grupos de
             palabras en una estructura hierarjica practica para seleccionar las palabras a aprender.
-            </p><p>
-            toMOTko funciona sobra las computadoras portables de tipo Zaurus SL-C1000 (ROM Sharp).
-            En principio, debería funcionar también sobre los modelos similares (de la serie SL) asi
-            que las maquinas con una arquitectura basada sobre un procesor ARM y usando Qt/Qtopia.
             </p><p>
             El desarollo de la aplicación es hecho sobre una computadora "dual-boot" usando 
             <a href="http://www.debian.org">Debian GNU/Linux (Lenny)</a>
@@ -63,8 +67,8 @@
             Aquí está la lista de algunas funcionalidades planificadas :
             </p>
             <ul>
+                <li>Hacer funcionar la aplicación sobre Maemo par usarla sobre los telefonos Nokia 810.</li>
                 <li>Conservar/restablecer el estado de la aplicación cuando la cerra/abrera.</li>
-                <li>Migrar sobre Windows CE y MacOS.</li>
                 <li>Introducir estadísticos varios.</li>
                 <li>Amejorar el algoritmo considerando los estadísticos.</li>
                 <li>Implementar una interface web permitiendo a los usuarios de compartir facilmente sus glosarios.</li>
