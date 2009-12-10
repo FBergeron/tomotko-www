@@ -25,6 +25,8 @@
             Si vous voulez partager vos fichiers de glossaires, je vous invite à me les envoyer.
             Je les placerai dans cette page.  Je prévois implanter une interface web dynamique pour
             faciliter le partage des fichiers de glossaires mais pour le moment, je procède manuellement.
+            </p></p>
+            <p class="warning">Les fichiers de glossaires doivent être importés tels quels dans toMOTko (sans décompresser les fichiers .zip).</p>
             </p>
             <table id="glossaryTable">
                 <tr colspan="2">
@@ -463,6 +465,7 @@
             <img src="../img/logo.png" width="260" height="255" alt="Logo de toMOTko"/>
             <ul>
                 <li><a href="about.shtml">À propos</a></li>
+                <li><a href="http://sourceforge.net/apps/wordpress/tomotko/">Blog</a></li>
                 <li><a href="screenshots.shtml">Aperçu</a></li>
                 <li><a href="#">Glossaires</a></li>
                 <li><a href="download.shtml">Télécharger</a></li>

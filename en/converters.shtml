@@ -44,6 +44,7 @@
             <img src="../img/logo.png" width="260" height="255" alt="toMOTko Logo"/>
             <ul>
                 <li><a href="about.shtml">About</a></li>
+                <li><a href="http://sourceforge.net/apps/wordpress/tomotko/">Blog</a></li>
                 <li><a href="screenshots.shtml">Screenshots</a></li>
                 <li><a href="glossaries.shtml">Glossaries</a></li>
                 <li><a href="download.shtml">Download</a></li>

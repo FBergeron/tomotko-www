@@ -68,10 +68,8 @@
             Features to implement :<br/>
             </p>
             <ul>
-                <li>Make it work on Maemo so that it may be used on Nokia 810 phones.</li>
                 <li>Keep/restore state when quitting/starting the application.</li>
                 <li>Some statistics (word count, percentage of success/misses, etc.)</li>
-                <li>Use the statistics to initialize the TermScheduler.</li>
                 <li>External dynamic web repository where people can upload/download glossary files.</li>
             </ul>
             <p>
@@ -85,6 +83,7 @@
             <img src="../img/logo.png" width="260" height="255" alt="toMOTko Logo"/>
             <ul>
                 <li><a href="#">About</a></li>
+                <li><a href="http://sourceforge.net/apps/wordpress/tomotko/">Blog</a></li>
                 <li><a href="screenshots.shtml">Screenshots</a></li>
                 <li><a href="glossaries.shtml">Glossaries</a></li>
                 <li><a href="download.shtml">Download</a></li>

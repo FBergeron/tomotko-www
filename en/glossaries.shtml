@@ -25,6 +25,7 @@
             put them in this page.  I plan to provide a dynamic web interface to facilitate the
             sharing of the glossaries but meanwhile, I do it manually.
             </p>
+            <p class="warning">Important!  Do not decompress the zip files, import them directly into toMOTko.</p>
             <table id="glossaryTable">
                 <tr colspan="2">
                     <td class="glossaryTitle">Japanese for Busy People (vol. I &amp; II)</td>
@@ -450,6 +451,7 @@
             <img src="../img/logo.png" width="260" height="255" alt="toMOTko Logo"/>
             <ul>
                 <li><a href="about.shtml">About</a></li>
+                <li><a href="http://sourceforge.net/apps/wordpress/tomotko/">Blog</a></li>
                 <li><a href="screenshots.shtml">Screenshots</a></li>
                 <li><a href="#">Glossaries</a></li>
                 <li><a href="download.shtml">Download</a></li>

@@ -118,3 +118,8 @@ body {
     font-size: larger;
     text-decoration: underline;
 }
+
+.warning {
+    font-style: italic;
+    color: red;
+}

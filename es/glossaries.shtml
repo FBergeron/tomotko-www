@@ -26,6 +26,7 @@
             usar las funcionalidades de importación/exportación y mandarme sus datos.
             Cuando tendré el tiempo, los pondré en esta pagina para permitir el aceso a todos.
             </p>
+            <p class="warning">Importante!  No necesita extractar los archivos zip.  Debe importarlos directamente dentro toMOTko.</p>
             <table id="glossaryTable">
                 <tr colspan="2">
                     <td class="glossaryTitle">Japanese for Busy People (vol. I &amp; II)</td>
@@ -452,6 +453,7 @@
             <img src="../img/logo.png" width="260" height="255" alt="Logo de toMOTko"/>
             <ul>
                 <li><a href="about.shtml">A proposito</a></li>
+                <li><a href="http://sourceforge.net/apps/wordpress/tomotko/">Blog</a></li>
                 <li><a href="screenshots.shtml">Screenshots</a></li>
                 <li><a href="#">Glosarios</a></li>
                 <li><a href="download.shtml">Descargar</a></li>

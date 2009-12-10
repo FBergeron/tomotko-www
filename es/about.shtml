@@ -67,10 +67,8 @@
             Aquí está la lista de algunas funcionalidades planificadas :
             </p>
             <ul>
-                <li>Hacer funcionar la aplicación sobre Maemo par usarla sobre los telefonos Nokia 810.</li>
                 <li>Conservar/restablecer el estado de la aplicación cuando la cerra/abrera.</li>
                 <li>Introducir estadísticos varios.</li>
-                <li>Amejorar el algoritmo considerando los estadísticos.</li>
                 <li>Implementar una interface web permitiendo a los usuarios de compartir facilmente sus glosarios.</li>
             </ul>
             <p>
@@ -84,6 +82,7 @@
             <img src="../img/logo.png" width="260" height="255" alt="Logo de toMOTko"/>
             <ul>
                 <li><a href="#">A proposito</a></li>
+                <li><a href="http://sourceforge.net/apps/wordpress/tomotko/">Blog</a></li>
                 <li><a href="screenshots.shtml">Screenshots</a></li>
                 <li><a href="glossaries.shtml">Glossarios</a></li>
                 <li><a href="download.shtml">Descargar</a></li>
