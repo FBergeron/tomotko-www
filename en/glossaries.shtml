@@ -446,6 +446,30 @@
                     </td>
                 </tr>
             </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Nouns taken from På Vei</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>List of words taken from the beginners book På Vei for learning Norvegian.
+                        The glossary contains mainly nouns.</p>
+                        <p>The glossary is in English and Norvegian.</p>
+                        <p><b>Warning! Before importing this glossary, make sure that the Norwegian language
+                        appears in the list of Study Languages (in the Preferences).  Not all versions of toMOTko
+                        support this language yet.  Importing this glossary in this case will not work properly.</b></p>
+                        </div>
+                        <a href="../glossaries/NOUNS-Pa-Vei.zip"/>NOUNS-Pa-Vei.zip</a><br />
+                        <div class="glossaryProviderLine">Provided by 
+                            <span class="glossaryProvider">NTMH</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <br/>
+                    </td>
+                </tr>
+            </table>
         </div>
         <div id="sidebar">
             <img src="../img/logo.png" width="260" height="255" alt="toMOTko Logo"/>

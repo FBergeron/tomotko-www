@@ -460,6 +460,30 @@
                     </td>
                 </tr>
             </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Noms communs de På Vei</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Liste de mots tirés du livre pour débutants På Vei pour l'apprentissage de la langue norvégienne.
+                        Le présent glossaire contient des noms communs.</p>
+                        <p>Le glossaire est en anglais et norvégien.</p> 
+                        <p><b>Attention!  Avant d'importer ce glossaire dans toMOTko, assurez-vous que la langue norvégienne
+                        apparaisse dans la liste des langues supportées (dans les Préférences).  Certaines versions de toMOTko
+                        ne supportent pas encore cette langue et l'importation sera impossible.</b></p>
+                        </div>
+                        <a href="../glossaries/NOUNS-Pa-Vei.zip"/>NOUNS-Pa-Vei.zip</a><br />
+                        <div class="glossaryProviderLine">Soumis par 
+                            <span class="glossaryProvider">NTMH</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <br/>
+                    </td>
+                </tr>
+            </table>
         </div>
         <div id="sidebar">
             <img src="../img/logo.png" width="260" height="255" alt="Logo de toMOTko"/>

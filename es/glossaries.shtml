@@ -448,6 +448,30 @@
                     </td>
                 </tr>
             </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Nombres de På Vei</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>På Vei es un libro de introducción para aprender el idioma noruego.  
+                        Esto glosario contiene nombres comunes.</p>
+                        <p>Este glosario es en inglés y en noruego.</p>
+                        <p><b>Cuidado!  Antes de importar este glosario, Usted debe averificar si el idioma noruego se
+                        encuentra en la lista de los idiomas en las Preferencias.  Todas la versiones de toMOTko no 
+                        pueden usar este idioma y importar un tal glosario en este caso no functionará bien.</b></p>
+                        </div>
+                        <a href="../glossaries/NOUNS-Pa-Vei.zip"/>NOUNS-Pa-Vei.zip</a><br />
+                        <div class="glossaryProviderLine">Mandatos por 
+                            <span class="glossaryProvider">NTMH</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <br/>
+                    </td>
+                </tr>
+            </table>
         </div>
         <div id="sidebar">
             <img src="../img/logo.png" width="260" height="255" alt="Logo de toMOTko"/>
