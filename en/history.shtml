@@ -1,6 +1,6 @@
 <!DOCTYPE html 
     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-    "DTD/xhtml1-transitional.dtd">
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -26,6 +26,10 @@
             <table id="releaseTable">
                 <h3>0.11.x</h3>
                 <tr><td>
+<p>Version 0.11.2 for Maemo Diablo! (2009-10-05)</p>
+<ul>
+<li>Ported the application on Nokia phones N800 and N810.</li>
+</ul>
 <p>Version 0.11.2 for MacOS! (2009-05-24)</p>
 <ul>
 <li>Ported the application on MacOS.</li>
