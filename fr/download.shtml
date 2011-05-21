@@ -48,7 +48,7 @@
                 <li><a href="#">Télécharger</a></li>
                 <li><a href="../help/en/html/toMOTko.html">Aide en ligne</a></li>
                 <li><a href="http://sourceforge.net/projects/tomotko">Page de projet SourceForge</a></li>
-                <li><a href="http://tomotko.svn.sourceforge.net/viewvc/tomotko">Code source</a></li>
+                <li><a href="source.shtml">Code source</a></li>
                 <li><a href="../doc/html/index.html">Documentation Doxygen</a></li>
                 <li><a href="converters.shtml">Convertisseurs de données</a>
                 <li><a href="history.shtml">Historique</a>

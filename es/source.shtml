@@ -1,0 +1,30 @@
+<!DOCTYPE html 
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="Codigo de toMOTko" />
+    <meta name="keywords" content="flashcard,idiomas,apprentisaje,vocabulario,zaurus,codigo" />
+    <meta name="copyright" content="Copyright (c) 2006-2009 Frederic Bergeron" />
+    <meta name="author" content="Frederic Bergeron" />
+    <title>Código de toMOTko</title>
+</head>
+<body bgcolor="#ffffff">
+<p>
+El código de toMOTko se encuentra en quatro repositorios Git localizados en GitHub. Las direcciones son:<br />
+<ul>
+<li><a href="https://github.com/FBergeron/tomotko-zaurus">https://github.com/FBergeron/tomotko-zaurus</a></li>
+<li><a href="https://github.com/FBergeron/tomotko-qt4">https://github.com/FBergeron/tomotko-qt4</a></li>
+<li><a href="https://github.com/FBergeron/tomotko-fremantle">https://github.com/FBergeron/tomotko-fremantle</a></li>
+<li><a href="https://github.com/FBergeron/tomotko-www">https://github.com/FBergeron/tomotko-www</a></li>
+</ul>
+</p><p>
+El código se encontraba antes en un repositorio Subversion.  Este repositorio no está más utilizado pero puede ser consultado aqui:<br /><br />
+<a href="http://sourceforge.net/scm/?type=svn&group_id=181531">http://sourceforge.net/scm/?type=svn&group_id=181531</a>
+</p><p>
+La evolución del código puede ser visualizada aqui:<br /><br />
+<iframe title="YouTube video player" width="640" height="390" src="https://www.youtube.com/embed/Qu3BNZwfmvk?hd=1" frameborder="0" allowfullscreen></iframe>
+</p>
+</body>
+</html>
