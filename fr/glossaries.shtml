@@ -484,6 +484,46 @@
                     </td>
                 </tr>
             </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Comn_sdict05</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Liste de mots variés.</p>
+                        <p>Le glossaire est en anglais et en portuguais.</p> 
+                        </div>
+                        <a href="../glossaries/comn_sdict05_en-pt.zip"/>comn_sdict05_en-pt.zip</a><br />
+                        <div class="glossaryProviderLine">Soumis par 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <br/>
+                    </td>
+                </tr>
+            </table>
+            <table id="glossaryTable">
+                <tr colspan="2">
+                    <td class="glossaryTitle">Comn_sdict_axm05</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="glossaryDescription">
+                        <p>Liste de mots variés.</p>
+                        <p>Le glossaire est en anglais et en portuguais.</p> 
+                        </div>
+                        <a href="../glossaries/comn_sdict_axm05_en-pt.zip"/>comn_sdict_axm05_en-pt.zip</a><br />
+                        <div class="glossaryProviderLine">Soumis par 
+                            <span class="glossaryProvider">Frédéric Bergeron</span>.
+                        </div>
+                    </td>
+                    <td class="glossaryThumbnail" valign="top">
+                        <br/>
+                    </td>
+                </tr>
+            </table>
         </div>
         <div id="sidebar">
             <img src="../img/logo.png" width="260" height="255" alt="Logo de toMOTko"/>
