@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:complexType name="stats.type">
+        <xs:sequence>
+            <xs:element name="termData" type="termData.type" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="termData.type">
+        <xs:attribute name="biTransUidKey" type="xs:string" />
+        <xs:attribute name="interval" type="xs:integer" />
+        <xs:attribute name="repetition" type="xs:integer" />
+        <xs:attribute name="easinessFactor" type="xs:decimal" />
+        <xs:attribute name="nextRepetitionDate" type="xs:string" />
+        <xs:attribute name="lastRepetitionDate" type="xs:string" />
+        <xs:attribute name="successCount" type="xs:integer" />
+        <xs:attribute name="missCount" type="xs:integer" />
+    </xs:complexType>
+
+    <xs:element name="stats" type="stats.type/>
+
+</xs:schema>
