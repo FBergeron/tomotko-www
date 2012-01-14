@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+    targetNamespace="http://tomotko.sourceforge.net/xsd/stats-1.0"
+    xmlns="http://tomotko.sourceforge.net/xsd/stats-1.0" 
+    elementFormDefault="qualified"
+    attributeFormDefault="unqualified"
+    version="toMOTko_stats-1.0">
+
+    <xs:simpleType name="biUidKeyType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="\{[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}\}\|\{[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}\}" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="positiveIntegerType">
+        <xs:restriction base="xs:integer">
+            <xs:minInclusive value="0" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="positiveDecimalType">
+        <xs:restriction base="xs:decimal">
+            <xs:minInclusive value="0.0" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="statsType">
+        <xs:sequence>
+            <xs:element name="termData" type="termDataType" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="termDataType">
+        <xs:attribute name="biTransUidKey" type="biUidKeyType" />
+        <xs:attribute name="interval" type="positiveIntegerType" />
+        <xs:attribute name="repetition" type="positiveIntegerType" />
+        <xs:attribute name="easinessFactor" type="positiveDecimalType" />
+        <xs:attribute name="nextRepetitionDate" type="xs:date" />
+        <xs:attribute name="lastRepetitionDate" type="xs:date" />
+        <xs:attribute name="successCount" type="positiveIntegerType" />
+        <xs:attribute name="missCount" type="positiveIntegerType" />
+    </xs:complexType>
+
+    <xs:element name="stats" type="statsType"/>
+
+</xs:schema>
