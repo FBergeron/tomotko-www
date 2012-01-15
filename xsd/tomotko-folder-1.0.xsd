@@ -4,7 +4,7 @@
     xmlns="http://tomotko.sourceforge.net/xsd/folder-1.0" 
     elementFormDefault="qualified"
     attributeFormDefault="unqualified"
-    version="toMOTko-folder-1.0">
+    version="tomotko-folder-1.0">
 
     <xs:simpleType name="uidType">
         <xs:restriction base="xs:string">

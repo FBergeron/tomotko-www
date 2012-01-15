@@ -4,7 +4,7 @@
     xmlns="http://tomotko.sourceforge.net/xsd/stats-1.0" 
     elementFormDefault="qualified"
     attributeFormDefault="unqualified"
-    version="toMOTko_stats-1.0">
+    version="tomotko-stats-1.0">
 
     <xs:simpleType name="biUidKeyType">
         <xs:restriction base="xs:string">
@@ -12,13 +12,7 @@
         </xs:restriction>
     </xs:simpleType>
 
-    <xs:simpleType name="positiveIntegerType">
-        <xs:restriction base="xs:integer">
-            <xs:minInclusive value="0" />
-        </xs:restriction>
-    </xs:simpleType>
-
-    <xs:simpleType name="positiveDecimalType">
+    <xs:simpleType name="nonNegativeDecimalType">
         <xs:restriction base="xs:decimal">
             <xs:minInclusive value="0.0" />
         </xs:restriction>
@@ -32,13 +26,13 @@
 
     <xs:complexType name="termDataType">
         <xs:attribute name="biTransUidKey" type="biUidKeyType" />
-        <xs:attribute name="interval" type="positiveIntegerType" />
-        <xs:attribute name="repetition" type="positiveIntegerType" />
-        <xs:attribute name="easinessFactor" type="positiveDecimalType" />
+        <xs:attribute name="interval" type="xs:nonNegativeInteger" />
+        <xs:attribute name="repetition" type="xs:nonNegativeInteger" />
+        <xs:attribute name="easinessFactor" type="nonNegativeDecimalType" />
         <xs:attribute name="nextRepetitionDate" type="xs:date" />
         <xs:attribute name="lastRepetitionDate" type="xs:date" />
-        <xs:attribute name="successCount" type="positiveIntegerType" />
-        <xs:attribute name="missCount" type="positiveIntegerType" />
+        <xs:attribute name="successCount" type="xs:nonNegativeInteger" />
+        <xs:attribute name="missCount" type="xs:nonNegativeInteger" />
     </xs:complexType>
 
     <xs:element name="stats" type="statsType"/>
