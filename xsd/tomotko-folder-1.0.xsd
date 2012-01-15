@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+    targetNamespace="http://tomotko.sourceforge.net/xsd/folder-1.0"
+    xmlns="http://tomotko.sourceforge.net/xsd/folder-1.0" 
+    elementFormDefault="qualified"
+    attributeFormDefault="unqualified"
+    version="toMOTko-folder-1.0">
+
+    <xs:simpleType name="uidType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="\{[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}\}" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="folderType">
+        <xs:sequence>
+            <xs:element name="desc" type="xs:string" minOccurs="0" maxOccurs="1"/>
+        </xs:sequence>
+        <xs:attribute name="uid" type="uidType" />
+        <xs:attribute name="name" type="xs:string" />
+        <xs:attribute name="author" type="xs:string" />
+    </xs:complexType>
+
+    <xs:element name="folder" type="folderType"/>
+
+</xs:schema>
+
